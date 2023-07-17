@@ -1,0 +1,995 @@
+﻿Team,Distance,Schedule Type,League
+Brooklyn Nets,59315.36104639383,Planned,NBA
+Los Angeles Lakers,64527.6845592153,Planned,NBA
+Cleveland Cavaliers,52184.54892708725,Planned,NBA
+Indiana Pacers,57739.86078456347,Planned,NBA
+Orlando Magic,66502.44129432274,Planned,NBA
+Philadelphia 76ers,57878.45429726112,Planned,NBA
+Toronto Raptors,56061.62947294438,Planned,NBA
+Boston Celtics,65410.438785644124,Planned,NBA
+Chicago Bulls,54923.97352559765,Planned,NBA
+Memphis Grizzlies,61143.256812754174,Planned,NBA
+Minnesota Timberwolves,66262.8680798337,Planned,NBA
+Denver Nuggets,62646.78479977359,Planned,NBA
+Portland Trail Blazers,67173.56176447592,Planned,NBA
+Phoenix Suns,66466.70448698163,Planned,NBA
+Miami Heat,65308.909007008406,Planned,NBA
+Milwaukee Bucks,53540.45732735028,Planned,NBA
+Charlotte Hornets,49520.38049721599,Planned,NBA
+Detroit Pistons,53376.14593608512,Planned,NBA
+Washington Wizards,51813.71700770665,Planned,NBA
+New York Knicks,59972.10187629982,Planned,NBA
+San Antonio Spurs,60983.00273134036,Planned,NBA
+Utah Jazz,65478.8547276785,Planned,NBA
+Sacramento Kings,69121.35693833372,Planned,NBA
+Los Angeles Clippers,65279.40195977216,Planned,NBA
+New Orleans Pelicans,65395.09790387141,Planned,NBA
+Atlanta Hawks,53165.798533597306,Planned,NBA
+Oklahoma City Thunder,53653.88019549762,Planned,NBA
+Dallas Mavericks,61579.87239673662,Planned,NBA
+Houston Rockets,65897.94773628823,Planned,NBA
+Golden State Warriors,69985.65901285564,Planned,NBA
+all,1822310.1524244868,Planned,NBA
+Brooklyn Nets,59315.36104639383,Actual,NBA
+Los Angeles Lakers,64527.6845592153,Actual,NBA
+Cleveland Cavaliers,51843.73718024445,Actual,NBA
+Indiana Pacers,55925.05257024184,Actual,NBA
+Orlando Magic,70091.29883043923,Actual,NBA
+Philadelphia 76ers,57106.06156964434,Actual,NBA
+Toronto Raptors,56061.62947294438,Actual,NBA
+Boston Celtics,63829.40408164328,Actual,NBA
+Chicago Bulls,55799.633840390125,Actual,NBA
+Memphis Grizzlies,55097.74806164387,Actual,NBA
+Minnesota Timberwolves,66262.8680798337,Actual,NBA
+Denver Nuggets,65047.94748139202,Actual,NBA
+Portland Trail Blazers,67173.56176447592,Actual,NBA
+Phoenix Suns,66466.70448698163,Actual,NBA
+Miami Heat,64429.04354682349,Actual,NBA
+Milwaukee Bucks,53540.45732735028,Actual,NBA
+Charlotte Hornets,49520.38049721599,Actual,NBA
+Detroit Pistons,51138.28462893508,Actual,NBA
+Washington Wizards,52786.42004328709,Actual,NBA
+New York Knicks,59972.10187629982,Actual,NBA
+San Antonio Spurs,61779.69109908096,Actual,NBA
+Utah Jazz,65044.171426613546,Actual,NBA
+Sacramento Kings,71877.18320681938,Actual,NBA
+Los Angeles Clippers,65279.40195977216,Actual,NBA
+New Orleans Pelicans,64767.54807505551,Actual,NBA
+Atlanta Hawks,51285.32139531369,Actual,NBA
+Oklahoma City Thunder,53507.419073292935,Actual,NBA
+Dallas Mavericks,61579.87239673661,Actual,NBA
+Houston Rockets,65897.94773628823,Actual,NBA
+Golden State Warriors,72352.13982803228,Actual,NBA
+all,1819306.077142401,Actual,NBA
+Colorado Avalanche,27536.17101740747,Planned,NHL
+Edmonton Oilers,42855.5948042779,Planned,NHL
+Philadelphia Flyers,7844.745416281993,Planned,NHL
+Tampa Bay Lightning,29373.339841516605,Planned,NHL
+Toronto Maple Leafs,33695.6432193567,Planned,NHL
+Arizona Coyotes,20124.80441127683,Planned,NHL
+Buffalo Sabres,10748.362531742468,Planned,NHL
+Detroit Red Wings,21712.748522393245,Planned,NHL
+Los Angeles Kings,21517.6856480882,Planned,NHL
+New Jersey Devils,6457.518147384217,Planned,NHL
+Nashville Predators,17854.722438561857,Planned,NHL
+New York Rangers,6613.113654471717,Planned,NHL
+Vegas Golden Knights,24596.4751475046,Planned,NHL
+Winnipeg Jets,27515.87510232794,Planned,NHL
+Ottawa Senators,27907.82874990329,Planned,NHL
+Calgary Flames,30555.22342153257,Planned,NHL
+Florida Panthers,25129.396981478305,Planned,NHL
+Pittsburgh Penguins,9374.259901900132,Planned,NHL
+Anaheim Ducks,21153.83515653105,Planned,NHL
+New York Islanders,6622.316999045236,Planned,NHL
+St. Louis Blues,36670.80262452996,Planned,NHL
+Vancouver Canucks,38560.44110796992,Planned,NHL
+Boston Bruins,9664.24226806568,Planned,NHL
+Columbus Blue Jackets,19475.81633519862,Planned,NHL
+Chicago Blackhawks,19271.83227556013,Planned,NHL
+Dallas Stars,27921.585399339358,Planned,NHL
+Minnesota Wild,32861.50881367342,Planned,NHL
+Washington Capitals,9109.148525623135,Planned,NHL
+Carolina Hurricanes,20271.09333722972,Planned,NHL
+Montreal Canadiens,28897.6553406003,Planned,NHL
+San Jose Sharks,25707.318974990736,Planned,NHL
+all,687601.1061157632,Planned,NHL
+Colorado Avalanche,27540.819875241472,Actual,NHL
+Edmonton Oilers,37665.17498195616,Actual,NHL
+Philadelphia Flyers,7231.839678878979,Actual,NHL
+Tampa Bay Lightning,30694.83186031162,Actual,NHL
+Toronto Maple Leafs,33695.6432193567,Actual,NHL
+Arizona Coyotes,21907.123722856984,Actual,NHL
+Buffalo Sabres,11743.72440019193,Actual,NHL
+Detroit Red Wings,21712.748522393245,Actual,NHL
+Los Angeles Kings,21517.6856480882,Actual,NHL
+New Jersey Devils,8958.63131616365,Actual,NHL
+Nashville Predators,19373.66077603803,Actual,NHL
+New York Rangers,6856.971798826951,Actual,NHL
+Vegas Golden Knights,24596.4751475046,Actual,NHL
+Winnipeg Jets,27515.87510232794,Actual,NHL
+Ottawa Senators,32391.903687518905,Actual,NHL
+Calgary Flames,30555.22342153257,Actual,NHL
+Florida Panthers,24905.513590382856,Actual,NHL
+Pittsburgh Penguins,10361.07914567455,Actual,NHL
+Anaheim Ducks,23799.01445210313,Actual,NHL
+New York Islanders,7631.303987389137,Actual,NHL
+St. Louis Blues,42652.15835094642,Actual,NHL
+Vancouver Canucks,34091.15356679446,Actual,NHL
+Boston Bruins,9664.840380380405,Actual,NHL
+Columbus Blue Jackets,19475.81633519862,Actual,NHL
+Chicago Blackhawks,21162.54795704025,Actual,NHL
+Dallas Stars,29635.352590816805,Actual,NHL
+Minnesota Wild,33654.552597640875,Actual,NHL
+Washington Capitals,9866.772678031144,Actual,NHL
+Carolina Hurricanes,21185.54564909773,Actual,NHL
+Montreal Canadiens,28897.6553406003,Actual,NHL
+San Jose Sharks,25707.318974990736,Actual,NHL
+all,706648.9587562754,Actual,NHL
+Brooklyn Nets,57860.66825181475,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,55925.05257024185,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,65374.370035802945,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,56005.28341039955,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,55097.748061643884,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,67173.56176447592,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,64429.04354682349,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,53540.45732735029,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49851.21247787254,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,53081.45051365825,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,54125.87557031861,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,65358.64908515962,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,64767.54807505551,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,65897.94773628825,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+all,1822795.3750843008,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,59315.36104639384,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,55925.05257024185,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,63829.40408164328,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,55278.81131605138,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,55097.748061643884,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,67173.56176447592,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,64429.04354682349,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,53540.45732735029,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49520.38049721599,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,54288.639078765926,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,53679.155469299796,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,65358.64908515962,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,64767.54807505551,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,56763.25303655616,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,65897.94773628825,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+all,1828620.7537936943,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,57155.56728923108,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,55475.86490156918,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,65374.370035802945,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,56212.86156884035,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,55097.748061643884,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,67173.56176447592,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,68469.74006118688,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,53540.45732735029,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49588.25580376785,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,60563.82313618848,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,53596.039555475254,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,66328.30872243157,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,65358.64908515962,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,67491.47672207569,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,66833.87355105621,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,65897.94773628825,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+all,1845105.4884841212,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,57155.56728923108,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Los Angeles Lakers,64527.6845592153,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Cleveland Cavaliers,52334.73816047375,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Indiana Pacers,55475.86490156918,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Philadelphia 76ers,60639.59571186645,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Boston Celtics,65374.370035802945,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Chicago Bulls,56212.86156884035,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Memphis Grizzlies,65280.00371525589,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Minnesota Timberwolves,66262.8680798337,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Denver Nuggets,65047.947481392024,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Portland Trail Blazers,67173.56176447592,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Phoenix Suns,66466.70448698163,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Miami Heat,68469.74006118688,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Milwaukee Bucks,58620.47991422791,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Charlotte Hornets,49588.25580376785,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Detroit Pistons,60563.82313618848,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Washington Wizards,52995.32954731057,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+New York Knicks,59972.10187629982,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+San Antonio Spurs,66328.30872243157,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Utah Jazz,65044.17142661355,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Sacramento Kings,77473.56930599216,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+New Orleans Pelicans,67491.47672207569,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Atlanta Hawks,51285.321395313695,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Oklahoma City Thunder,54260.27637799107,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Dallas Mavericks,66833.87355105621,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Houston Rockets,65897.94773628825,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Golden State Warriors,71617.5839893849,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+all,1869826.3575842222,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Brooklyn Nets,59315.36104639384,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,52291.821519040976,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,55475.86490156918,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,63829.40408164328,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,55486.389474492185,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,55097.748061643884,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,67173.56176447592,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,68469.74006118688,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,53540.45732735029,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49520.38049721599,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,54288.639078765926,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,52805.66538236478,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,66328.30872243157,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,65358.64908515962,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,67491.47672207569,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,56763.25303655616,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,66833.87355105621,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,65897.94773628825,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+all,1844520.9824743778,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,59315.36104639384,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Los Angeles Lakers,64527.6845592153,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Cleveland Cavaliers,52291.821519040976,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Indiana Pacers,55475.86490156918,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Boston Celtics,65390.81075064838,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Chicago Bulls,57384.716669930705,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Memphis Grizzlies,66536.14011251701,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Minnesota Timberwolves,66262.8680798337,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Denver Nuggets,65047.947481392024,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Portland Trail Blazers,67173.56176447592,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Phoenix Suns,66466.70448698163,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Miami Heat,68469.74006118688,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Milwaukee Bucks,53540.45732735029,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Charlotte Hornets,49520.38049721599,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Detroit Pistons,54288.639078765926,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Washington Wizards,52805.66538236478,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+New York Knicks,59972.10187629982,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+San Antonio Spurs,66328.30872243157,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Utah Jazz,65358.64908515962,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Sacramento Kings,77473.56930599216,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+New Orleans Pelicans,67491.47672207569,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Atlanta Hawks,56763.25303655616,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Oklahoma City Thunder,53507.419073292935,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Dallas Mavericks,66833.87355105621,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Houston Rockets,65897.94773628825,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Golden State Warriors,72352.13982803228,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+all,1865015.4944888672,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Brooklyn Nets,60765.622167028676,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,75579.45847675388,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,56485.807876940176,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,88721.18587802866,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,60084.752740750766,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,55218.494166706456,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,67435.80292328369,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,67789.52205776892,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,67635.32890641142,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,68329.1795181905,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,72503.27153092355,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,61358.72434322106,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49851.21247787254,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,54722.44003037419,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,56948.98293345188,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,75499.88794316424,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,75416.61068514566,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,67863.02150173877,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,55410.36114793893,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,62967.26586177307,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,68758.47874460138,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+all,1914382.2392851925,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,61365.966134879294,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,75579.45847675388,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,56485.807876940176,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,90296.38963842418,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,57681.37765806769,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,55218.494166706456,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,67435.80292328369,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,67789.52205776892,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,67635.32890641142,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,68329.1795181905,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,72503.27153092355,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,61358.72434322106,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49320.77324683359,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,52779.27414565101,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,55971.82360139412,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,75499.88794316424,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,75416.61068514566,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,67863.02150173877,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,56763.25303655616,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,55410.36114793893,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,68758.47874460138,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+all,1915528.741497789,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,59162.318596782985,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,72886.45956073755,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,56485.807876940176,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,88642.1030578449,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,59025.92765252624,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,55760.10155325975,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,67435.80292328369,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,67808.81717079337,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,67635.32890641142,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,70775.30456524454,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,72503.27153092355,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,61799.626008410836,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49588.25580376785,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,57890.17216492061,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,55888.70768756957,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,73725.00393759437,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,78233.0553698557,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,67863.02150173877,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,57313.30322258494,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,66809.84256892082,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+all,1913848.9314299722,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,61706.7966862144,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Los Angeles Lakers,73622.50250683461,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Cleveland Cavaliers,51843.73718024445,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Indiana Pacers,55068.65756216731,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Orlando Magic,70631.52249380213,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Toronto Raptors,57413.659009396484,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Boston Celtics,88642.1030578449,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Chicago Bulls,58073.02487030519,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Memphis Grizzlies,55218.494166706456,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Minnesota Timberwolves,67435.80292328369,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Denver Nuggets,69512.12463705342,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Portland Trail Blazers,67635.32890641142,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Phoenix Suns,72144.46293970117,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Miami Heat,75357.02621214974,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Milwaukee Bucks,61799.626008410836,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Charlotte Hornets,49588.25580376785,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Detroit Pistons,63222.8432510993,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Washington Wizards,59079.20439406409,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+New York Knicks,59972.10187629982,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+San Antonio Spurs,66328.30872243157,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Utah Jazz,73716.30365734563,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Sacramento Kings,75416.61068514566,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+New Orleans Pelicans,64767.54807505551,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Atlanta Hawks,51285.321395313695,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Oklahoma City Thunder,57313.30322258494,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Dallas Mavericks,61579.87239673661,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Houston Rockets,69561.42031106236,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Golden State Warriors,71617.5839893849,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+all,1931939.0104702346,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Brooklyn Nets,61300.485134306,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,72886.45956073755,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,56380.2033352017,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,88678.17180768609,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,57681.37765806769,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,55760.10155325975,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,67435.80292328369,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,67808.81717079337,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,67635.32890641142,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,70358.36375537679,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,72503.27153092355,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,61799.626008410836,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49520.38049721599,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,55929.62859548186,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,55971.82360139412,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,72335.92797616818,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,77429.07057651371,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,67863.02150173877,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,57313.30322258494,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,66809.84256892082,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+all,1910752.263492985,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,66150.09601040464,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Los Angeles Lakers,77042.27371823744,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Cleveland Cavaliers,52291.821519040976,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Indiana Pacers,59711.60841081915,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Orlando Magic,70091.29883043923,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Philadelphia 76ers,57106.06156964434,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Toronto Raptors,57413.659009396484,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Boston Celtics,86625.29463359492,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Chicago Bulls,55857.740461397596,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Memphis Grizzlies,55760.10155325975,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Minnesota Timberwolves,67435.80292328369,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Denver Nuggets,67808.81717079337,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Portland Trail Blazers,67846.24151927525,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Phoenix Suns,70571.95801875436,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Miami Heat,75357.02621214974,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Milwaukee Bucks,61799.626008410836,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Charlotte Hornets,49520.38049721599,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Detroit Pistons,59097.360730028275,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Washington Wizards,60404.75310596957,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+New York Knicks,67866.96948758964,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+San Antonio Spurs,66328.30872243157,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Utah Jazz,73716.30365734563,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Sacramento Kings,77429.07057651371,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Los Angeles Clippers,65279.40195977216,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+New Orleans Pelicans,64767.54807505551,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Atlanta Hawks,54689.80550486424,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Oklahoma City Thunder,57313.30322258494,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Dallas Mavericks,61579.87239673661,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Houston Rockets,67629.34846422315,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Golden State Warriors,72352.13982803228,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+all,1946843.993797265,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Brooklyn Nets,57860.66825181475,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,55925.05257024185,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,65374.370035802945,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,56005.28341039955,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,55097.748061643884,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,67173.56176447592,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,64429.04354682349,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,53540.45732735029,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49851.21247787254,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,53081.45051365825,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,54125.87557031861,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,65358.64908515962,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,64767.54807505551,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,65897.94773628825,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+all,1822795.3750843008,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,59315.36104639384,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,55925.05257024185,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,63829.40408164328,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,55278.81131605138,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,55097.748061643884,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,67173.56176447592,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,64429.04354682349,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,53540.45732735029,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49520.38049721599,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,54288.639078765926,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,53679.155469299796,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,65358.64908515962,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,64767.54807505551,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,56763.25303655616,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,65897.94773628825,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+all,1828620.7537936943,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,56704.93486519875,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,54719.63112155476,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,55475.86490156918,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,65009.1966316748,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,56212.86156884035,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,55097.748061643884,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,67173.56176447592,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,68469.74006118688,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,53540.45732735029,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49588.25580376785,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,60563.82313618848,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,53596.039555475254,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,66328.30872243157,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,65358.64908515962,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,65416.72013098288,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,63299.27567669566,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,65897.94773628825,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+all,1841556.2221318176,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,59048.41907591833,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Los Angeles Lakers,64527.6845592153,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Cleveland Cavaliers,55210.63210178406,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Indiana Pacers,55475.86490156918,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Orlando Magic,69075.15575363301,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Boston Celtics,65009.1966316748,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Chicago Bulls,56212.86156884035,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Memphis Grizzlies,65280.00371525589,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Minnesota Timberwolves,67704.12119907739,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Denver Nuggets,63924.249133690784,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Portland Trail Blazers,67173.56176447592,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Miami Heat,68469.74006118688,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Milwaukee Bucks,58620.47991422791,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Charlotte Hornets,49588.25580376785,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Detroit Pistons,60563.82313618848,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Washington Wizards,52995.32954731057,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+San Antonio Spurs,66328.30872243157,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Utah Jazz,65044.17142661355,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Sacramento Kings,77473.56930599216,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+New Orleans Pelicans,65416.72013098288,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Atlanta Hawks,51285.321395313695,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Oklahoma City Thunder,53507.419073292935,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Dallas Mavericks,63299.27567669566,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Houston Rockets,65897.94773628825,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Golden State Warriors,71617.5839893849,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+all,1863635.5956904544,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Brooklyn Nets,59315.36104639384,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,52291.821519040976,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,55475.86490156918,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,64969.877484741955,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,55486.389474492185,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,55097.748061643884,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,67173.56176447592,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,68469.74006118688,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,53540.45732735029,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49520.38049721599,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,54288.639078765926,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,52805.66538236478,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,66328.30872243157,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,65358.64908515962,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,65416.72013098288,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,56763.25303655616,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,63299.27567669566,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,65897.94773628825,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+all,1840052.101412023,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,59315.36104639384,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Los Angeles Lakers,64527.6845592153,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Cleveland Cavaliers,55167.71546035129,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Indiana Pacers,55475.86490156918,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Orlando Magic,69075.15575363301,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Boston Celtics,66531.28415374705,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Chicago Bulls,57384.716669930705,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Memphis Grizzlies,66536.14011251701,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Minnesota Timberwolves,67704.12119907739,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Denver Nuggets,63924.249133690784,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Portland Trail Blazers,67173.56176447592,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Miami Heat,68469.74006118688,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Milwaukee Bucks,53540.45732735029,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Charlotte Hornets,49520.38049721599,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Detroit Pistons,59937.51734220594,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Washington Wizards,52805.66538236478,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+San Antonio Spurs,66328.30872243157,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Utah Jazz,65358.64908515962,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Sacramento Kings,77473.56930599216,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+New Orleans Pelicans,65416.72013098288,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Atlanta Hawks,56763.25303655616,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Oklahoma City Thunder,53507.419073292935,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Dallas Mavericks,62361.77281240993,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Houston Rockets,65897.94773628825,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Golden State Warriors,72352.13982803228,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+all,1867435.2944617134,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Brooklyn Nets,58999.56690005972,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,65673.79589984058,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,54311.55460427354,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,59059.9597838398,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,72252.47396513128,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,63586.5742228861,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,65097.44572336988,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,65374.370035802945,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,56274.54699935467,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,57321.74200433242,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,73410.5538823222,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,69124.8183471162,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,50649.18140655321,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49851.21247787254,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,56101.77844332901,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,54125.87557031861,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,65358.64908515962,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,77542.5426991957,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,56763.25303655616,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,62967.26586177307,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,66323.30573483201,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,73082.20701103697,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+all,1883445.990958429,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,60454.25969463881,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,65673.79589984058,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,54311.55460427354,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,59059.9597838398,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,72252.47396513128,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,63586.5742228861,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,63159.604106942694,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,65410.438785644124,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,56446.437268582304,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,57321.74200433242,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,65047.947481392024,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,73410.5538823222,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,69124.8183471162,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,50680.53949028635,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49520.38049721599,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,54288.639078765926,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,53679.155469299796,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,65358.64908515962,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,77542.5426991957,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,56763.25303655616,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,53507.419073292935,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,66323.30573483201,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,74822.44981154628,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+all,1880964.3171286173,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,60765.622167028676,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,75579.45847675388,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,55532.01873009066,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,88721.18587802866,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,60084.752740750766,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,55218.494166706456,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,67435.80292328369,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,67789.52205776892,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,70106.26549650369,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,68329.1795181905,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,72503.27153092355,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,61358.72434322106,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49851.21247787254,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,54722.44003037419,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,56948.98293345188,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,75499.88794316424,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,75416.61068514566,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,67863.02150173877,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,55410.36114793893,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,62967.26586177307,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,68758.47874460138,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+all,1915899.386728435,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,63844.96322373742,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,72886.45956073755,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,55532.01873009066,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,90296.38963842418,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,57681.37765806769,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,55218.494166706456,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,67435.80292328369,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,69255.2173622021,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,70106.26549650369,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,68329.1795181905,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,72503.27153092355,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,61358.72434322106,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49320.77324683359,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,55929.62859548186,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,55971.82360139412,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,75499.88794316424,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,75416.61068514566,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,67863.02150173877,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,56763.25303655616,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,55798.963435580124,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,68758.47874460138,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+all,1921836.5391557787,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,60413.54176517933,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,75579.45847675388,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,58059.25238210163,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,86668.3087039375,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,63124.94782707475,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,55218.494166706456,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,67435.80292328369,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,67789.52205776892,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,70106.26549650369,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,75326.25530029475,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,72503.27153092355,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,61799.626008410836,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,49588.25580376785,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,54722.44003037419,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,55888.70768756957,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,73808.10622537046,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,75416.61068514566,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,64767.54807505551,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,55410.36114793893,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,69561.42031106238,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+all,1919804.8963750838,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,61467.451383450214,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Los Angeles Lakers,77042.27371823744,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Indiana Pacers,55082.831061418,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Boston Celtics,88642.1030578449,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Chicago Bulls,57866.194125417926,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Memphis Grizzlies,55218.494166706456,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Minnesota Timberwolves,67435.80292328369,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Denver Nuggets,67808.81717079337,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Portland Trail Blazers,67846.24151927525,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Phoenix Suns,73493.65690621042,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Miami Heat,75357.02621214974,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Milwaukee Bucks,61799.626008410836,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Charlotte Hornets,49588.25580376785,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Detroit Pistons,63763.574808485915,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Washington Wizards,62922.779326993215,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+New York Knicks,67866.96948758964,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+San Antonio Spurs,66328.30872243157,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Utah Jazz,73716.30365734563,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Sacramento Kings,75416.61068514566,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+New Orleans Pelicans,64767.54807505551,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Atlanta Hawks,51285.321395313695,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Oklahoma City Thunder,57313.30322258494,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Dallas Mavericks,61579.87239673661,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Houston Rockets,67589.71860651408,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Golden State Warriors,71617.5839893849,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+all,1943198.7974435918,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA
+Brooklyn Nets,61300.485134306,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,73622.50250683461,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,55412.2406891015,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56061.62947294438,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,88243.51246433302,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,56804.23532702917,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,55218.494166706456,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,67435.80292328369,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,67808.81717079337,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,70106.26549650369,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,71727.52212983342,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,72503.27153092355,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,61799.626008410836,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,49520.38049721599,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,55929.62859548186,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,55971.82360139412,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,73808.10622537046,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,75416.61068514566,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,64767.54807505551,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,51285.321395313695,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,57313.30322258494,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,61579.87239673661,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,69561.42031106238,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+all,1911622.8523698782,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA
+Brooklyn Nets,62275.43168908968,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Los Angeles Lakers,78382.81326579142,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Cleveland Cavaliers,52291.821519040976,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Indiana Pacers,59711.60841081915,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Orlando Magic,70091.29883043923,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Toronto Raptors,57999.47108937157,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Boston Celtics,86625.29463359492,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Chicago Bulls,56305.49861452691,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Memphis Grizzlies,55218.494166706456,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Minnesota Timberwolves,67435.80292328369,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Denver Nuggets,67808.81717079337,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Portland Trail Blazers,67846.24151927525,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Phoenix Suns,71727.52212983342,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Miami Heat,75357.02621214974,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Milwaukee Bucks,61799.626008410836,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Charlotte Hornets,49520.38049721599,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Detroit Pistons,59097.360730028275,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Washington Wizards,54468.79343871223,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+San Antonio Spurs,66072.75483999564,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Utah Jazz,73725.00393759437,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Sacramento Kings,75416.61068514566,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Los Angeles Clippers,65279.40195977216,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+New Orleans Pelicans,64767.54807505551,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Atlanta Hawks,54689.80550486424,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Oklahoma City Thunder,57313.30322258494,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Dallas Mavericks,61579.87239673661,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Houston Rockets,66809.84256892082,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Golden State Warriors,72352.13982803228,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+all,1929047.7493137298,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA
+Brooklyn Nets,62389.592329239356,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Indiana Pacers,58865.79391014979,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Orlando Magic,68170.1712843903,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Toronto Raptors,56510.61443195623,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Boston Celtics,65374.370035802945,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Chicago Bulls,56005.28341039955,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Memphis Grizzlies,54422.71417286515,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Minnesota Timberwolves,66262.8680798337,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Denver Nuggets,67715.02280195635,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Portland Trail Blazers,68792.62269375104,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Miami Heat,62979.47886386524,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Milwaukee Bucks,56514.29259774329,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Charlotte Hornets,56509.173425967776,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Detroit Pistons,52951.42399349817,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Washington Wizards,55107.38632337356,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Utah Jazz,66655.92247856098,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Los Angeles Clippers,64041.371173665146,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+New Orleans Pelicans,64767.54807505551,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Atlanta Hawks,50129.46548252729,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Oklahoma City Thunder,52560.18364735891,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Dallas Mavericks,65594.26643893287,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Houston Rockets,68758.47874460138,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Golden State Warriors,71617.5839893849,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+all,1846268.7923631654,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA
+Brooklyn Nets,61559.75857629586,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Lakers,64527.6845592153,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Cleveland Cavaliers,51843.73718024445,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Indiana Pacers,58865.79391014979,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Orlando Magic,68170.1712843903,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Philadelphia 76ers,57106.06156964434,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Toronto Raptors,56510.61443195623,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Boston Celtics,63829.40408164328,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Chicago Bulls,55278.81131605138,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Memphis Grizzlies,54422.71417286515,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Minnesota Timberwolves,64618.734046446065,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Denver Nuggets,67715.02280195635,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Portland Trail Blazers,68792.62269375104,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Phoenix Suns,66466.70448698163,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Miami Heat,62979.47886386524,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Milwaukee Bucks,56514.29259774329,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Charlotte Hornets,55978.734194928824,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Detroit Pistons,51138.28462893508,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Washington Wizards,54660.66622235475,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New York Knicks,59972.10187629982,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+San Antonio Spurs,61779.69109908096,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Utah Jazz,66655.92247856098,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Sacramento Kings,71877.18320681939,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Los Angeles Clippers,64041.371173665146,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+New Orleans Pelicans,64767.54807505551,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Atlanta Hawks,53745.791229404145,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Oklahoma City Thunder,52560.18364735891,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Dallas Mavericks,64206.87297389641,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Houston Rockets,70690.55059144061,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+Golden State Warriors,72352.13982803228,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA
+all,1843628.6477990323,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA

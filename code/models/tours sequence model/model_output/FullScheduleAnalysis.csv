@@ -1,0 +1,33 @@
+﻿League,Schedule Type,Count,PlusLastDate,game_date,NewDays,reschedule_nondis,obj,distance_mode,instance,reschedule_mode,n_window,max_mods_per_tour,feasibility_days,asterisk,max_non_dis_mods,overlap_tours
+NBA,Actual,1080,0,2021-05-16,0,,Actual,,,,,,,,,
+NBA,Planned,1081,0,2021-05-16,0,,Planned,,,,,,,,,
+NBA,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,1080,23,2021-05-28,12,,basic,high,25_more_games,post_all_star,0,2,10,0,5,False
+NBA,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,1080,17,2021-05-24,8,6.0,basic,high,25_more_games,post_all_star,0,2,10,1,5,False
+NBA,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,1080,15,2021-05-25,9,27.0,basic,high,25_more_games,post_all_star,3,2,10,0,10,False
+NBA,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,1080,14,2021-05-24,8,14.0,basic,high,25_more_games,post_all_star,3,2,10,0,5,False
+NBA,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,1080,8,2021-05-20,4,33.0,basic,high,25_more_games,post_all_star,3,2,10,1,10,False
+NBA,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,1080,10,2021-05-21,5,18.0,basic,high,25_more_games,post_all_star,3,2,10,1,5,False
+NBA,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,1080,5,2021-05-21,5,,basic,high,basic,post_all_star,0,2,10,0,5,False
+NBA,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,1080,0,2021-05-16,0,6.0,basic,high,basic,post_all_star,0,2,10,1,5,False
+NBA,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,1080,2,2021-05-19,3,12.0,basic,high,basic,post_all_star,3,2,10,0,10,False
+NBA,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,1080,2,2021-05-19,3,7.0,basic,high,basic,post_all_star,3,2,10,0,5,False
+NBA,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,1080,0,2021-05-16,0,16.0,basic,high,basic,post_all_star,3,2,10,1,10,False
+NBA,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,1080,0,2021-05-16,0,11.0,basic,high,basic,post_all_star,3,2,10,1,5,False
+NBA,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,1080,20,2021-05-25,9,,min_date,high,15_games_in_march,post_all_star,0,2,10,0,5,False
+NBA,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,1080,15,2021-05-22,6,6.0,min_date,high,15_games_in_march,post_all_star,0,2,10,1,5,False
+NBA,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,1080,17,2021-05-27,11,,min_date,high,15_more_games,post_all_star,0,2,10,0,5,False
+NBA,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,1080,10,2021-05-23,7,6.0,min_date,high,15_more_games,post_all_star,0,2,10,1,5,False
+NBA,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,1080,23,2021-05-28,12,,min_date,high,25_more_games,post_all_star,0,2,10,0,5,False
+NBA,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,1080,17,2021-05-24,8,6.0,min_date,high,25_more_games,post_all_star,0,2,10,1,5,False
+NBA,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,1080,10,2021-05-24,8,28.0,min_date,high,25_more_games,post_all_star,3,2,10,0,10,False
+NBA,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,1080,17,2021-05-25,9,15.0,min_date,high,25_more_games,post_all_star,3,2,10,0,5,False
+NBA,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,1080,6,2021-05-19,3,34.0,min_date,high,25_more_games,post_all_star,3,2,10,1,10,False
+NBA,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,1080,12,2021-05-21,5,21.0,min_date,high,25_more_games,post_all_star,3,2,10,1,5,False
+NBA,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,1080,5,2021-05-21,5,,min_date,high,basic,post_all_star,0,2,10,0,5,False
+NBA,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,1080,0,2021-05-16,0,6.0,min_date,high,basic,post_all_star,0,2,10,1,5,False
+NBA,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,1080,2,2021-05-19,3,29.0,min_date,high,basic,post_all_star,3,2,10,0,10,False
+NBA,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,1080,2,2021-05-19,3,15.0,min_date,high,basic,post_all_star,3,2,10,0,5,False
+NBA,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,1080,0,2021-05-16,0,36.0,min_date,high,basic,post_all_star,3,2,10,1,10,False
+NBA,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,1080,0,2021-05-16,0,21.0,min_date,high,basic,post_all_star,3,2,10,1,5,False
+NHL,Actual,868,2,2021-05-19,3,,Actual,,,,,,,,,
+NHL,Planned,869,2,2021-05-19,3,,Planned,,,,,,,,,

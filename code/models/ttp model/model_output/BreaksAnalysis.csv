@@ -1,0 +1,33 @@
+﻿Team,Breaks,Schedule Type,League,obj,distance_mode,instance,reschedule_mode,n_window,max_mods_per_tour,feasibility_days,asterisk,max_non_dis_mods,overlap_tours
+all,1259,Planned,NBA,Planned,,,,,,,,,
+all,1267,Actual,NBA,Actual,,,,,,,,,
+all,1145,Planned,NHL,Planned,,,,,,,,,
+all,1152,Actual,NHL,Actual,,,,,,,,,
+all,1263,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,basic,high,basic,post_all_star,0,2,10,0,5,False
+all,1265,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,basic,high,basic,post_all_star,0,2,10,1,5,False
+all,1257,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA,basic,high,basic,post_all_star,3,2,10,0,5,False
+all,1249,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA,basic,high,basic,post_all_star,3,2,10,0,10,False
+all,1265,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA,basic,high,basic,post_all_star,3,2,10,1,5,False
+all,1259,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA,basic,high,basic,post_all_star,3,2,10,1,10,False
+all,1252,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,basic,high,25_more_games,post_all_star,0,2,10,0,5,False
+all,1253,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,basic,high,25_more_games,post_all_star,0,2,10,1,5,False
+all,1250,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA,basic,high,25_more_games,post_all_star,3,2,10,0,5,False
+all,1250,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA,basic,high,25_more_games,post_all_star,3,2,10,0,10,False
+all,1254,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA,basic,high,25_more_games,post_all_star,3,2,10,1,5,False
+all,1252,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA,basic,high,25_more_games,post_all_star,3,2,10,1,10,False
+all,1263,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,min_date,high,basic,post_all_star,0,2,10,0,5,False
+all,1265,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,min_date,high,basic,post_all_star,0,2,10,1,5,False
+all,1257,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA,min_date,high,basic,post_all_star,3,2,10,0,5,False
+all,1252,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA,min_date,high,basic,post_all_star,3,2,10,0,10,False
+all,1265,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA,min_date,high,basic,post_all_star,3,2,10,1,5,False
+all,1258,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA,min_date,high,basic,post_all_star,3,2,10,1,10,False
+all,1250,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,min_date,high,15_more_games,post_all_star,0,2,10,0,5,False
+all,1251,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,min_date,high,15_more_games,post_all_star,0,2,10,1,5,False
+all,1251,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,min_date,high,25_more_games,post_all_star,0,2,10,0,5,False
+all,1250,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,min_date,high,25_more_games,post_all_star,0,2,10,1,5,False
+all,1251,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA,min_date,high,25_more_games,post_all_star,3,2,10,0,5,False
+all,1252,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA,min_date,high,25_more_games,post_all_star,3,2,10,0,10,False
+all,1253,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA,min_date,high,25_more_games,post_all_star,3,2,10,1,5,False
+all,1252,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA,min_date,high,25_more_games,post_all_star,3,2,10,1,10,False
+all,1260,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,min_date,high,15_games_in_march,post_all_star,0,2,10,0,5,False
+all,1268,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,min_date,high,15_games_in_march,post_all_star,0,2,10,1,5,False

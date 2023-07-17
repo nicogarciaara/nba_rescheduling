@@ -1,0 +1,5 @@
+﻿game_week_day,game_date,game_year,game_time,visitor,visitor_pts,home,home_pts,overtime,att,season,game_month,game_day,game_month_number,original_date,reschedule_type,reschedule,day_difference,final_date,NewReschedule,partidos
+Mon,2021-02-01,2021,7:30p,Los Angeles Lakers,107,Atlanta Hawks,99,,1341,2020/2021,Feb,1,2,2021-02-01,,0.0,,2021-02-01,,2
+Wed,2021-02-03,2021,7:30p,Dallas Mavericks,122,Atlanta Hawks,116,,1259,2020/2021,Feb,3,2,2021-02-01,,0.0,,2021-02-03,,2
+Thu,2021-04-01,2021,8:30p,Atlanta Hawks,134,San Antonio Spurs,129,2OT,2949,2020/2021,Apr,1,4,2021-04-01,,0.0,,2021-04-01,,2
+Sun,2021-04-04,2021,7:30p,Golden State Warriors,111,Atlanta Hawks,117,,2937,2020/2021,Apr,4,4,2021-04-01,,0.0,,2021-04-04,,2

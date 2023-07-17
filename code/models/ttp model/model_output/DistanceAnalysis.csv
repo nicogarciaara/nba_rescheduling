@@ -1,0 +1,33 @@
+﻿Team,Distance,Schedule Type,League,Diff,obj,distance_mode,instance,reschedule_mode,n_window,max_mods_per_tour,feasibility_days,asterisk,max_non_dis_mods,overlap_tours
+all,1822310.1524244868,Planned,NBA,0.0,Planned,,,,,,,,,
+all,1819306.077142401,Actual,NBA,-0.0016484983514409857,Actual,,,,,,,,,
+all,687601.1061157632,Planned,NHL,-0.6226761370994139,Planned,,,,,,,,,
+all,706648.9587562754,Actual,NHL,-0.6122235516187426,Actual,,,,,,,,,
+all,1822795.3750843008,basic - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,0.00026626787935546403,basic,high,basic,post_all_star,0,2,10,0,5,False
+all,1828620.7537936943,basic - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,0.003462967794374494,basic,high,basic,post_all_star,0,2,10,1,5,False
+all,1845105.4884841207,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA,0.012509032026905897,basic,high,basic,post_all_star,3,2,10,0,5,False
+all,1869826.3575842225,basic - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA,0.02607470802734535,basic,high,basic,post_all_star,3,2,10,0,10,False
+all,1844520.9824743776,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA,0.012188282011347251,basic,high,basic,post_all_star,3,2,10,1,5,False
+all,1865015.4944888672,basic - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA,0.023434727621729712,basic,high,basic,post_all_star,3,2,10,1,10,False
+all,1914382.2392851925,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,0.05052492669165498,basic,high,25_more_games,post_all_star,0,2,10,0,5,False
+all,1915528.741497789,basic - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,0.05115407437602193,basic,high,25_more_games,post_all_star,0,2,10,1,5,False
+all,1913848.931429972,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA,0.05023227186859369,basic,high,25_more_games,post_all_star,3,2,10,0,5,False
+all,1931939.0104702343,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA,0.06015927524735143,basic,high,25_more_games,post_all_star,3,2,10,0,10,False
+all,1910752.263492985,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA,0.048532962926662426,basic,high,25_more_games,post_all_star,3,2,10,1,5,False
+all,1946843.993797265,basic - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA,0.06833844458754323,basic,high,25_more_games,post_all_star,3,2,10,1,10,False
+all,1822795.3750843008,min_date - high - basic - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,0.00026626787935546403,min_date,high,basic,post_all_star,0,2,10,0,5,False
+all,1828620.7537936943,min_date - high - basic - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,0.003462967794374494,min_date,high,basic,post_all_star,0,2,10,1,5,False
+all,1841556.2221318176,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA,0.01056135789054613,min_date,high,basic,post_all_star,3,2,10,0,5,False
+all,1863635.5956904544,min_date - high - basic - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA,0.02267750262543733,min_date,high,basic,post_all_star,3,2,10,0,10,False
+all,1840052.101412023,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA,0.009735965617011733,min_date,high,basic,post_all_star,3,2,10,1,5,False
+all,1867435.2944617132,min_date - high - basic - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA,0.024762602555437496,min_date,high,basic,post_all_star,3,2,10,1,10,False
+all,1883445.990958429,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,0.0335485364292154,min_date,high,15_more_games,post_all_star,0,2,10,0,5,False
+all,1880964.317128617,min_date - high - 15_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,0.03218670796850587,min_date,high,15_more_games,post_all_star,0,2,10,1,5,False
+all,1915899.386728435,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,0.051357467431892845,min_date,high,25_more_games,post_all_star,0,2,10,0,5,False
+all,1921836.5391557787,min_date - high - 25_more_games - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,0.05461550362262835,min_date,high,25_more_games,post_all_star,0,2,10,1,5,False
+all,1919804.896375084,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 5 - False,NBA,0.053500631503855534,min_date,high,25_more_games,post_all_star,3,2,10,0,5,False
+all,1943198.797443592,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 0 - 10 - False,NBA,0.06633812847844212,min_date,high,25_more_games,post_all_star,3,2,10,0,10,False
+all,1911622.8523698784,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 5 - False,NBA,0.049010702062196154,min_date,high,25_more_games,post_all_star,3,2,10,1,5,False
+all,1929047.7493137296,min_date - high - 25_more_games - post_all_star - 3 - 2 - 10 - 1 - 10 - False,NBA,0.05857268409948446,min_date,high,25_more_games,post_all_star,3,2,10,1,10,False
+all,1846268.7923631652,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 0 - 5 - False,NBA,0.013147399693077766,min_date,high,15_games_in_march,post_all_star,0,2,10,0,5,False
+all,1843628.6477990325,min_date - high - 15_games_in_march - post_all_star - 0 - 2 - 10 - 1 - 5 - False,NBA,0.01169860978175552,min_date,high,15_games_in_march,post_all_star,0,2,10,1,5,False

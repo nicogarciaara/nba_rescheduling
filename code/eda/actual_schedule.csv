@@ -1,0 +1,1081 @@
+,game_week_day,game_date,game_year,game_time,visitor,visitor_pts,home,home_pts,overtime,att,season,game_month,game_day,game_month_number
+0,Tue,2020-12-22,2020,7:00p,Golden State Warriors,99,Brooklyn Nets,125,,0,2020/2021,Dec,22,12
+1,Tue,2020-12-22,2020,10:00p,Los Angeles Clippers,116,Los Angeles Lakers,109,,0,2020/2021,Dec,22,12
+2,Wed,2020-12-23,2020,7:00p,Charlotte Hornets,114,Cleveland Cavaliers,121,,300,2020/2021,Dec,23,12
+3,Wed,2020-12-23,2020,7:00p,New York Knicks,107,Indiana Pacers,121,,0,2020/2021,Dec,23,12
+4,Wed,2020-12-23,2020,7:00p,Miami Heat,107,Orlando Magic,113,,3396,2020/2021,Dec,23,12
+5,Wed,2020-12-23,2020,7:00p,Washington Wizards,107,Philadelphia 76ers,113,,0,2020/2021,Dec,23,12
+6,Wed,2020-12-23,2020,7:30p,New Orleans Pelicans,113,Toronto Raptors,99,,3800,2020/2021,Dec,23,12
+7,Wed,2020-12-23,2020,7:30p,Milwaukee Bucks,121,Boston Celtics,122,,0,2020/2021,Dec,23,12
+8,Wed,2020-12-23,2020,8:00p,Atlanta Hawks,124,Chicago Bulls,104,,0,2020/2021,Dec,23,12
+9,Wed,2020-12-23,2020,8:00p,San Antonio Spurs,131,Memphis Grizzlies,119,,0,2020/2021,Dec,23,12
+10,Wed,2020-12-23,2020,8:00p,Detroit Pistons,101,Minnesota Timberwolves,111,,0,2020/2021,Dec,23,12
+11,Wed,2020-12-23,2020,9:00p,Sacramento Kings,124,Denver Nuggets,122,OT,0,2020/2021,Dec,23,12
+12,Wed,2020-12-23,2020,10:00p,Utah Jazz,120,Portland Trail Blazers,100,,0,2020/2021,Dec,23,12
+13,Wed,2020-12-23,2020,10:30p,Dallas Mavericks,102,Phoenix Suns,106,,0,2020/2021,Dec,23,12
+14,Fri,2020-12-25,2020,12:00p,New Orleans Pelicans,98,Miami Heat,111,,0,2020/2021,Dec,25,12
+15,Fri,2020-12-25,2020,2:30p,Golden State Warriors,99,Milwaukee Bucks,138,,0,2020/2021,Dec,25,12
+16,Fri,2020-12-25,2020,5:00p,Brooklyn Nets,123,Boston Celtics,95,,0,2020/2021,Dec,25,12
+17,Fri,2020-12-25,2020,8:00p,Dallas Mavericks,115,Los Angeles Lakers,138,,0,2020/2021,Dec,25,12
+18,Fri,2020-12-25,2020,10:30p,Los Angeles Clippers,121,Denver Nuggets,108,,0,2020/2021,Dec,25,12
+19,Sat,2020-12-26,2020,5:00p,Atlanta Hawks,122,Memphis Grizzlies,112,,0,2020/2021,Dec,26,12
+20,Sat,2020-12-26,2020,7:00p,Oklahoma City Thunder,109,Charlotte Hornets,107,,0,2020/2021,Dec,26,12
+21,Sat,2020-12-26,2020,7:00p,Cleveland Cavaliers,128,Detroit Pistons,119,2OT,0,2020/2021,Dec,26,12
+22,Sat,2020-12-26,2020,7:00p,Orlando Magic,130,Washington Wizards,120,,0,2020/2021,Dec,26,12
+23,Sat,2020-12-26,2020,7:30p,Philadelphia 76ers,109,New York Knicks,89,,0,2020/2021,Dec,26,12
+24,Sat,2020-12-26,2020,8:00p,Indiana Pacers,125,Chicago Bulls,106,,0,2020/2021,Dec,26,12
+25,Sat,2020-12-26,2020,8:30p,Toronto Raptors,114,San Antonio Spurs,119,,0,2020/2021,Dec,26,12
+26,Sat,2020-12-26,2020,9:00p,Minnesota Timberwolves,116,Utah Jazz,111,,1932,2020/2021,Dec,26,12
+27,Sat,2020-12-26,2020,10:00p,Houston Rockets,126,Portland Trail Blazers,128,OT,0,2020/2021,Dec,26,12
+28,Sat,2020-12-26,2020,10:00p,Phoenix Suns,103,Sacramento Kings,106,,0,2020/2021,Dec,26,12
+29,Sun,2020-12-27,2020,3:30p,Dallas Mavericks,124,Los Angeles Clippers,73,,0,2020/2021,Dec,27,12
+30,Sun,2020-12-27,2020,7:00p,San Antonio Spurs,95,New Orleans Pelicans,98,,750,2020/2021,Dec,27,12
+31,Sun,2020-12-27,2020,7:00p,Orlando Magic,120,Washington Wizards,113,,0,2020/2021,Dec,27,12
+32,Sun,2020-12-27,2020,7:00p,Brooklyn Nets,104,Charlotte Hornets,106,,0,2020/2021,Dec,27,12
+33,Sun,2020-12-27,2020,7:30p,Philadelphia 76ers,94,Cleveland Cavaliers,118,,300,2020/2021,Dec,27,12
+34,Sun,2020-12-27,2020,7:30p,Milwaukee Bucks,110,New York Knicks,130,,0,2020/2021,Dec,27,12
+35,Sun,2020-12-27,2020,8:00p,Boston Celtics,107,Indiana Pacers,108,,0,2020/2021,Dec,27,12
+36,Sun,2020-12-27,2020,8:00p,Golden State Warriors,129,Chicago Bulls,128,,0,2020/2021,Dec,27,12
+37,Sun,2020-12-27,2020,9:00p,Phoenix Suns,116,Sacramento Kings,100,,0,2020/2021,Dec,27,12
+38,Sun,2020-12-27,2020,10:00p,Minnesota Timberwolves,91,Los Angeles Lakers,127,,0,2020/2021,Dec,27,12
+39,Mon,2020-12-28,2020,7:30p,Memphis Grizzlies,116,Brooklyn Nets,111,OT,0,2020/2021,Dec,28,12
+40,Mon,2020-12-28,2020,7:30p,Detroit Pistons,120,Atlanta Hawks,128,,0,2020/2021,Dec,28,12
+41,Mon,2020-12-28,2020,8:00p,Utah Jazz,110,Oklahoma City Thunder,109,,0,2020/2021,Dec,28,12
+42,Mon,2020-12-28,2020,9:00p,Houston Rockets,111,Denver Nuggets,124,,0,2020/2021,Dec,28,12
+43,Mon,2020-12-28,2020,10:00p,Portland Trail Blazers,115,Los Angeles Lakers,107,,0,2020/2021,Dec,28,12
+44,Tue,2020-12-29,2020,7:00p,New York Knicks,95,Cleveland Cavaliers,86,,300,2020/2021,Dec,29,12
+45,Tue,2020-12-29,2020,7:00p,Golden State Warriors,116,Detroit Pistons,106,,0,2020/2021,Dec,29,12
+46,Tue,2020-12-29,2020,7:00p,Boston Celtics,116,Indiana Pacers,111,,0,2020/2021,Dec,29,12
+47,Tue,2020-12-29,2020,7:00p,Chicago Bulls,115,Washington Wizards,107,,0,2020/2021,Dec,29,12
+48,Tue,2020-12-29,2020,7:00p,Toronto Raptors,93,Philadelphia 76ers,100,,0,2020/2021,Dec,29,12
+49,Tue,2020-12-29,2020,7:30p,Milwaukee Bucks,144,Miami Heat,97,,0,2020/2021,Dec,29,12
+50,Tue,2020-12-29,2020,8:00p,Orlando Magic,118,Oklahoma City Thunder,107,,0,2020/2021,Dec,29,12
+51,Tue,2020-12-29,2020,10:00p,New Orleans Pelicans,86,Phoenix Suns,111,,0,2020/2021,Dec,29,12
+52,Tue,2020-12-29,2020,10:00p,Denver Nuggets,115,Sacramento Kings,125,,0,2020/2021,Dec,29,12
+53,Tue,2020-12-29,2020,10:00p,Minnesota Timberwolves,101,Los Angeles Clippers,124,,0,2020/2021,Dec,29,12
+54,Wed,2020-12-30,2020,7:30p,Milwaukee Bucks,108,Miami Heat,119,,0,2020/2021,Dec,30,12
+55,Wed,2020-12-30,2020,7:30p,Atlanta Hawks,141,Brooklyn Nets,145,,0,2020/2021,Dec,30,12
+56,Wed,2020-12-30,2020,7:30p,Memphis Grizzlies,107,Boston Celtics,126,,0,2020/2021,Dec,30,12
+57,Wed,2020-12-30,2020,8:30p,Charlotte Hornets,118,Dallas Mavericks,99,,0,2020/2021,Dec,30,12
+58,Wed,2020-12-30,2020,8:30p,Los Angeles Lakers,121,San Antonio Spurs,107,,0,2020/2021,Dec,30,12
+59,Wed,2020-12-30,2020,10:00p,Portland Trail Blazers,105,Los Angeles Clippers,128,,0,2020/2021,Dec,30,12
+60,Thu,2020-12-31,2020,3:00p,Cleveland Cavaliers,99,Indiana Pacers,119,,0,2020/2021,Dec,31,12
+61,Thu,2020-12-31,2020,5:00p,Chicago Bulls,133,Washington Wizards,130,,0,2020/2021,Dec,31,12
+62,Thu,2020-12-31,2020,6:30p,Philadelphia 76ers,116,Orlando Magic,92,,3247,2020/2021,Dec,31,12
+63,Thu,2020-12-31,2020,7:00p,Sacramento Kings,119,Houston Rockets,122,,3247,2020/2021,Dec,31,12
+64,Thu,2020-12-31,2020,7:30p,New York Knicks,83,Toronto Raptors,100,,3449,2020/2021,Dec,31,12
+65,Thu,2020-12-31,2020,8:00p,New Orleans Pelicans,113,Oklahoma City Thunder,80,,0,2020/2021,Dec,31,12
+66,Thu,2020-12-31,2020,9:00p,Phoenix Suns,106,Utah Jazz,95,,1932,2020/2021,Dec,31,12
+67,Fri,2021-01-01,2021,7:00p,Memphis Grizzlies,108,Charlotte Hornets,93,,0,2020/2021,Jan,1,1
+68,Fri,2021-01-01,2021,7:00p,Miami Heat,83,Dallas Mavericks,93,,0,2020/2021,Jan,1,1
+69,Fri,2021-01-01,2021,7:00p,Boston Celtics,93,Detroit Pistons,96,,0,2020/2021,Jan,1,1
+70,Fri,2021-01-01,2021,7:30p,Atlanta Hawks,114,Brooklyn Nets,96,,0,2020/2021,Jan,1,1
+71,Fri,2021-01-01,2021,8:00p,Chicago Bulls,96,Milwaukee Bucks,126,,0,2020/2021,Jan,1,1
+72,Fri,2021-01-01,2021,8:00p,Washington Wizards,130,Minnesota Timberwolves,109,,0,2020/2021,Jan,1,1
+73,Fri,2021-01-01,2021,8:00p,Los Angeles Lakers,109,San Antonio Spurs,103,,0,2020/2021,Jan,1,1
+74,Fri,2021-01-01,2021,9:00p,Phoenix Suns,106,Denver Nuggets,103,,0,2020/2021,Jan,1,1
+75,Fri,2021-01-01,2021,9:00p,Los Angeles Clippers,100,Utah Jazz,106,,1932,2020/2021,Jan,1,1
+76,Fri,2021-01-01,2021,10:30p,Portland Trail Blazers,123,Golden State Warriors,98,,0,2020/2021,Jan,1,1
+77,Sat,2021-01-02,2021,5:00p,Sacramento Kings,94,Houston Rockets,102,,3065,2020/2021,Jan,2,1
+78,Sat,2021-01-02,2021,7:00p,New York Knicks,106,Indiana Pacers,102,,0,2020/2021,Jan,2,1
+79,Sat,2021-01-02,2021,7:00p,Oklahoma City Thunder,108,Orlando Magic,99,,3339,2020/2021,Jan,2,1
+80,Sat,2021-01-02,2021,7:00p,Charlotte Hornets,112,Philadelphia 76ers,127,,0,2020/2021,Jan,2,1
+81,Sat,2021-01-02,2021,7:30p,Cleveland Cavaliers,96,Atlanta Hawks,91,,0,2020/2021,Jan,2,1
+82,Sat,2021-01-02,2021,7:30p,Toronto Raptors,116,New Orleans Pelicans,120,,750,2020/2021,Jan,2,1
+83,Sun,2021-01-03,2021,3:00p,Boston Celtics,122,Detroit Pistons,120,,0,2020/2021,Jan,3,1
+84,Sun,2021-01-03,2021,6:00p,Washington Wizards,123,Brooklyn Nets,122,,0,2020/2021,Jan,3,1
+85,Sun,2021-01-03,2021,6:00p,Los Angeles Lakers,108,Memphis Grizzlies,94,,0,2020/2021,Jan,3,1
+86,Sun,2021-01-03,2021,7:00p,Denver Nuggets,124,Minnesota Timberwolves,109,,0,2020/2021,Jan,3,1
+87,Sun,2021-01-03,2021,7:00p,Utah Jazz,130,San Antonio Spurs,109,,0,2020/2021,Jan,3,1
+88,Sun,2021-01-03,2021,8:00p,Dallas Mavericks,108,Chicago Bulls,118,,0,2020/2021,Jan,3,1
+89,Sun,2021-01-03,2021,8:00p,Los Angeles Clippers,112,Phoenix Suns,107,,0,2020/2021,Jan,3,1
+90,Sun,2021-01-03,2021,8:30p,Portland Trail Blazers,122,Golden State Warriors,137,,0,2020/2021,Jan,3,1
+91,Mon,2021-01-04,2021,7:00p,Cleveland Cavaliers,83,Orlando Magic,103,,2726,2020/2021,Jan,4,1
+92,Mon,2021-01-04,2021,7:00p,Charlotte Hornets,101,Philadelphia 76ers,118,,0,2020/2021,Jan,4,1
+93,Mon,2021-01-04,2021,7:30p,New York Knicks,113,Atlanta Hawks,108,,0,2020/2021,Jan,4,1
+94,Mon,2021-01-04,2021,7:30p,Oklahoma City Thunder,90,Miami Heat,118,,0,2020/2021,Jan,4,1
+95,Mon,2021-01-04,2021,7:30p,Boston Celtics,126,Toronto Raptors,114,,3740,2020/2021,Jan,4,1
+96,Mon,2021-01-04,2021,8:00p,Dallas Mavericks,113,Houston Rockets,100,,3070,2020/2021,Jan,4,1
+97,Mon,2021-01-04,2021,8:00p,Detroit Pistons,115,Milwaukee Bucks,125,,0,2020/2021,Jan,4,1
+98,Mon,2021-01-04,2021,8:00p,Indiana Pacers,118,New Orleans Pelicans,116,OT,750,2020/2021,Jan,4,1
+99,Mon,2021-01-04,2021,10:00p,Sacramento Kings,106,Golden State Warriors,137,,0,2020/2021,Jan,4,1
+100,Tue,2021-01-05,2021,7:30p,Utah Jazz,96,Brooklyn Nets,130,,0,2020/2021,Jan,5,1
+101,Tue,2021-01-05,2021,8:00p,Los Angeles Lakers,94,Memphis Grizzlies,92,,0,2020/2021,Jan,5,1
+102,Tue,2021-01-05,2021,9:00p,Minnesota Timberwolves,116,Denver Nuggets,123,,0,2020/2021,Jan,5,1
+103,Tue,2021-01-05,2021,10:00p,San Antonio Spurs,116,Los Angeles Clippers,113,,0,2020/2021,Jan,5,1
+104,Tue,2021-01-05,2021,10:30p,Chicago Bulls,111,Portland Trail Blazers,108,,0,2020/2021,Jan,5,1
+105,Wed,2021-01-06,2021,7:00p,Houston Rockets,107,Indiana Pacers,114,,0,2020/2021,Jan,6,1
+106,Wed,2021-01-06,2021,7:00p,Cleveland Cavaliers,94,Orlando Magic,105,,2948,2020/2021,Jan,6,1
+107,Wed,2021-01-06,2021,7:00p,Washington Wizards,136,Philadelphia 76ers,141,,0,2020/2021,Jan,6,1
+108,Wed,2021-01-06,2021,7:30p,Charlotte Hornets,102,Atlanta Hawks,94,,0,2020/2021,Jan,6,1
+109,Wed,2021-01-06,2021,7:30p,Boston Celtics,107,Miami Heat,105,,0,2020/2021,Jan,6,1
+110,Wed,2021-01-06,2021,7:30p,Utah Jazz,100,New York Knicks,112,,0,2020/2021,Jan,6,1
+111,Wed,2021-01-06,2021,8:00p,Detroit Pistons,115,Milwaukee Bucks,130,,0,2020/2021,Jan,6,1
+112,Wed,2021-01-06,2021,8:00p,Oklahoma City Thunder,111,New Orleans Pelicans,110,,750,2020/2021,Jan,6,1
+113,Wed,2021-01-06,2021,9:00p,Toronto Raptors,115,Phoenix Suns,123,,0,2020/2021,Jan,6,1
+114,Wed,2021-01-06,2021,10:00p,Los Angeles Clippers,108,Golden State Warriors,101,,0,2020/2021,Jan,6,1
+115,Wed,2021-01-06,2021,10:00p,Chicago Bulls,124,Sacramento Kings,128,,0,2020/2021,Jan,6,1
+116,Thu,2021-01-07,2021,7:30p,Philadelphia 76ers,109,Brooklyn Nets,122,,0,2020/2021,Jan,7,1
+117,Thu,2021-01-07,2021,8:00p,Cleveland Cavaliers,94,Memphis Grizzlies,90,,0,2020/2021,Jan,7,1
+118,Thu,2021-01-07,2021,10:00p,Dallas Mavericks,124,Denver Nuggets,117,OT,0,2020/2021,Jan,7,1
+119,Thu,2021-01-07,2021,10:00p,San Antonio Spurs,118,Los Angeles Lakers,109,,0,2020/2021,Jan,7,1
+120,Thu,2021-01-07,2021,10:00p,Minnesota Timberwolves,117,Portland Trail Blazers,135,,0,2020/2021,Jan,7,1
+121,Fri,2021-01-08,2021,7:00p,Phoenix Suns,105,Detroit Pistons,110,OT,0,2020/2021,Jan,8,1
+122,Fri,2021-01-08,2021,7:30p,Washington Wizards,107,Boston Celtics,116,,0,2020/2021,Jan,8,1
+123,Fri,2021-01-08,2021,7:30p,Charlotte Hornets,118,New Orleans Pelicans,110,,750,2020/2021,Jan,8,1
+124,Fri,2021-01-08,2021,7:30p,Oklahoma City Thunder,101,New York Knicks,89,,0,2020/2021,Jan,8,1
+125,Fri,2021-01-08,2021,8:00p,Orlando Magic,90,Houston Rockets,132,,3039,2020/2021,Jan,8,1
+126,Fri,2021-01-08,2021,8:00p,Brooklyn Nets,110,Memphis Grizzlies,115,,0,2020/2021,Jan,8,1
+127,Fri,2021-01-08,2021,8:00p,Utah Jazz,131,Milwaukee Bucks,118,,0,2020/2021,Jan,8,1
+128,Fri,2021-01-08,2021,10:00p,Los Angeles Clippers,105,Golden State Warriors,115,,0,2020/2021,Jan,8,1
+129,Fri,2021-01-08,2021,10:00p,Chicago Bulls,115,Los Angeles Lakers,117,,0,2020/2021,Jan,8,1
+130,Fri,2021-01-08,2021,10:00p,Toronto Raptors,144,Sacramento Kings,123,,0,2020/2021,Jan,8,1
+131,Sat,2021-01-09,2021,3:00p,Denver Nuggets,115,Philadelphia 76ers,103,,0,2020/2021,Jan,9,1
+132,Sat,2021-01-09,2021,7:00p,Atlanta Hawks,105,Charlotte Hornets,113,,0,2020/2021,Jan,9,1
+133,Sat,2021-01-09,2021,7:00p,Phoenix Suns,125,Indiana Pacers,117,,0,2020/2021,Jan,9,1
+134,Sat,2021-01-09,2021,7:00p,Miami Heat,128,Washington Wizards,124,,0,2020/2021,Jan,9,1
+135,Sat,2021-01-09,2021,8:00p,Cleveland Cavaliers,90,Milwaukee Bucks,100,,0,2020/2021,Jan,9,1
+136,Sat,2021-01-09,2021,8:00p,San Antonio Spurs,125,Minnesota Timberwolves,122,OT,0,2020/2021,Jan,9,1
+137,Sat,2021-01-09,2021,8:30p,Orlando Magic,98,Dallas Mavericks,112,,0,2020/2021,Jan,9,1
+138,Sat,2021-01-09,2021,10:00p,Portland Trail Blazers,125,Sacramento Kings,99,,0,2020/2021,Jan,9,1
+139,Sun,2021-01-10,2021,3:00p,Utah Jazz,96,Detroit Pistons,86,,0,2020/2021,Jan,10,1
+140,Sun,2021-01-10,2021,4:00p,Chicago Bulls,127,Los Angeles Clippers,130,,0,2020/2021,Jan,10,1
+141,Sun,2021-01-10,2021,6:00p,Oklahoma City Thunder,129,Brooklyn Nets,116,,0,2020/2021,Jan,10,1
+142,Sun,2021-01-10,2021,6:00p,Denver Nuggets,114,New York Knicks,89,,0,2020/2021,Jan,10,1
+143,Sun,2021-01-10,2021,7:00p,Los Angeles Lakers,120,Houston Rockets,102,,3327,2020/2021,Jan,10,1
+144,Sun,2021-01-10,2021,8:00p,San Antonio Spurs,88,Minnesota Timberwolves,96,,0,2020/2021,Jan,10,1
+145,Sun,2021-01-10,2021,8:30p,Toronto Raptors,105,Golden State Warriors,106,,0,2020/2021,Jan,10,1
+146,Mon,2021-01-11,2021,7:00p,New York Knicks,88,Charlotte Hornets,109,,0,2020/2021,Jan,11,1
+147,Mon,2021-01-11,2021,7:00p,Memphis Grizzlies,101,Cleveland Cavaliers,91,,1944,2020/2021,Jan,11,1
+148,Mon,2021-01-11,2021,7:00p,Milwaukee Bucks,121,Orlando Magic,99,,3248,2020/2021,Jan,11,1
+149,Mon,2021-01-11,2021,7:00p,Phoenix Suns,107,Washington Wizards,128,,0,2020/2021,Jan,11,1
+150,Mon,2021-01-11,2021,7:30p,Philadelphia 76ers,94,Atlanta Hawks,112,,0,2020/2021,Jan,11,1
+151,Mon,2021-01-11,2021,10:00p,Toronto Raptors,111,Portland Trail Blazers,112,,0,2020/2021,Jan,11,1
+152,Mon,2021-01-11,2021,10:00p,Indiana Pacers,122,Sacramento Kings,127,,0,2020/2021,Jan,11,1
+153,Tue,2021-01-12,2021,7:00p,Miami Heat,134,Philadelphia 76ers,137,OT,0,2020/2021,Jan,12,1
+154,Tue,2021-01-12,2021,7:30p,Denver Nuggets,116,Brooklyn Nets,122,,0,2020/2021,Jan,12,1
+155,Tue,2021-01-12,2021,7:30p,Utah Jazz,117,Cleveland Cavaliers,87,,1944,2020/2021,Jan,12,1
+156,Tue,2021-01-12,2021,8:00p,Los Angeles Lakers,117,Houston Rockets,100,,3221,2020/2021,Jan,12,1
+157,Tue,2021-01-12,2021,8:00p,San Antonio Spurs,112,Oklahoma City Thunder,102,,0,2020/2021,Jan,12,1
+158,Tue,2021-01-12,2021,10:30p,Indiana Pacers,104,Golden State Warriors,95,,0,2020/2021,Jan,12,1
+159,Wed,2021-01-13,2021,7:00p,Dallas Mavericks,104,Charlotte Hornets,93,,0,2020/2021,Jan,13,1
+160,Wed,2021-01-13,2021,7:00p,Milwaukee Bucks,110,Detroit Pistons,101,,0,2020/2021,Jan,13,1
+161,Wed,2021-01-13,2021,7:30p,Brooklyn Nets,116,New York Knicks,109,,0,2020/2021,Jan,13,1
+162,Wed,2021-01-13,2021,8:00p,Memphis Grizzlies,118,Minnesota Timberwolves,107,,0,2020/2021,Jan,13,1
+163,Wed,2021-01-13,2021,8:00p,Los Angeles Lakers,128,Oklahoma City Thunder,99,,0,2020/2021,Jan,13,1
+164,Wed,2021-01-13,2021,10:00p,New Orleans Pelicans,106,Los Angeles Clippers,111,,0,2020/2021,Jan,13,1
+165,Wed,2021-01-13,2021,10:00p,Portland Trail Blazers,132,Sacramento Kings,126,,0,2020/2021,Jan,13,1
+166,Thu,2021-01-14,2021,7:00p,Miami Heat,108,Philadelphia 76ers,125,,0,2020/2021,Jan,14,1
+167,Thu,2021-01-14,2021,7:30p,Houston Rockets,109,San Antonio Spurs,105,,0,2020/2021,Jan,14,1
+168,Thu,2021-01-14,2021,7:30p,Charlotte Hornets,108,Toronto Raptors,111,,0,2020/2021,Jan,14,1
+169,Thu,2021-01-14,2021,10:00p,Golden State Warriors,104,Denver Nuggets,114,,0,2020/2021,Jan,14,1
+170,Thu,2021-01-14,2021,10:00p,Indiana Pacers,111,Portland Trail Blazers,87,,0,2020/2021,Jan,14,1
+171,Fri,2021-01-15,2021,7:30p,Orlando Magic,97,Boston Celtics,124,,0,2020/2021,Jan,15,1
+172,Fri,2021-01-15,2021,7:30p,New York Knicks,103,Cleveland Cavaliers,106,,1944,2020/2021,Jan,15,1
+173,Fri,2021-01-15,2021,7:30p,Dallas Mavericks,109,Milwaukee Bucks,112,,0,2020/2021,Jan,15,1
+174,Fri,2021-01-15,2021,8:00p,Chicago Bulls,125,Oklahoma City Thunder,127,OT,0,2020/2021,Jan,15,1
+175,Fri,2021-01-15,2021,9:00p,Atlanta Hawks,92,Utah Jazz,116,,1932,2020/2021,Jan,15,1
+176,Fri,2021-01-15,2021,10:00p,New Orleans Pelicans,95,Los Angeles Lakers,112,,0,2020/2021,Jan,15,1
+177,Fri,2021-01-15,2021,10:00p,Los Angeles Clippers,138,Sacramento Kings,100,,0,2020/2021,Jan,15,1
+178,Sat,2021-01-16,2021,5:00p,Houston Rockets,91,San Antonio Spurs,103,,0,2020/2021,Jan,16,1
+179,Sat,2021-01-16,2021,6:00p,Orlando Magic,115,Brooklyn Nets,122,,0,2020/2021,Jan,16,1
+180,Sat,2021-01-16,2021,7:30p,Charlotte Hornets,113,Toronto Raptors,116,,0,2020/2021,Jan,16,1
+181,Sat,2021-01-16,2021,8:00p,Philadelphia 76ers,104,Memphis Grizzlies,106,,206,2020/2021,Jan,16,1
+182,Sat,2021-01-16,2021,8:00p,Detroit Pistons,120,Miami Heat,100,,0,2020/2021,Jan,16,1
+183,Sat,2021-01-16,2021,10:00p,Atlanta Hawks,106,Portland Trail Blazers,112,,0,2020/2021,Jan,16,1
+184,Sun,2021-01-17,2021,1:00p,New York Knicks,105,Boston Celtics,75,,0,2020/2021,Jan,17,1
+185,Sun,2021-01-17,2021,3:00p,Chicago Bulls,117,Dallas Mavericks,101,,0,2020/2021,Jan,17,1
+186,Sun,2021-01-17,2021,8:00p,Utah Jazz,109,Denver Nuggets,105,,0,2020/2021,Jan,17,1
+187,Sun,2021-01-17,2021,9:00p,New Orleans Pelicans,128,Sacramento Kings,123,,0,2020/2021,Jan,17,1
+188,Sun,2021-01-17,2021,10:00p,Indiana Pacers,96,Los Angeles Clippers,129,,0,2020/2021,Jan,17,1
+189,Mon,2021-01-18,2021,12:00p,Orlando Magic,84,New York Knicks,91,,0,2020/2021,Jan,18,1
+190,Mon,2021-01-18,2021,2:30p,Minnesota Timberwolves,97,Atlanta Hawks,108,,0,2020/2021,Jan,18,1
+191,Mon,2021-01-18,2021,3:00p,San Antonio Spurs,125,Portland Trail Blazers,104,,0,2020/2021,Jan,18,1
+192,Mon,2021-01-18,2021,5:00p,Phoenix Suns,104,Memphis Grizzlies,108,,204,2020/2021,Jan,18,1
+193,Mon,2021-01-18,2021,7:30p,Milwaukee Bucks,123,Brooklyn Nets,125,,0,2020/2021,Jan,18,1
+194,Mon,2021-01-18,2021,7:30p,Dallas Mavericks,93,Toronto Raptors,116,,0,2020/2021,Jan,18,1
+195,Mon,2021-01-18,2021,8:00p,Houston Rockets,120,Chicago Bulls,125,,0,2020/2021,Jan,18,1
+196,Mon,2021-01-18,2021,8:00p,Detroit Pistons,107,Miami Heat,113,,0,2020/2021,Jan,18,1
+197,Mon,2021-01-18,2021,10:00p,Golden State Warriors,115,Los Angeles Lakers,113,,0,2020/2021,Jan,18,1
+198,Tue,2021-01-19,2021,9:00p,Oklahoma City Thunder,101,Denver Nuggets,119,,0,2020/2021,Jan,19,1
+199,Tue,2021-01-19,2021,9:00p,New Orleans Pelicans,102,Utah Jazz,118,,1932,2020/2021,Jan,19,1
+200,Wed,2021-01-20,2021,7:00p,Brooklyn Nets,135,Cleveland Cavaliers,147,2OT,1944,2020/2021,Jan,20,1
+201,Wed,2021-01-20,2021,7:00p,Dallas Mavericks,124,Indiana Pacers,112,,0,2020/2021,Jan,20,1
+202,Wed,2021-01-20,2021,7:00p,Boston Celtics,109,Philadelphia 76ers,117,,0,2020/2021,Jan,20,1
+203,Wed,2021-01-20,2021,7:30p,Detroit Pistons,115,Atlanta Hawks,123,OT,0,2020/2021,Jan,20,1
+204,Wed,2021-01-20,2021,7:30p,Miami Heat,111,Toronto Raptors,102,,0,2020/2021,Jan,20,1
+205,Wed,2021-01-20,2021,8:00p,Orlando Magic,97,Minnesota Timberwolves,96,,0,2020/2021,Jan,20,1
+206,Wed,2021-01-20,2021,9:30p,Phoenix Suns,109,Houston Rockets,103,,3022,2020/2021,Jan,20,1
+207,Wed,2021-01-20,2021,10:00p,San Antonio Spurs,99,Golden State Warriors,121,,0,2020/2021,Jan,20,1
+208,Wed,2021-01-20,2021,10:00p,Sacramento Kings,96,Los Angeles Clippers,115,,0,2020/2021,Jan,20,1
+209,Thu,2021-01-21,2021,7:30p,Los Angeles Lakers,113,Milwaukee Bucks,106,,0,2020/2021,Jan,21,1
+210,Thu,2021-01-21,2021,10:00p,New York Knicks,119,Golden State Warriors,104,,0,2020/2021,Jan,21,1
+211,Thu,2021-01-21,2021,10:00p,New Orleans Pelicans,118,Utah Jazz,129,,1932,2020/2021,Jan,21,1
+212,Fri,2021-01-22,2021,7:00p,Chicago Bulls,123,Charlotte Hornets,110,,0,2020/2021,Jan,22,1
+213,Fri,2021-01-22,2021,7:00p,Houston Rockets,103,Detroit Pistons,102,,0,2020/2021,Jan,22,1
+214,Fri,2021-01-22,2021,7:00p,Orlando Magic,118,Indiana Pacers,120,OT,0,2020/2021,Jan,22,1
+215,Fri,2021-01-22,2021,7:30p,Brooklyn Nets,113,Cleveland Cavaliers,125,,1944,2020/2021,Jan,22,1
+216,Fri,2021-01-22,2021,7:30p,Boston Celtics,110,Philadelphia 76ers,122,,0,2020/2021,Jan,22,1
+217,Fri,2021-01-22,2021,7:30p,Miami Heat,81,Toronto Raptors,101,,0,2020/2021,Jan,22,1
+218,Fri,2021-01-22,2021,8:00p,Atlanta Hawks,116,Minnesota Timberwolves,98,,0,2020/2021,Jan,22,1
+219,Fri,2021-01-22,2021,8:30p,Dallas Mavericks,122,San Antonio Spurs,117,,0,2020/2021,Jan,22,1
+220,Fri,2021-01-22,2021,10:00p,Oklahoma City Thunder,106,Los Angeles Clippers,120,,0,2020/2021,Jan,22,1
+221,Fri,2021-01-22,2021,10:00p,Denver Nuggets,130,Phoenix Suns,126,OT,0,2020/2021,Jan,22,1
+222,Fri,2021-01-22,2021,10:00p,New York Knicks,94,Sacramento Kings,103,,0,2020/2021,Jan,22,1
+223,Sat,2021-01-23,2021,8:00p,Miami Heat,124,Brooklyn Nets,128,,0,2020/2021,Jan,23,1
+224,Sat,2021-01-23,2021,8:00p,Philadelphia 76ers,114,Detroit Pistons,110,,0,2020/2021,Jan,23,1
+225,Sat,2021-01-23,2021,8:00p,New Orleans Pelicans,110,Minnesota Timberwolves,120,,0,2020/2021,Jan,23,1
+226,Sat,2021-01-23,2021,9:00p,Los Angeles Lakers,101,Chicago Bulls,90,,0,2020/2021,Jan,23,1
+227,Sat,2021-01-23,2021,9:00p,Houston Rockets,133,Dallas Mavericks,108,,0,2020/2021,Jan,23,1
+228,Sat,2021-01-23,2021,9:00p,Denver Nuggets,120,Phoenix Suns,112,2OT,0,2020/2021,Jan,23,1
+229,Sat,2021-01-23,2021,9:00p,Golden State Warriors,108,Utah Jazz,127,,1932,2020/2021,Jan,23,1
+230,Sun,2021-01-24,2021,1:00p,Toronto Raptors,107,Indiana Pacers,102,,0,2020/2021,Jan,24,1
+231,Sun,2021-01-24,2021,4:00p,Oklahoma City Thunder,100,Los Angeles Clippers,108,,0,2020/2021,Jan,24,1
+232,Sun,2021-01-24,2021,7:00p,Cleveland Cavaliers,103,Boston Celtics,141,,0,2020/2021,Jan,24,1
+233,Sun,2021-01-24,2021,7:00p,Charlotte Hornets,107,Orlando Magic,104,,3507,2020/2021,Jan,24,1
+234,Sun,2021-01-24,2021,8:00p,Atlanta Hawks,115,Milwaukee Bucks,129,,0,2020/2021,Jan,24,1
+235,Sun,2021-01-24,2021,8:00p,Washington Wizards,101,San Antonio Spurs,121,,0,2020/2021,Jan,24,1
+236,Sun,2021-01-24,2021,10:00p,New York Knicks,113,Portland Trail Blazers,116,,0,2020/2021,Jan,24,1
+237,Mon,2021-01-25,2021,7:00p,Philadelphia 76ers,104,Detroit Pistons,119,,0,2020/2021,Jan,25,1
+238,Mon,2021-01-25,2021,7:00p,Toronto Raptors,114,Indiana Pacers,129,,0,2020/2021,Jan,25,1
+239,Mon,2021-01-25,2021,7:00p,Charlotte Hornets,108,Orlando Magic,117,,3167,2020/2021,Jan,25,1
+240,Mon,2021-01-25,2021,7:30p,Miami Heat,85,Brooklyn Nets,98,,0,2020/2021,Jan,25,1
+241,Mon,2021-01-25,2021,8:00p,Los Angeles Lakers,115,Cleveland Cavaliers,108,,0,2020/2021,Jan,25,1
+242,Mon,2021-01-25,2021,8:30p,Denver Nuggets,117,Dallas Mavericks,113,,0,2020/2021,Jan,25,1
+243,Mon,2021-01-25,2021,9:00p,Boston Celtics,119,Chicago Bulls,103,,0,2020/2021,Jan,25,1
+244,Mon,2021-01-25,2021,10:00p,Minnesota Timberwolves,108,Golden State Warriors,130,,0,2020/2021,Jan,25,1
+245,Mon,2021-01-25,2021,10:00p,Oklahoma City Thunder,125,Portland Trail Blazers,122,,0,2020/2021,Jan,25,1
+246,Tue,2021-01-26,2021,7:30p,Los Angeles Clippers,99,Atlanta Hawks,108,,1180,2020/2021,Jan,26,1
+247,Tue,2021-01-26,2021,8:00p,Washington Wizards,88,Houston Rockets,107,,2996,2020/2021,Jan,26,1
+248,Tue,2021-01-26,2021,9:00p,New York Knicks,94,Utah Jazz,108,,1932,2020/2021,Jan,26,1
+249,Wed,2021-01-27,2021,7:00p,Indiana Pacers,116,Charlotte Hornets,106,,0,2020/2021,Jan,27,1
+250,Wed,2021-01-27,2021,7:00p,Detroit Pistons,107,Cleveland Cavaliers,122,,1944,2020/2021,Jan,27,1
+251,Wed,2021-01-27,2021,7:00p,Sacramento Kings,121,Orlando Magic,107,,3216,2020/2021,Jan,27,1
+252,Wed,2021-01-27,2021,7:30p,Brooklyn Nets,132,Atlanta Hawks,128,OT,1008,2020/2021,Jan,27,1
+253,Wed,2021-01-27,2021,7:30p,Denver Nuggets,109,Miami Heat,82,,0,2020/2021,Jan,27,1
+254,Wed,2021-01-27,2021,7:30p,Los Angeles Lakers,106,Philadelphia 76ers,107,,0,2020/2021,Jan,27,1
+255,Wed,2021-01-27,2021,7:30p,Milwaukee Bucks,115,Toronto Raptors,108,,0,2020/2021,Jan,27,1
+256,Wed,2021-01-27,2021,8:30p,Boston Celtics,106,San Antonio Spurs,110,,0,2020/2021,Jan,27,1
+257,Wed,2021-01-27,2021,9:00p,Washington Wizards,106,New Orleans Pelicans,124,,750,2020/2021,Jan,27,1
+258,Wed,2021-01-27,2021,9:00p,Oklahoma City Thunder,102,Phoenix Suns,97,,0,2020/2021,Jan,27,1
+259,Wed,2021-01-27,2021,9:00p,Dallas Mavericks,104,Utah Jazz,116,,0,2020/2021,Jan,27,1
+260,Wed,2021-01-27,2021,10:00p,Minnesota Timberwolves,111,Golden State Warriors,123,,0,2020/2021,Jan,27,1
+261,Thu,2021-01-28,2021,7:30p,Portland Trail Blazers,101,Houston Rockets,104,,3154,2020/2021,Jan,28,1
+262,Thu,2021-01-28,2021,8:00p,Los Angeles Lakers,92,Detroit Pistons,107,,0,2020/2021,Jan,28,1
+263,Thu,2021-01-28,2021,8:00p,Los Angeles Clippers,109,Miami Heat,105,,0,2020/2021,Jan,28,1
+264,Thu,2021-01-28,2021,10:00p,Golden State Warriors,93,Phoenix Suns,114,,0,2020/2021,Jan,28,1
+265,Fri,2021-01-29,2021,7:00p,Indiana Pacers,105,Charlotte Hornets,108,,0,2020/2021,Jan,29,1
+266,Fri,2021-01-29,2021,7:00p,Atlanta Hawks,116,Washington Wizards,100,,0,2020/2021,Jan,29,1
+267,Fri,2021-01-29,2021,7:30p,Milwaukee Bucks,126,New Orleans Pelicans,131,,1440,2020/2021,Jan,29,1
+268,Fri,2021-01-29,2021,7:30p,Cleveland Cavaliers,81,New York Knicks,102,,0,2020/2021,Jan,29,1
+269,Fri,2021-01-29,2021,7:30p,Sacramento Kings,126,Toronto Raptors,124,,0,2020/2021,Jan,29,1
+270,Fri,2021-01-29,2021,8:00p,Philadelphia 76ers,118,Minnesota Timberwolves,94,,0,2020/2021,Jan,29,1
+271,Fri,2021-01-29,2021,8:00p,Brooklyn Nets,147,Oklahoma City Thunder,125,,0,2020/2021,Jan,29,1
+272,Fri,2021-01-29,2021,8:00p,Los Angeles Clippers,116,Orlando Magic,90,,3763,2020/2021,Jan,29,1
+273,Fri,2021-01-29,2021,8:30p,Denver Nuggets,109,San Antonio Spurs,119,,0,2020/2021,Jan,29,1
+274,Fri,2021-01-29,2021,10:00p,Dallas Mavericks,101,Utah Jazz,120,,1932,2020/2021,Jan,29,1
+275,Sat,2021-01-30,2021,8:00p,Portland Trail Blazers,123,Chicago Bulls,122,,0,2020/2021,Jan,30,1
+276,Sat,2021-01-30,2021,8:00p,Milwaukee Bucks,114,Charlotte Hornets,126,,0,2020/2021,Jan,30,1
+277,Sat,2021-01-30,2021,8:00p,Sacramento Kings,104,Miami Heat,105,,0,2020/2021,Jan,30,1
+278,Sat,2021-01-30,2021,8:00p,Houston Rockets,126,New Orleans Pelicans,112,,1440,2020/2021,Jan,30,1
+279,Sat,2021-01-30,2021,8:30p,Los Angeles Lakers,96,Boston Celtics,95,,0,2020/2021,Jan,30,1
+280,Sat,2021-01-30,2021,8:30p,Memphis Grizzlies,129,San Antonio Spurs,112,,0,2020/2021,Jan,30,1
+281,Sat,2021-01-30,2021,9:00p,Phoenix Suns,111,Dallas Mavericks,105,,0,2020/2021,Jan,30,1
+282,Sat,2021-01-30,2021,10:00p,Detroit Pistons,91,Golden State Warriors,118,,0,2020/2021,Jan,30,1
+283,Sun,2021-01-31,2021,1:00p,Los Angeles Clippers,129,New York Knicks,115,,0,2020/2021,Jan,31,1
+284,Sun,2021-01-31,2021,3:30p,Utah Jazz,117,Denver Nuggets,128,,0,2020/2021,Jan,31,1
+285,Sun,2021-01-31,2021,7:00p,Philadelphia 76ers,119,Indiana Pacers,110,,0,2020/2021,Jan,31,1
+286,Sun,2021-01-31,2021,7:00p,Orlando Magic,102,Toronto Raptors,115,,0,2020/2021,Jan,31,1
+287,Sun,2021-01-31,2021,7:00p,Brooklyn Nets,146,Washington Wizards,149,,0,2020/2021,Jan,31,1
+288,Sun,2021-01-31,2021,8:00p,Cleveland Cavaliers,104,Minnesota Timberwolves,109,,0,2020/2021,Jan,31,1
+289,Mon,2021-02-01,2021,7:30p,Los Angeles Lakers,107,Atlanta Hawks,99,,1341,2020/2021,Feb,1,2
+290,Mon,2021-02-01,2021,7:30p,Charlotte Hornets,129,Miami Heat,121,OT,0,2020/2021,Feb,1,2
+291,Mon,2021-02-01,2021,8:00p,New York Knicks,102,Chicago Bulls,110,,0,2020/2021,Feb,1,2
+292,Mon,2021-02-01,2021,8:00p,Minnesota Timberwolves,98,Cleveland Cavaliers,100,,0,2020/2021,Feb,1,2
+293,Mon,2021-02-01,2021,8:00p,Portland Trail Blazers,106,Milwaukee Bucks,134,,0,2020/2021,Feb,1,2
+294,Mon,2021-02-01,2021,8:00p,Sacramento Kings,118,New Orleans Pelicans,109,,1440,2020/2021,Feb,1,2
+295,Mon,2021-02-01,2021,8:00p,Houston Rockets,136,Oklahoma City Thunder,106,,0,2020/2021,Feb,1,2
+296,Mon,2021-02-01,2021,8:30p,Phoenix Suns,109,Dallas Mavericks,108,,0,2020/2021,Feb,1,2
+297,Mon,2021-02-01,2021,8:30p,Memphis Grizzlies,133,San Antonio Spurs,102,,0,2020/2021,Feb,1,2
+298,Tue,2021-02-02,2021,7:00p,Toronto Raptors,123,Orlando Magic,108,,3211,2020/2021,Feb,2,2
+299,Tue,2021-02-02,2021,7:30p,Los Angeles Clippers,120,Brooklyn Nets,124,,0,2020/2021,Feb,2,2
+300,Tue,2021-02-02,2021,8:00p,Memphis Grizzlies,116,Indiana Pacers,134,,0,2020/2021,Feb,2,2
+301,Tue,2021-02-02,2021,8:00p,Portland Trail Blazers,132,Washington Wizards,121,,0,2020/2021,Feb,2,2
+302,Tue,2021-02-02,2021,10:00p,Boston Celtics,111,Golden State Warriors,107,,0,2020/2021,Feb,2,2
+303,Tue,2021-02-02,2021,10:00p,Detroit Pistons,105,Utah Jazz,117,,3902,2020/2021,Feb,2,2
+304,Wed,2021-02-03,2021,7:00p,Philadelphia 76ers,118,Charlotte Hornets,111,,0,2020/2021,Feb,3,2
+305,Wed,2021-02-03,2021,7:00p,Indiana Pacers,110,Milwaukee Bucks,130,,0,2020/2021,Feb,3,2
+306,Wed,2021-02-03,2021,7:30p,Dallas Mavericks,122,Atlanta Hawks,116,,1259,2020/2021,Feb,3,2
+307,Wed,2021-02-03,2021,8:00p,New York Knicks,107,Chicago Bulls,103,,0,2020/2021,Feb,3,2
+308,Wed,2021-02-03,2021,8:00p,Los Angeles Clippers,121,Cleveland Cavaliers,99,,1944,2020/2021,Feb,3,2
+309,Wed,2021-02-03,2021,8:00p,Washington Wizards,103,Miami Heat,100,,0,2020/2021,Feb,3,2
+310,Wed,2021-02-03,2021,8:00p,Houston Rockets,87,Oklahoma City Thunder,104,,0,2020/2021,Feb,3,2
+311,Wed,2021-02-03,2021,8:30p,Minnesota Timberwolves,108,San Antonio Spurs,111,,0,2020/2021,Feb,3,2
+312,Wed,2021-02-03,2021,9:30p,Phoenix Suns,101,New Orleans Pelicans,123,,1440,2020/2021,Feb,3,2
+313,Wed,2021-02-03,2021,10:00p,Boston Celtics,111,Sacramento Kings,116,,0,2020/2021,Feb,3,2
+314,Thu,2021-02-04,2021,7:30p,Utah Jazz,112,Atlanta Hawks,91,,1261,2020/2021,Feb,4,2
+315,Thu,2021-02-04,2021,7:30p,Golden State Warriors,147,Dallas Mavericks,116,,0,2020/2021,Feb,4,2
+316,Thu,2021-02-04,2021,8:00p,Portland Trail Blazers,121,Philadelphia 76ers,105,,0,2020/2021,Feb,4,2
+317,Thu,2021-02-04,2021,9:00p,Houston Rockets,115,Memphis Grizzlies,103,,1762,2020/2021,Feb,4,2
+318,Thu,2021-02-04,2021,10:00p,Denver Nuggets,93,Los Angeles Lakers,114,,0,2020/2021,Feb,4,2
+319,Fri,2021-02-05,2021,7:00p,New Orleans Pelicans,114,Indiana Pacers,113,,0,2020/2021,Feb,5,2
+320,Fri,2021-02-05,2021,7:00p,Chicago Bulls,119,Orlando Magic,123,,3535,2020/2021,Feb,5,2
+321,Fri,2021-02-05,2021,7:30p,Toronto Raptors,123,Brooklyn Nets,117,,0,2020/2021,Feb,5,2
+322,Fri,2021-02-05,2021,7:30p,Milwaukee Bucks,123,Cleveland Cavaliers,105,,2720,2020/2021,Feb,5,2
+323,Fri,2021-02-05,2021,8:00p,Utah Jazz,138,Charlotte Hornets,121,,0,2020/2021,Feb,5,2
+324,Fri,2021-02-05,2021,8:00p,Washington Wizards,95,Miami Heat,122,,0,2020/2021,Feb,5,2
+325,Fri,2021-02-05,2021,8:00p,Minnesota Timberwolves,106,Oklahoma City Thunder,103,,0,2020/2021,Feb,5,2
+326,Fri,2021-02-05,2021,9:00p,Detroit Pistons,92,Phoenix Suns,109,,0,2020/2021,Feb,5,2
+327,Fri,2021-02-05,2021,10:00p,Boston Celtics,119,Los Angeles Clippers,115,,0,2020/2021,Feb,5,2
+328,Sat,2021-02-06,2021,1:00p,Portland Trail Blazers,99,New York Knicks,110,,0,2020/2021,Feb,6,2
+329,Sat,2021-02-06,2021,5:00p,Denver Nuggets,114,Sacramento Kings,119,,0,2020/2021,Feb,6,2
+330,Sat,2021-02-06,2021,7:00p,Chicago Bulls,118,Orlando Magic,92,,3880,2020/2021,Feb,6,2
+331,Sat,2021-02-06,2021,8:00p,Toronto Raptors,121,Atlanta Hawks,132,,991,2020/2021,Feb,6,2
+332,Sat,2021-02-06,2021,8:00p,Milwaukee Bucks,124,Cleveland Cavaliers,99,,2720,2020/2021,Feb,6,2
+333,Sat,2021-02-06,2021,8:00p,San Antonio Spurs,111,Houston Rockets,106,,3313,2020/2021,Feb,6,2
+334,Sat,2021-02-06,2021,8:00p,Minnesota Timberwolves,118,Oklahoma City Thunder,120,,0,2020/2021,Feb,6,2
+335,Sat,2021-02-06,2021,8:00p,Brooklyn Nets,108,Philadelphia 76ers,124,,0,2020/2021,Feb,6,2
+336,Sat,2021-02-06,2021,8:30p,Golden State Warriors,132,Dallas Mavericks,134,,0,2020/2021,Feb,6,2
+337,Sat,2021-02-06,2021,9:00p,Memphis Grizzlies,109,New Orleans Pelicans,118,,1440,2020/2021,Feb,6,2
+338,Sat,2021-02-06,2021,10:00p,Detroit Pistons,129,Los Angeles Lakers,135,2OT,0,2020/2021,Feb,6,2
+339,Sun,2021-02-07,2021,1:00p,Washington Wizards,97,Charlotte Hornets,119,,0,2020/2021,Feb,7,2
+340,Sun,2021-02-07,2021,1:00p,Utah Jazz,103,Indiana Pacers,95,,0,2020/2021,Feb,7,2
+341,Sun,2021-02-07,2021,1:00p,Miami Heat,109,New York Knicks,103,,0,2020/2021,Feb,7,2
+342,Sun,2021-02-07,2021,2:00p,Boston Celtics,91,Phoenix Suns,100,,1493,2020/2021,Feb,7,2
+343,Sun,2021-02-07,2021,3:00p,Sacramento Kings,113,Los Angeles Clippers,110,,0,2020/2021,Feb,7,2
+344,Mon,2021-02-08,2021,7:00p,Houston Rockets,94,Charlotte Hornets,119,,0,2020/2021,Feb,8,2
+345,Mon,2021-02-08,2021,8:00p,Washington Wizards,105,Chicago Bulls,101,,0,2020/2021,Feb,8,2
+346,Mon,2021-02-08,2021,8:00p,Toronto Raptors,128,Memphis Grizzlies,113,,1844,2020/2021,Feb,8,2
+347,Mon,2021-02-08,2021,8:30p,Minnesota Timberwolves,122,Dallas Mavericks,127,,1000,2020/2021,Feb,8,2
+348,Mon,2021-02-08,2021,8:30p,Golden State Warriors,100,San Antonio Spurs,105,,0,2020/2021,Feb,8,2
+349,Mon,2021-02-08,2021,9:00p,Cleveland Cavaliers,113,Phoenix Suns,119,,1485,2020/2021,Feb,8,2
+350,Mon,2021-02-08,2021,9:30p,Milwaukee Bucks,125,Denver Nuggets,112,,0,2020/2021,Feb,8,2
+351,Mon,2021-02-08,2021,10:00p,Oklahoma City Thunder,112,Los Angeles Lakers,119,OT,0,2020/2021,Feb,8,2
+352,Tue,2021-02-09,2021,7:00p,Brooklyn Nets,111,Detroit Pistons,122,,0,2020/2021,Feb,9,2
+353,Tue,2021-02-09,2021,7:30p,New York Knicks,96,Miami Heat,98,,0,2020/2021,Feb,9,2
+354,Tue,2021-02-09,2021,7:30p,Houston Rockets,101,New Orleans Pelicans,130,,1900,2020/2021,Feb,9,2
+355,Tue,2021-02-09,2021,8:30p,Golden State Warriors,114,San Antonio Spurs,91,,0,2020/2021,Feb,9,2
+356,Tue,2021-02-09,2021,10:00p,Orlando Magic,97,Portland Trail Blazers,106,,0,2020/2021,Feb,9,2
+357,Tue,2021-02-09,2021,10:00p,Philadelphia 76ers,119,Sacramento Kings,111,,0,2020/2021,Feb,9,2
+358,Tue,2021-02-09,2021,10:00p,Boston Celtics,108,Utah Jazz,122,,3902,2020/2021,Feb,9,2
+359,Wed,2021-02-10,2021,7:00p,Toronto Raptors,137,Washington Wizards,115,,0,2020/2021,Feb,10,2
+360,Wed,2021-02-10,2021,7:30p,Atlanta Hawks,117,Dallas Mavericks,118,,1000,2020/2021,Feb,10,2
+361,Wed,2021-02-10,2021,8:00p,Indiana Pacers,94,Brooklyn Nets,104,,0,2020/2021,Feb,10,2
+362,Wed,2021-02-10,2021,8:00p,Charlotte Hornets,114,Memphis Grizzlies,130,,1830,2020/2021,Feb,10,2
+363,Wed,2021-02-10,2021,8:00p,Los Angeles Clippers,119,Minnesota Timberwolves,112,,0,2020/2021,Feb,10,2
+364,Wed,2021-02-10,2021,9:00p,New Orleans Pelicans,116,Chicago Bulls,129,,0,2020/2021,Feb,10,2
+365,Wed,2021-02-10,2021,9:00p,Cleveland Cavaliers,95,Denver Nuggets,133,,0,2020/2021,Feb,10,2
+366,Wed,2021-02-10,2021,10:00p,Oklahoma City Thunder,113,Los Angeles Lakers,114,OT,0,2020/2021,Feb,10,2
+367,Wed,2021-02-10,2021,10:00p,Milwaukee Bucks,124,Phoenix Suns,125,,1491,2020/2021,Feb,10,2
+368,Thu,2021-02-11,2021,7:30p,Toronto Raptors,106,Boston Celtics,120,,0,2020/2021,Feb,11,2
+369,Thu,2021-02-11,2021,7:30p,Miami Heat,101,Houston Rockets,94,,3251,2020/2021,Feb,11,2
+370,Thu,2021-02-11,2021,8:00p,Indiana Pacers,111,Detroit Pistons,95,,0,2020/2021,Feb,11,2
+371,Thu,2021-02-11,2021,10:00p,Orlando Magic,105,Golden State Warriors,111,,0,2020/2021,Feb,11,2
+372,Thu,2021-02-11,2021,10:00p,Philadelphia 76ers,114,Portland Trail Blazers,118,,0,2020/2021,Feb,11,2
+373,Fri,2021-02-12,2021,7:00p,Minnesota Timberwolves,114,Charlotte Hornets,120,,0,2020/2021,Feb,12,2
+374,Fri,2021-02-12,2021,7:00p,New York Knicks,109,Washington Wizards,91,,0,2020/2021,Feb,12,2
+375,Fri,2021-02-12,2021,7:30p,San Antonio Spurs,125,Atlanta Hawks,114,,1451,2020/2021,Feb,12,2
+376,Fri,2021-02-12,2021,7:30p,New Orleans Pelicans,130,Dallas Mavericks,143,,1514,2020/2021,Feb,12,2
+377,Fri,2021-02-12,2021,8:00p,Detroit Pistons,108,Boston Celtics,102,,0,2020/2021,Feb,12,2
+378,Fri,2021-02-12,2021,8:00p,Los Angeles Clippers,125,Chicago Bulls,106,,0,2020/2021,Feb,12,2
+379,Fri,2021-02-12,2021,9:00p,Oklahoma City Thunder,95,Denver Nuggets,97,,0,2020/2021,Feb,12,2
+380,Fri,2021-02-12,2021,9:00p,Milwaukee Bucks,115,Utah Jazz,129,,3902,2020/2021,Feb,12,2
+381,Fri,2021-02-12,2021,10:00p,Memphis Grizzlies,105,Los Angeles Lakers,115,,0,2020/2021,Feb,12,2
+382,Fri,2021-02-12,2021,10:00p,Cleveland Cavaliers,110,Portland Trail Blazers,129,,0,2020/2021,Feb,12,2
+383,Fri,2021-02-12,2021,10:00p,Orlando Magic,123,Sacramento Kings,112,,0,2020/2021,Feb,12,2
+384,Sat,2021-02-13,2021,3:00p,Philadelphia 76ers,111,Phoenix Suns,120,,1652,2020/2021,Feb,13,2
+385,Sat,2021-02-13,2021,7:30p,Indiana Pacers,125,Atlanta Hawks,113,,1393,2020/2021,Feb,13,2
+386,Sat,2021-02-13,2021,8:00p,Houston Rockets,99,New York Knicks,121,,0,2020/2021,Feb,13,2
+387,Sat,2021-02-13,2021,8:30p,Brooklyn Nets,134,Golden State Warriors,117,,0,2020/2021,Feb,13,2
+388,Sat,2021-02-13,2021,9:00p,Miami Heat,94,Utah Jazz,112,,3902,2020/2021,Feb,13,2
+389,Sun,2021-02-14,2021,1:00p,Boston Celtics,91,Washington Wizards,104,,0,2020/2021,Feb,14,2
+390,Sun,2021-02-14,2021,7:00p,San Antonio Spurs,122,Charlotte Hornets,110,,0,2020/2021,Feb,14,2
+391,Sun,2021-02-14,2021,7:00p,New Orleans Pelicans,112,Detroit Pistons,123,,0,2020/2021,Feb,14,2
+392,Sun,2021-02-14,2021,7:00p,Minnesota Timberwolves,116,Toronto Raptors,112,,0,2020/2021,Feb,14,2
+393,Sun,2021-02-14,2021,7:30p,Portland Trail Blazers,121,Dallas Mavericks,118,,2211,2020/2021,Feb,14,2
+394,Sun,2021-02-14,2021,8:00p,Milwaukee Bucks,109,Oklahoma City Thunder,114,,0,2020/2021,Feb,14,2
+395,Sun,2021-02-14,2021,9:00p,Orlando Magic,90,Phoenix Suns,109,,1732,2020/2021,Feb,14,2
+396,Sun,2021-02-14,2021,10:00p,Los Angeles Lakers,105,Denver Nuggets,122,,0,2020/2021,Feb,14,2
+397,Sun,2021-02-14,2021,10:00p,Cleveland Cavaliers,111,Los Angeles Clippers,128,,0,2020/2021,Feb,14,2
+398,Sun,2021-02-14,2021,10:00p,Memphis Grizzlies,124,Sacramento Kings,110,,0,2020/2021,Feb,14,2
+399,Mon,2021-02-15,2021,7:00p,Chicago Bulls,120,Indiana Pacers,112,OT,0,2020/2021,Feb,15,2
+400,Mon,2021-02-15,2021,7:00p,Houston Rockets,119,Washington Wizards,131,,0,2020/2021,Feb,15,2
+401,Mon,2021-02-15,2021,7:30p,Atlanta Hawks,112,New York Knicks,123,,0,2020/2021,Feb,15,2
+402,Mon,2021-02-15,2021,9:00p,Philadelphia 76ers,123,Utah Jazz,134,,3902,2020/2021,Feb,15,2
+403,Mon,2021-02-15,2021,10:00p,Cleveland Cavaliers,98,Golden State Warriors,129,,0,2020/2021,Feb,15,2
+404,Mon,2021-02-15,2021,10:00p,Miami Heat,118,Los Angeles Clippers,125,,0,2020/2021,Feb,15,2
+405,Mon,2021-02-15,2021,10:00p,Brooklyn Nets,136,Sacramento Kings,125,,0,2020/2021,Feb,15,2
+406,Tue,2021-02-16,2021,7:00p,Denver Nuggets,99,Boston Celtics,112,,0,2020/2021,Feb,16,2
+407,Tue,2021-02-16,2021,8:00p,New Orleans Pelicans,144,Memphis Grizzlies,113,,1982,2020/2021,Feb,16,2
+408,Tue,2021-02-16,2021,8:00p,Toronto Raptors,124,Milwaukee Bucks,113,,250,2020/2021,Feb,16,2
+409,Tue,2021-02-16,2021,8:00p,Los Angeles Lakers,112,Minnesota Timberwolves,104,,0,2020/2021,Feb,16,2
+410,Tue,2021-02-16,2021,8:00p,Portland Trail Blazers,115,Oklahoma City Thunder,104,,0,2020/2021,Feb,16,2
+411,Tue,2021-02-16,2021,10:30p,Brooklyn Nets,128,Phoenix Suns,124,,3181,2020/2021,Feb,16,2
+412,Wed,2021-02-17,2021,7:00p,New York Knicks,89,Orlando Magic,107,,4249,2020/2021,Feb,17,2
+413,Wed,2021-02-17,2021,7:30p,Atlanta Hawks,122,Boston Celtics,114,,0,2020/2021,Feb,17,2
+414,Wed,2021-02-17,2021,7:30p,Houston Rockets,113,Philadelphia 76ers,118,,0,2020/2021,Feb,17,2
+415,Wed,2021-02-17,2021,8:00p,Detroit Pistons,102,Chicago Bulls,105,,0,2020/2021,Feb,17,2
+416,Wed,2021-02-17,2021,8:00p,Indiana Pacers,134,Minnesota Timberwolves,128,OT,0,2020/2021,Feb,17,2
+417,Wed,2021-02-17,2021,8:00p,Denver Nuggets,128,Washington Wizards,130,,0,2020/2021,Feb,17,2
+418,Wed,2021-02-17,2021,9:00p,Oklahoma City Thunder,113,Memphis Grizzlies,122,,0,2020/2021,Feb,17,2
+419,Wed,2021-02-17,2021,9:00p,Portland Trail Blazers,126,New Orleans Pelicans,124,,1940,2020/2021,Feb,17,2
+420,Wed,2021-02-17,2021,10:00p,Miami Heat,112,Golden State Warriors,120,OT,0,2020/2021,Feb,17,2
+421,Wed,2021-02-17,2021,10:00p,Utah Jazz,114,Los Angeles Clippers,96,,0,2020/2021,Feb,17,2
+422,Thu,2021-02-18,2021,7:30p,Toronto Raptors,110,Milwaukee Bucks,96,,500,2020/2021,Feb,18,2
+423,Thu,2021-02-18,2021,10:00p,Brooklyn Nets,109,Los Angeles Lakers,98,,0,2020/2021,Feb,18,2
+424,Thu,2021-02-18,2021,10:00p,Miami Heat,118,Sacramento Kings,110,,0,2020/2021,Feb,18,2
+425,Fri,2021-02-19,2021,7:00p,Denver Nuggets,120,Cleveland Cavaliers,103,,2720,2020/2021,Feb,19,2
+426,Fri,2021-02-19,2021,7:00p,Golden State Warriors,120,Orlando Magic,124,,4287,2020/2021,Feb,19,2
+427,Fri,2021-02-19,2021,7:30p,Atlanta Hawks,109,Boston Celtics,121,,0,2020/2021,Feb,19,2
+428,Fri,2021-02-19,2021,7:30p,Chicago Bulls,105,Philadelphia 76ers,112,,0,2020/2021,Feb,19,2
+429,Fri,2021-02-19,2021,8:00p,Detroit Pistons,95,Memphis Grizzlies,109,,1795,2020/2021,Feb,19,2
+430,Fri,2021-02-19,2021,8:00p,Oklahoma City Thunder,85,Milwaukee Bucks,98,,750,2020/2021,Feb,19,2
+431,Fri,2021-02-19,2021,8:00p,Phoenix Suns,132,New Orleans Pelicans,114,,1940,2020/2021,Feb,19,2
+432,Fri,2021-02-19,2021,9:00p,Toronto Raptors,86,Minnesota Timberwolves,81,,0,2020/2021,Feb,19,2
+433,Fri,2021-02-19,2021,10:00p,Utah Jazz,112,Los Angeles Clippers,116,,0,2020/2021,Feb,19,2
+434,Sat,2021-02-20,2021,8:00p,Golden State Warriors,100,Charlotte Hornets,102,,0,2020/2021,Feb,20,2
+435,Sat,2021-02-20,2021,8:30p,Miami Heat,96,Los Angeles Lakers,94,,0,2020/2021,Feb,20,2
+436,Sat,2021-02-20,2021,9:00p,Sacramento Kings,114,Chicago Bulls,122,,0,2020/2021,Feb,20,2
+437,Sat,2021-02-20,2021,9:00p,Phoenix Suns,128,Memphis Grizzlies,97,,1994,2020/2021,Feb,20,2
+438,Sat,2021-02-20,2021,10:00p,Washington Wizards,118,Portland Trail Blazers,111,,0,2020/2021,Feb,20,2
+439,Sun,2021-02-21,2021,3:30p,Boston Celtics,115,New Orleans Pelicans,120,OT,1940,2020/2021,Feb,21,2
+440,Sun,2021-02-21,2021,7:00p,Oklahoma City Thunder,117,Cleveland Cavaliers,101,,2720,2020/2021,Feb,21,2
+441,Sun,2021-02-21,2021,7:00p,Minnesota Timberwolves,99,New York Knicks,103,,0,2020/2021,Feb,21,2
+442,Sun,2021-02-21,2021,7:00p,Detroit Pistons,96,Orlando Magic,105,,4002,2020/2021,Feb,21,2
+443,Sun,2021-02-21,2021,7:00p,Philadelphia 76ers,103,Toronto Raptors,110,,0,2020/2021,Feb,21,2
+444,Sun,2021-02-21,2021,7:30p,Denver Nuggets,115,Atlanta Hawks,123,,1362,2020/2021,Feb,21,2
+445,Sun,2021-02-21,2021,8:00p,Brooklyn Nets,112,Los Angeles Clippers,108,,0,2020/2021,Feb,21,2
+446,Sun,2021-02-21,2021,9:00p,Sacramento Kings,115,Milwaukee Bucks,128,,1800,2020/2021,Feb,21,2
+447,Mon,2021-02-22,2021,8:00p,Chicago Bulls,120,Houston Rockets,100,,3025,2020/2021,Feb,22,2
+448,Mon,2021-02-22,2021,8:30p,Memphis Grizzlies,92,Dallas Mavericks,102,,2099,2020/2021,Feb,22,2
+449,Mon,2021-02-22,2021,9:00p,Miami Heat,108,Oklahoma City Thunder,94,,0,2020/2021,Feb,22,2
+450,Mon,2021-02-22,2021,9:00p,Portland Trail Blazers,100,Phoenix Suns,132,,3213,2020/2021,Feb,22,2
+451,Mon,2021-02-22,2021,9:00p,Charlotte Hornets,110,Utah Jazz,132,,3902,2020/2021,Feb,22,2
+452,Mon,2021-02-22,2021,10:00p,Washington Wizards,127,Los Angeles Lakers,124,OT,0,2020/2021,Feb,22,2
+453,Tue,2021-02-23,2021,7:00p,Atlanta Hawks,111,Cleveland Cavaliers,112,,2720,2020/2021,Feb,23,2
+454,Tue,2021-02-23,2021,7:00p,Detroit Pistons,105,Orlando Magic,93,,3631,2020/2021,Feb,23,2
+455,Tue,2021-02-23,2021,7:30p,Sacramento Kings,118,Brooklyn Nets,127,,324,2020/2021,Feb,23,2
+456,Tue,2021-02-23,2021,7:30p,Boston Celtics,107,Dallas Mavericks,110,,3338,2020/2021,Feb,23,2
+457,Tue,2021-02-23,2021,7:30p,Golden State Warriors,114,New York Knicks,106,,1981,2020/2021,Feb,23,2
+458,Tue,2021-02-23,2021,7:30p,Philadelphia 76ers,109,Toronto Raptors,102,,0,2020/2021,Feb,23,2
+459,Tue,2021-02-23,2021,8:00p,Minnesota Timberwolves,112,Milwaukee Bucks,139,,1800,2020/2021,Feb,23,2
+460,Tue,2021-02-23,2021,10:00p,Portland Trail Blazers,106,Denver Nuggets,111,,0,2020/2021,Feb,23,2
+461,Tue,2021-02-23,2021,10:00p,Washington Wizards,116,Los Angeles Clippers,135,,0,2020/2021,Feb,23,2
+462,Wed,2021-02-24,2021,7:30p,Boston Celtics,112,Atlanta Hawks,127,,1537,2020/2021,Feb,24,2
+463,Wed,2021-02-24,2021,7:30p,Houston Rockets,96,Cleveland Cavaliers,112,,2720,2020/2021,Feb,24,2
+464,Wed,2021-02-24,2021,7:30p,Golden State Warriors,111,Indiana Pacers,107,,0,2020/2021,Feb,24,2
+465,Wed,2021-02-24,2021,8:00p,Minnesota Timberwolves,126,Chicago Bulls,133,OT,0,2020/2021,Feb,24,2
+466,Wed,2021-02-24,2021,8:00p,Toronto Raptors,108,Miami Heat,116,,0,2020/2021,Feb,24,2
+467,Wed,2021-02-24,2021,8:00p,Detroit Pistons,118,New Orleans Pelicans,128,,2700,2020/2021,Feb,24,2
+468,Wed,2021-02-24,2021,8:00p,San Antonio Spurs,99,Oklahoma City Thunder,102,,0,2020/2021,Feb,24,2
+469,Wed,2021-02-24,2021,9:00p,Charlotte Hornets,124,Phoenix Suns,121,,3296,2020/2021,Feb,24,2
+470,Wed,2021-02-24,2021,10:00p,Los Angeles Lakers,89,Utah Jazz,114,,4912,2020/2021,Feb,24,2
+471,Thu,2021-02-25,2021,7:00p,Dallas Mavericks,97,Philadelphia 76ers,111,,0,2020/2021,Feb,25,2
+472,Thu,2021-02-25,2021,7:30p,Orlando Magic,92,Brooklyn Nets,129,,327,2020/2021,Feb,25,2
+473,Thu,2021-02-25,2021,7:30p,Sacramento Kings,121,New York Knicks,140,,1981,2020/2021,Feb,25,2
+474,Thu,2021-02-25,2021,8:00p,Los Angeles Clippers,94,Memphis Grizzlies,122,,1896,2020/2021,Feb,25,2
+475,Thu,2021-02-25,2021,9:00p,Washington Wizards,112,Denver Nuggets,110,,0,2020/2021,Feb,25,2
+476,Thu,2021-02-25,2021,9:30p,New Orleans Pelicans,125,Milwaukee Bucks,129,,1800,2020/2021,Feb,25,2
+477,Fri,2021-02-26,2021,7:30p,Indiana Pacers,112,Boston Celtics,118,,0,2020/2021,Feb,26,2
+478,Fri,2021-02-26,2021,7:30p,Houston Rockets,111,Toronto Raptors,122,,0,2020/2021,Feb,26,2
+479,Fri,2021-02-26,2021,8:00p,Phoenix Suns,106,Chicago Bulls,97,,0,2020/2021,Feb,26,2
+480,Fri,2021-02-26,2021,8:00p,Sacramento Kings,110,Detroit Pistons,107,,0,2020/2021,Feb,26,2
+481,Fri,2021-02-26,2021,8:00p,Los Angeles Clippers,119,Memphis Grizzlies,99,,2039,2020/2021,Feb,26,2
+482,Fri,2021-02-26,2021,8:00p,Utah Jazz,116,Miami Heat,124,,0,2020/2021,Feb,26,2
+483,Fri,2021-02-26,2021,8:00p,Atlanta Hawks,109,Oklahoma City Thunder,118,,0,2020/2021,Feb,26,2
+484,Fri,2021-02-26,2021,10:00p,Charlotte Hornets,121,Golden State Warriors,130,,0,2020/2021,Feb,26,2
+485,Fri,2021-02-26,2021,10:00p,Portland Trail Blazers,93,Los Angeles Lakers,102,,0,2020/2021,Feb,26,2
+486,Sat,2021-02-27,2021,7:00p,Cleveland Cavaliers,112,Philadelphia 76ers,109,OT,0,2020/2021,Feb,27,2
+487,Sat,2021-02-27,2021,7:00p,Minnesota Timberwolves,112,Washington Wizards,128,,0,2020/2021,Feb,27,2
+488,Sat,2021-02-27,2021,8:00p,Indiana Pacers,107,New York Knicks,110,,1981,2020/2021,Feb,27,2
+489,Sat,2021-02-27,2021,8:00p,Denver Nuggets,126,Oklahoma City Thunder,96,,0,2020/2021,Feb,27,2
+490,Sat,2021-02-27,2021,8:00p,Utah Jazz,124,Orlando Magic,109,,4242,2020/2021,Feb,27,2
+491,Sat,2021-02-27,2021,8:00p,New Orleans Pelicans,114,San Antonio Spurs,117,,0,2020/2021,Feb,27,2
+492,Sat,2021-02-27,2021,8:30p,Dallas Mavericks,115,Brooklyn Nets,98,,684,2020/2021,Feb,27,2
+493,Sun,2021-02-28,2021,3:30p,Los Angeles Clippers,100,Milwaukee Bucks,105,,1800,2020/2021,Feb,28,2
+494,Sun,2021-02-28,2021,7:00p,Washington Wizards,110,Boston Celtics,111,,0,2020/2021,Feb,28,2
+495,Sun,2021-02-28,2021,8:00p,New York Knicks,109,Detroit Pistons,90,,0,2020/2021,Feb,28,2
+496,Sun,2021-02-28,2021,8:00p,Memphis Grizzlies,133,Houston Rockets,84,,3284,2020/2021,Feb,28,2
+497,Sun,2021-02-28,2021,8:00p,Golden State Warriors,91,Los Angeles Lakers,117,,0,2020/2021,Feb,28,2
+498,Sun,2021-02-28,2021,8:00p,Atlanta Hawks,99,Miami Heat,109,,0,2020/2021,Feb,28,2
+499,Sun,2021-02-28,2021,9:00p,Phoenix Suns,118,Minnesota Timberwolves,99,,0,2020/2021,Feb,28,2
+500,Sun,2021-02-28,2021,10:00p,Charlotte Hornets,127,Sacramento Kings,126,,0,2020/2021,Feb,28,2
+501,Mon,2021-03-01,2021,7:00p,Dallas Mavericks,130,Orlando Magic,124,,3766,2020/2021,Mar,1,3
+502,Mon,2021-03-01,2021,7:00p,Indiana Pacers,114,Philadelphia 76ers,130,,0,2020/2021,Mar,1,3
+503,Mon,2021-03-01,2021,8:00p,Denver Nuggets,118,Chicago Bulls,112,,0,2020/2021,Mar,1,3
+504,Mon,2021-03-01,2021,8:00p,Utah Jazz,124,New Orleans Pelicans,129,,2700,2020/2021,Mar,1,3
+505,Mon,2021-03-01,2021,8:30p,Brooklyn Nets,124,San Antonio Spurs,113,OT,0,2020/2021,Mar,1,3
+506,Mon,2021-03-01,2021,9:00p,Cleveland Cavaliers,101,Houston Rockets,90,,3046,2020/2021,Mar,1,3
+507,Mon,2021-03-01,2021,10:30p,Charlotte Hornets,111,Portland Trail Blazers,123,,0,2020/2021,Mar,1,3
+508,Tue,2021-03-02,2021,7:00p,Memphis Grizzlies,125,Washington Wizards,111,,0,2020/2021,Mar,2,3
+509,Tue,2021-03-02,2021,7:30p,Los Angeles Clippers,112,Boston Celtics,117,,0,2020/2021,Mar,2,3
+510,Tue,2021-03-02,2021,7:30p,Atlanta Hawks,94,Miami Heat,80,,0,2020/2021,Mar,2,3
+511,Tue,2021-03-02,2021,8:30p,New York Knicks,93,San Antonio Spurs,119,,0,2020/2021,Mar,2,3
+512,Tue,2021-03-02,2021,9:00p,Denver Nuggets,128,Milwaukee Bucks,97,,1800,2020/2021,Mar,2,3
+513,Tue,2021-03-02,2021,10:00p,Phoenix Suns,114,Los Angeles Lakers,104,,0,2020/2021,Mar,2,3
+514,Wed,2021-03-03,2021,7:00p,Indiana Pacers,114,Cleveland Cavaliers,111,,2720,2020/2021,Mar,3,3
+515,Wed,2021-03-03,2021,7:00p,Utah Jazz,123,Philadelphia 76ers,131,OT,0,2020/2021,Mar,3,3
+516,Wed,2021-03-03,2021,7:00p,Detroit Pistons,129,Toronto Raptors,105,,0,2020/2021,Mar,3,3
+517,Wed,2021-03-03,2021,7:30p,Brooklyn Nets,132,Houston Rockets,114,,3615,2020/2021,Mar,3,3
+518,Wed,2021-03-03,2021,8:00p,Charlotte Hornets,135,Minnesota Timberwolves,102,,0,2020/2021,Mar,3,3
+519,Wed,2021-03-03,2021,8:00p,Chicago Bulls,128,New Orleans Pelicans,124,,2700,2020/2021,Mar,3,3
+520,Wed,2021-03-03,2021,8:00p,Atlanta Hawks,115,Orlando Magic,112,,3969,2020/2021,Mar,3,3
+521,Wed,2021-03-03,2021,8:30p,Oklahoma City Thunder,78,Dallas Mavericks,87,,3508,2020/2021,Mar,3,3
+522,Wed,2021-03-03,2021,10:00p,Golden State Warriors,106,Portland Trail Blazers,108,,0,2020/2021,Mar,3,3
+523,Wed,2021-03-03,2021,10:00p,Los Angeles Lakers,120,Sacramento Kings,123,,0,2020/2021,Mar,3,3
+524,Thu,2021-03-04,2021,7:00p,Toronto Raptors,125,Boston Celtics,132,,0,2020/2021,Mar,4,3
+525,Thu,2021-03-04,2021,7:00p,Los Angeles Clippers,117,Washington Wizards,119,,0,2020/2021,Mar,4,3
+526,Thu,2021-03-04,2021,7:30p,Detroit Pistons,104,New York Knicks,114,,1981,2020/2021,Mar,4,3
+527,Thu,2021-03-04,2021,8:00p,Denver Nuggets,113,Indiana Pacers,103,,0,2020/2021,Mar,4,3
+528,Thu,2021-03-04,2021,8:00p,Milwaukee Bucks,112,Memphis Grizzlies,111,,1961,2020/2021,Mar,4,3
+529,Thu,2021-03-04,2021,8:30p,Miami Heat,103,New Orleans Pelicans,93,,2700,2020/2021,Mar,4,3
+530,Thu,2021-03-04,2021,9:00p,Oklahoma City Thunder,107,San Antonio Spurs,102,,1000,2020/2021,Mar,4,3
+531,Thu,2021-03-04,2021,10:00p,Golden State Warriors,98,Phoenix Suns,120,,3233,2020/2021,Mar,4,3
+532,Thu,2021-03-04,2021,10:00p,Sacramento Kings,119,Portland Trail Blazers,123,,0,2020/2021,Mar,4,3
+533,Wed,2021-03-10,2021,8:00p,Washington Wizards,112,Memphis Grizzlies,127,,1912,2020/2021,Mar,10,3
+534,Wed,2021-03-10,2021,8:30p,San Antonio Spurs,104,Dallas Mavericks,115,,3813,2020/2021,Mar,10,3
+535,Thu,2021-03-11,2021,7:00p,Detroit Pistons,102,Charlotte Hornets,105,,0,2020/2021,Mar,11,3
+536,Thu,2021-03-11,2021,7:30p,Boston Celtics,109,Brooklyn Nets,121,,1374,2020/2021,Mar,11,3
+537,Thu,2021-03-11,2021,7:30p,Atlanta Hawks,121,Toronto Raptors,120,,0,2020/2021,Mar,11,3
+538,Thu,2021-03-11,2021,8:00p,Philadelphia 76ers,127,Chicago Bulls,105,,0,2020/2021,Mar,11,3
+539,Thu,2021-03-11,2021,8:00p,Orlando Magic,103,Miami Heat,111,,0,2020/2021,Mar,11,3
+540,Thu,2021-03-11,2021,8:00p,New York Knicks,101,Milwaukee Bucks,134,,1800,2020/2021,Mar,11,3
+541,Thu,2021-03-11,2021,8:00p,Minnesota Timberwolves,135,New Orleans Pelicans,105,,3700,2020/2021,Mar,11,3
+542,Thu,2021-03-11,2021,9:00p,Dallas Mavericks,108,Oklahoma City Thunder,116,,0,2020/2021,Mar,11,3
+543,Thu,2021-03-11,2021,10:00p,Golden State Warriors,104,Los Angeles Clippers,130,,0,2020/2021,Mar,11,3
+544,Thu,2021-03-11,2021,10:00p,Phoenix Suns,127,Portland Trail Blazers,121,,0,2020/2021,Mar,11,3
+545,Thu,2021-03-11,2021,10:00p,Houston Rockets,105,Sacramento Kings,125,,0,2020/2021,Mar,11,3
+546,Fri,2021-03-12,2021,8:00p,Denver Nuggets,103,Memphis Grizzlies,102,,2160,2020/2021,Mar,12,3
+547,Fri,2021-03-12,2021,8:00p,Cleveland Cavaliers,82,New Orleans Pelicans,116,,3700,2020/2021,Mar,12,3
+548,Fri,2021-03-12,2021,8:00p,Philadelphia 76ers,127,Washington Wizards,101,,0,2020/2021,Mar,12,3
+549,Fri,2021-03-12,2021,9:00p,Miami Heat,101,Chicago Bulls,90,,0,2020/2021,Mar,12,3
+550,Fri,2021-03-12,2021,9:00p,Orlando Magic,77,San Antonio Spurs,104,,3241,2020/2021,Mar,12,3
+551,Fri,2021-03-12,2021,10:00p,Houston Rockets,99,Utah Jazz,114,,5546,2020/2021,Mar,12,3
+552,Fri,2021-03-12,2021,10:30p,Indiana Pacers,100,Los Angeles Lakers,105,,0,2020/2021,Mar,12,3
+553,Sat,2021-03-13,2021,2:00p,New York Knicks,119,Oklahoma City Thunder,97,,0,2020/2021,Mar,13,3
+554,Sat,2021-03-13,2021,7:00p,Detroit Pistons,95,Brooklyn Nets,100,,1364,2020/2021,Mar,13,3
+555,Sat,2021-03-13,2021,7:00p,Toronto Raptors,104,Charlotte Hornets,114,,2861,2020/2021,Mar,13,3
+556,Sat,2021-03-13,2021,7:00p,Milwaukee Bucks,125,Washington Wizards,119,,0,2020/2021,Mar,13,3
+557,Sat,2021-03-13,2021,7:30p,Sacramento Kings,106,Atlanta Hawks,121,,2347,2020/2021,Mar,13,3
+558,Sat,2021-03-13,2021,8:00p,Portland Trail Blazers,125,Minnesota Timberwolves,121,,0,2020/2021,Mar,13,3
+559,Sat,2021-03-13,2021,10:00p,Dallas Mavericks,116,Denver Nuggets,103,,0,2020/2021,Mar,13,3
+560,Sat,2021-03-13,2021,10:00p,Indiana Pacers,122,Phoenix Suns,111,,3166,2020/2021,Mar,13,3
+561,Sun,2021-03-14,2021,2:00p,Memphis Grizzlies,122,Oklahoma City Thunder,128,,0,2020/2021,Mar,14,3
+562,Sun,2021-03-14,2021,4:00p,Utah Jazz,119,Golden State Warriors,131,,0,2020/2021,Mar,14,3
+563,Sun,2021-03-14,2021,6:30p,San Antonio Spurs,99,Philadelphia 76ers,134,,3071,2020/2021,Mar,14,3
+564,Sun,2021-03-14,2021,7:00p,Miami Heat,102,Orlando Magic,97,,3264,2020/2021,Mar,14,3
+565,Sun,2021-03-14,2021,7:30p,Cleveland Cavaliers,82,Atlanta Hawks,100,,2322,2020/2021,Mar,14,3
+566,Sun,2021-03-14,2021,8:00p,Boston Celtics,134,Houston Rockets,107,,3264,2020/2021,Mar,14,3
+567,Sun,2021-03-14,2021,8:00p,Portland Trail Blazers,112,Minnesota Timberwolves,114,,0,2020/2021,Mar,14,3
+568,Sun,2021-03-14,2021,9:00p,Toronto Raptors,95,Chicago Bulls,118,,0,2020/2021,Mar,14,3
+569,Sun,2021-03-14,2021,9:00p,Los Angeles Clippers,115,New Orleans Pelicans,135,,3700,2020/2021,Mar,14,3
+570,Mon,2021-03-15,2021,7:00p,Sacramento Kings,116,Charlotte Hornets,122,,2861,2020/2021,Mar,15,3
+571,Mon,2021-03-15,2021,7:00p,Milwaukee Bucks,133,Washington Wizards,122,,0,2020/2021,Mar,15,3
+572,Mon,2021-03-15,2021,8:00p,New York Knicks,112,Brooklyn Nets,117,,1637,2020/2021,Mar,15,3
+573,Mon,2021-03-15,2021,8:00p,San Antonio Spurs,109,Detroit Pistons,99,,0,2020/2021,Mar,15,3
+574,Mon,2021-03-15,2021,9:00p,Los Angeles Clippers,109,Dallas Mavericks,99,,3945,2020/2021,Mar,15,3
+575,Mon,2021-03-15,2021,10:00p,Indiana Pacers,106,Denver Nuggets,121,,0,2020/2021,Mar,15,3
+576,Mon,2021-03-15,2021,10:00p,Memphis Grizzlies,99,Phoenix Suns,122,,3188,2020/2021,Mar,15,3
+577,Mon,2021-03-15,2021,10:30p,Los Angeles Lakers,128,Golden State Warriors,97,,0,2020/2021,Mar,15,3
+578,Tue,2021-03-16,2021,7:30p,Utah Jazz,117,Boston Celtics,109,,0,2020/2021,Mar,16,3
+579,Tue,2021-03-16,2021,8:00p,Oklahoma City Thunder,102,Chicago Bulls,123,,0,2020/2021,Mar,16,3
+580,Tue,2021-03-16,2021,8:00p,Atlanta Hawks,119,Houston Rockets,107,,3069,2020/2021,Mar,16,3
+581,Tue,2021-03-16,2021,8:00p,Cleveland Cavaliers,98,Miami Heat,113,,0,2020/2021,Mar,16,3
+582,Tue,2021-03-16,2021,8:00p,New York Knicks,96,Philadelphia 76ers,99,,3071,2020/2021,Mar,16,3
+583,Tue,2021-03-16,2021,10:00p,New Orleans Pelicans,124,Portland Trail Blazers,125,,0,2020/2021,Mar,16,3
+584,Tue,2021-03-16,2021,10:30p,Minnesota Timberwolves,121,Los Angeles Lakers,137,,0,2020/2021,Mar,16,3
+585,Wed,2021-03-17,2021,7:00p,Toronto Raptors,112,Detroit Pistons,116,,750,2020/2021,Mar,17,3
+586,Wed,2021-03-17,2021,7:00p,Brooklyn Nets,124,Indiana Pacers,115,,0,2020/2021,Mar,17,3
+587,Wed,2021-03-17,2021,7:00p,Milwaukee Bucks,109,Philadelphia 76ers,105,OT,3071,2020/2021,Mar,17,3
+588,Wed,2021-03-17,2021,7:00p,Sacramento Kings,121,Washington Wizards,119,,0,2020/2021,Mar,17,3
+589,Wed,2021-03-17,2021,8:00p,San Antonio Spurs,106,Chicago Bulls,99,,0,2020/2021,Mar,17,3
+590,Wed,2021-03-17,2021,8:00p,Boston Celtics,110,Cleveland Cavaliers,117,,4100,2020/2021,Mar,17,3
+591,Wed,2021-03-17,2021,8:00p,Golden State Warriors,108,Houston Rockets,94,,3259,2020/2021,Mar,17,3
+592,Wed,2021-03-17,2021,9:00p,Charlotte Hornets,104,Denver Nuggets,129,,0,2020/2021,Mar,17,3
+593,Wed,2021-03-17,2021,9:00p,Miami Heat,85,Memphis Grizzlies,89,,2217,2020/2021,Mar,17,3
+594,Wed,2021-03-17,2021,9:30p,Los Angeles Clippers,89,Dallas Mavericks,105,,3975,2020/2021,Mar,17,3
+595,Thu,2021-03-18,2021,7:00p,Utah Jazz,122,Washington Wizards,131,,0,2020/2021,Mar,18,3
+596,Thu,2021-03-18,2021,7:30p,Oklahoma City Thunder,93,Atlanta Hawks,116,,2621,2020/2021,Mar,18,3
+597,Thu,2021-03-18,2021,7:30p,Orlando Magic,93,New York Knicks,94,,1531,2020/2021,Mar,18,3
+598,Thu,2021-03-18,2021,10:00p,Minnesota Timberwolves,123,Phoenix Suns,119,,3172,2020/2021,Mar,18,3
+599,Thu,2021-03-18,2021,10:00p,New Orleans Pelicans,93,Portland Trail Blazers,101,,0,2020/2021,Mar,18,3
+600,Thu,2021-03-18,2021,10:30p,Charlotte Hornets,105,Los Angeles Lakers,116,,0,2020/2021,Mar,18,3
+601,Fri,2021-03-19,2021,7:30p,Sacramento Kings,107,Boston Celtics,96,,0,2020/2021,Mar,19,3
+602,Fri,2021-03-19,2021,7:30p,San Antonio Spurs,116,Cleveland Cavaliers,110,,0,2020/2021,Mar,19,3
+603,Fri,2021-03-19,2021,8:00p,Detroit Pistons,113,Houston Rockets,100,,3061,2020/2021,Mar,19,3
+604,Fri,2021-03-19,2021,8:00p,Golden State Warriors,116,Memphis Grizzlies,103,,2716,2020/2021,Mar,19,3
+605,Fri,2021-03-19,2021,8:00p,Indiana Pacers,137,Miami Heat,110,,0,2020/2021,Mar,19,3
+606,Fri,2021-03-19,2021,8:00p,Brooklyn Nets,113,Orlando Magic,121,,3665,2020/2021,Mar,19,3
+607,Fri,2021-03-19,2021,8:00p,Utah Jazz,115,Toronto Raptors,112,,0,2020/2021,Mar,19,3
+608,Fri,2021-03-19,2021,9:00p,Chicago Bulls,127,Denver Nuggets,131,OT,0,2020/2021,Mar,19,3
+609,Fri,2021-03-19,2021,10:00p,Minnesota Timberwolves,101,Phoenix Suns,113,,3124,2020/2021,Mar,19,3
+610,Fri,2021-03-19,2021,10:00p,Dallas Mavericks,119,Portland Trail Blazers,125,,0,2020/2021,Mar,19,3
+611,Sat,2021-03-20,2021,3:30p,Atlanta Hawks,99,Los Angeles Lakers,94,,0,2020/2021,Mar,20,3
+612,Sat,2021-03-20,2021,8:00p,Golden State Warriors,103,Memphis Grizzlies,111,,0,2020/2021,Mar,20,3
+613,Sat,2021-03-20,2021,8:00p,Sacramento Kings,105,Philadelphia 76ers,129,,3071,2020/2021,Mar,20,3
+614,Sat,2021-03-20,2021,9:00p,San Antonio Spurs,113,Milwaukee Bucks,120,,3280,2020/2021,Mar,20,3
+615,Sat,2021-03-20,2021,10:00p,Charlotte Hornets,98,Los Angeles Clippers,125,,0,2020/2021,Mar,20,3
+616,Sun,2021-03-21,2021,1:00p,Indiana Pacers,109,Miami Heat,106,OT,0,2020/2021,Mar,21,3
+617,Sun,2021-03-21,2021,2:00p,Oklahoma City Thunder,114,Houston Rockets,112,,3297,2020/2021,Mar,21,3
+618,Sun,2021-03-21,2021,3:00p,New Orleans Pelicans,113,Denver Nuggets,108,,0,2020/2021,Mar,21,3
+619,Sun,2021-03-21,2021,3:30p,Orlando Magic,96,Boston Celtics,112,,0,2020/2021,Mar,21,3
+620,Sun,2021-03-21,2021,7:00p,Washington Wizards,106,Brooklyn Nets,113,,1773,2020/2021,Mar,21,3
+621,Sun,2021-03-21,2021,7:00p,Toronto Raptors,105,Cleveland Cavaliers,116,,0,2020/2021,Mar,21,3
+622,Sun,2021-03-21,2021,7:00p,Chicago Bulls,100,Detroit Pistons,86,,750,2020/2021,Mar,21,3
+623,Sun,2021-03-21,2021,8:00p,Philadelphia 76ers,101,New York Knicks,100,OT,1981,2020/2021,Mar,21,3
+624,Sun,2021-03-21,2021,10:00p,Los Angeles Lakers,94,Phoenix Suns,111,,3190,2020/2021,Mar,21,3
+625,Sun,2021-03-21,2021,10:00p,Dallas Mavericks,132,Portland Trail Blazers,92,,0,2020/2021,Mar,21,3
+626,Mon,2021-03-22,2021,7:30p,Sacramento Kings,119,Cleveland Cavaliers,105,,4100,2020/2021,Mar,22,3
+627,Mon,2021-03-22,2021,8:00p,Oklahoma City Thunder,112,Minnesota Timberwolves,103,,0,2020/2021,Mar,22,3
+628,Mon,2021-03-22,2021,8:30p,Charlotte Hornets,100,San Antonio Spurs,97,,3222,2020/2021,Mar,22,3
+629,Mon,2021-03-22,2021,9:00p,Utah Jazz,120,Chicago Bulls,95,,0,2020/2021,Mar,22,3
+630,Mon,2021-03-22,2021,9:00p,Toronto Raptors,99,Houston Rockets,117,,2965,2020/2021,Mar,22,3
+631,Mon,2021-03-22,2021,9:00p,Boston Celtics,126,Memphis Grizzlies,132,OT,2319,2020/2021,Mar,22,3
+632,Mon,2021-03-22,2021,9:00p,Indiana Pacers,113,Milwaukee Bucks,140,,3280,2020/2021,Mar,22,3
+633,Mon,2021-03-22,2021,10:00p,Atlanta Hawks,110,Los Angeles Clippers,119,,0,2020/2021,Mar,22,3
+634,Tue,2021-03-23,2021,7:00p,Denver Nuggets,110,Orlando Magic,99,,3485,2020/2021,Mar,23,3
+635,Tue,2021-03-23,2021,7:30p,Los Angeles Lakers,111,New Orleans Pelicans,128,,3700,2020/2021,Mar,23,3
+636,Tue,2021-03-23,2021,7:30p,Washington Wizards,113,New York Knicks,131,,1589,2020/2021,Mar,23,3
+637,Tue,2021-03-23,2021,8:00p,Phoenix Suns,110,Miami Heat,100,,0,2020/2021,Mar,23,3
+638,Tue,2021-03-23,2021,10:00p,Philadelphia 76ers,108,Golden State Warriors,98,,0,2020/2021,Mar,23,3
+639,Tue,2021-03-23,2021,10:00p,Brooklyn Nets,116,Portland Trail Blazers,112,,0,2020/2021,Mar,23,3
+640,Wed,2021-03-24,2021,7:00p,Detroit Pistons,111,Indiana Pacers,116,,0,2020/2021,Mar,24,3
+641,Wed,2021-03-24,2021,7:30p,Boston Celtics,119,Milwaukee Bucks,121,,3280,2020/2021,Mar,24,3
+642,Wed,2021-03-24,2021,7:30p,Denver Nuggets,111,Toronto Raptors,135,,1578,2020/2021,Mar,24,3
+643,Wed,2021-03-24,2021,8:00p,Cleveland Cavaliers,103,Chicago Bulls,94,,0,2020/2021,Mar,24,3
+644,Wed,2021-03-24,2021,8:00p,Charlotte Hornets,122,Houston Rockets,97,,3163,2020/2021,Mar,24,3
+645,Wed,2021-03-24,2021,8:00p,Dallas Mavericks,128,Minnesota Timberwolves,108,,0,2020/2021,Mar,24,3
+646,Wed,2021-03-24,2021,8:00p,Memphis Grizzlies,116,Oklahoma City Thunder,107,,0,2020/2021,Mar,24,3
+647,Wed,2021-03-24,2021,8:00p,Phoenix Suns,111,Orlando Magic,112,,3891,2020/2021,Mar,24,3
+648,Wed,2021-03-24,2021,8:30p,Los Angeles Clippers,134,San Antonio Spurs,101,,3224,2020/2021,Mar,24,3
+649,Wed,2021-03-24,2021,10:00p,Atlanta Hawks,108,Sacramento Kings,110,,0,2020/2021,Mar,24,3
+650,Wed,2021-03-24,2021,10:00p,Brooklyn Nets,88,Utah Jazz,118,,5546,2020/2021,Mar,24,3
+651,Thu,2021-03-25,2021,7:30p,Portland Trail Blazers,125,Miami Heat,122,,0,2020/2021,Mar,25,3
+652,Thu,2021-03-25,2021,7:30p,Washington Wizards,102,New York Knicks,106,,1817,2020/2021,Mar,25,3
+653,Thu,2021-03-25,2021,8:30p,Los Angeles Clippers,98,San Antonio Spurs,85,,3225,2020/2021,Mar,25,3
+654,Thu,2021-03-25,2021,10:00p,Philadelphia 76ers,109,Los Angeles Lakers,101,,0,2020/2021,Mar,25,3
+655,Thu,2021-03-25,2021,10:00p,Golden State Warriors,119,Sacramento Kings,141,,0,2020/2021,Mar,25,3
+656,Fri,2021-03-26,2021,7:00p,Brooklyn Nets,113,Detroit Pistons,111,,750,2020/2021,Mar,26,3
+657,Fri,2021-03-26,2021,7:30p,Boston Celtics,122,Milwaukee Bucks,114,,3280,2020/2021,Mar,26,3
+658,Fri,2021-03-26,2021,7:30p,Phoenix Suns,104,Toronto Raptors,100,,0,2020/2021,Mar,26,3
+659,Fri,2021-03-26,2021,8:00p,Miami Heat,105,Charlotte Hornets,110,,4215,2020/2021,Mar,26,3
+660,Fri,2021-03-26,2021,8:00p,Houston Rockets,101,Minnesota Timberwolves,107,,0,2020/2021,Mar,26,3
+661,Fri,2021-03-26,2021,8:00p,Denver Nuggets,113,New Orleans Pelicans,108,,3700,2020/2021,Mar,26,3
+662,Fri,2021-03-26,2021,8:00p,Portland Trail Blazers,112,Orlando Magic,105,,3827,2020/2021,Mar,26,3
+663,Fri,2021-03-26,2021,8:30p,Indiana Pacers,109,Dallas Mavericks,94,,4132,2020/2021,Mar,26,3
+664,Fri,2021-03-26,2021,9:00p,Memphis Grizzlies,114,Utah Jazz,117,,5546,2020/2021,Mar,26,3
+665,Fri,2021-03-26,2021,10:00p,Atlanta Hawks,124,Golden State Warriors,108,,0,2020/2021,Mar,26,3
+666,Fri,2021-03-26,2021,10:30p,Cleveland Cavaliers,86,Los Angeles Lakers,100,,0,2020/2021,Mar,26,3
+667,Sat,2021-03-27,2021,8:00p,New York Knicks,102,Milwaukee Bucks,96,,3280,2020/2021,Mar,27,3
+668,Sat,2021-03-27,2021,8:00p,Houston Rockets,129,Minnesota Timberwolves,107,,0,2020/2021,Mar,27,3
+669,Sat,2021-03-27,2021,8:00p,Detroit Pistons,92,Washington Wizards,106,,0,2020/2021,Mar,27,3
+670,Sat,2021-03-27,2021,8:30p,Chicago Bulls,104,San Antonio Spurs,120,,3334,2020/2021,Mar,27,3
+671,Sat,2021-03-27,2021,9:00p,Dallas Mavericks,103,New Orleans Pelicans,112,,3700,2020/2021,Mar,27,3
+672,Sat,2021-03-27,2021,9:00p,Boston Celtics,111,Oklahoma City Thunder,94,,0,2020/2021,Mar,27,3
+673,Sat,2021-03-27,2021,9:00p,Memphis Grizzlies,110,Utah Jazz,126,,5546,2020/2021,Mar,27,3
+674,Sat,2021-03-27,2021,10:00p,Philadelphia 76ers,112,Los Angeles Clippers,122,,0,2020/2021,Mar,27,3
+675,Sat,2021-03-27,2021,10:00p,Cleveland Cavaliers,98,Sacramento Kings,100,,0,2020/2021,Mar,27,3
+676,Sun,2021-03-28,2021,1:00p,Phoenix Suns,101,Charlotte Hornets,97,OT,3850,2020/2021,Mar,28,3
+677,Sun,2021-03-28,2021,7:00p,Portland Trail Blazers,122,Toronto Raptors,117,,2021,2020/2021,Mar,28,3
+678,Sun,2021-03-28,2021,9:00p,Atlanta Hawks,102,Denver Nuggets,126,,0,2020/2021,Mar,28,3
+679,Sun,2021-03-28,2021,10:00p,Orlando Magic,93,Los Angeles Lakers,96,,0,2020/2021,Mar,28,3
+680,Mon,2021-03-29,2021,7:00p,Indiana Pacers,124,Washington Wizards,132,,0,2020/2021,Mar,29,3
+681,Mon,2021-03-29,2021,7:30p,New Orleans Pelicans,115,Boston Celtics,109,,2298,2020/2021,Mar,29,3
+682,Mon,2021-03-29,2021,7:30p,Minnesota Timberwolves,107,Brooklyn Nets,112,,1732,2020/2021,Mar,29,3
+683,Mon,2021-03-29,2021,7:30p,Miami Heat,98,New York Knicks,88,,1981,2020/2021,Mar,29,3
+684,Mon,2021-03-29,2021,8:00p,Toronto Raptors,104,Detroit Pistons,118,,750,2020/2021,Mar,29,3
+685,Mon,2021-03-29,2021,8:00p,Memphis Grizzlies,120,Houston Rockets,110,,3319,2020/2021,Mar,29,3
+686,Mon,2021-03-29,2021,8:00p,Dallas Mavericks,127,Oklahoma City Thunder,106,,0,2020/2021,Mar,29,3
+687,Mon,2021-03-29,2021,8:30p,Sacramento Kings,132,San Antonio Spurs,115,,2876,2020/2021,Mar,29,3
+688,Mon,2021-03-29,2021,9:00p,Cleveland Cavaliers,75,Utah Jazz,114,,5546,2020/2021,Mar,29,3
+689,Mon,2021-03-29,2021,10:00p,Chicago Bulls,102,Golden State Warriors,116,,0,2020/2021,Mar,29,3
+690,Mon,2021-03-29,2021,10:00p,Milwaukee Bucks,105,Los Angeles Clippers,129,,0,2020/2021,Mar,29,3
+691,Tue,2021-03-30,2021,7:00p,Charlotte Hornets,114,Washington Wizards,104,,0,2020/2021,Mar,30,3
+692,Tue,2021-03-30,2021,9:00p,Philadelphia 76ers,95,Denver Nuggets,104,,3574,2020/2021,Mar,30,3
+693,Tue,2021-03-30,2021,10:00p,Orlando Magic,103,Los Angeles Clippers,96,,0,2020/2021,Mar,30,3
+694,Tue,2021-03-30,2021,10:00p,Atlanta Hawks,110,Phoenix Suns,117,,3173,2020/2021,Mar,30,3
+695,Wed,2021-03-31,2021,7:00p,Portland Trail Blazers,124,Detroit Pistons,101,,750,2020/2021,Mar,31,3
+696,Wed,2021-03-31,2021,7:00p,Miami Heat,92,Indiana Pacers,87,,0,2020/2021,Mar,31,3
+697,Wed,2021-03-31,2021,7:30p,Dallas Mavericks,113,Boston Celtics,108,,2298,2020/2021,Mar,31,3
+698,Wed,2021-03-31,2021,7:30p,Houston Rockets,108,Brooklyn Nets,120,,1773,2020/2021,Mar,31,3
+699,Wed,2021-03-31,2021,8:00p,Utah Jazz,111,Memphis Grizzlies,107,,2314,2020/2021,Mar,31,3
+700,Wed,2021-03-31,2021,8:00p,New York Knicks,101,Minnesota Timberwolves,102,,0,2020/2021,Mar,31,3
+701,Wed,2021-03-31,2021,8:00p,Toronto Raptors,103,Oklahoma City Thunder,113,,0,2020/2021,Mar,31,3
+702,Wed,2021-03-31,2021,8:30p,Sacramento Kings,106,San Antonio Spurs,120,,2802,2020/2021,Mar,31,3
+703,Wed,2021-03-31,2021,10:00p,Milwaukee Bucks,112,Los Angeles Lakers,97,,0,2020/2021,Mar,31,3
+704,Wed,2021-03-31,2021,10:00p,Chicago Bulls,116,Phoenix Suns,121,,3459,2020/2021,Mar,31,3
+705,Thu,2021-04-01,2021,7:00p,Philadelphia 76ers,114,Cleveland Cavaliers,94,,4100,2020/2021,Apr,1,4
+706,Thu,2021-04-01,2021,7:00p,Washington Wizards,91,Detroit Pistons,120,,750,2020/2021,Apr,1,4
+707,Thu,2021-04-01,2021,7:30p,Charlotte Hornets,89,Brooklyn Nets,111,,1773,2020/2021,Apr,1,4
+708,Thu,2021-04-01,2021,8:00p,Golden State Warriors,109,Miami Heat,116,,0,2020/2021,Apr,1,4
+709,Thu,2021-04-01,2021,8:00p,Orlando Magic,115,New Orleans Pelicans,110,OT,3700,2020/2021,Apr,1,4
+710,Thu,2021-04-01,2021,8:30p,Atlanta Hawks,134,San Antonio Spurs,129,2OT,2949,2020/2021,Apr,1,4
+711,Thu,2021-04-01,2021,10:00p,Denver Nuggets,101,Los Angeles Clippers,94,,0,2020/2021,Apr,1,4
+712,Fri,2021-04-02,2021,7:00p,Golden State Warriors,77,Toronto Raptors,130,,3085,2020/2021,Apr,2,4
+713,Fri,2021-04-02,2021,7:30p,Houston Rockets,102,Boston Celtics,118,,0,2020/2021,Apr,2,4
+714,Fri,2021-04-02,2021,7:30p,Dallas Mavericks,99,New York Knicks,86,,1981,2020/2021,Apr,2,4
+715,Fri,2021-04-02,2021,8:00p,Charlotte Hornets,114,Indiana Pacers,97,,0,2020/2021,Apr,2,4
+716,Fri,2021-04-02,2021,8:00p,Minnesota Timberwolves,108,Memphis Grizzlies,120,,2987,2020/2021,Apr,2,4
+717,Fri,2021-04-02,2021,9:00p,Atlanta Hawks,126,New Orleans Pelicans,103,,3700,2020/2021,Apr,2,4
+718,Fri,2021-04-02,2021,9:00p,Chicago Bulls,106,Utah Jazz,113,,5546,2020/2021,Apr,2,4
+719,Fri,2021-04-02,2021,10:00p,Oklahoma City Thunder,103,Phoenix Suns,140,,3422,2020/2021,Apr,2,4
+720,Fri,2021-04-02,2021,10:00p,Milwaukee Bucks,127,Portland Trail Blazers,109,,0,2020/2021,Apr,2,4
+721,Fri,2021-04-02,2021,10:00p,Los Angeles Lakers,115,Sacramento Kings,94,,0,2020/2021,Apr,2,4
+722,Sat,2021-04-03,2021,7:00p,Dallas Mavericks,109,Washington Wizards,87,,0,2020/2021,Apr,3,4
+723,Sat,2021-04-03,2021,8:00p,New York Knicks,125,Detroit Pistons,81,,750,2020/2021,Apr,3,4
+724,Sat,2021-04-03,2021,8:00p,Cleveland Cavaliers,101,Miami Heat,115,,0,2020/2021,Apr,3,4
+725,Sat,2021-04-03,2021,8:00p,Minnesota Timberwolves,113,Philadelphia 76ers,122,,3071,2020/2021,Apr,3,4
+726,Sat,2021-04-03,2021,9:00p,Indiana Pacers,139,San Antonio Spurs,133,OT,3276,2020/2021,Apr,3,4
+727,Sat,2021-04-03,2021,9:00p,Orlando Magic,91,Utah Jazz,137,,5546,2020/2021,Apr,3,4
+728,Sat,2021-04-03,2021,10:00p,Oklahoma City Thunder,85,Portland Trail Blazers,133,,0,2020/2021,Apr,3,4
+729,Sat,2021-04-03,2021,10:00p,Milwaukee Bucks,129,Sacramento Kings,128,,0,2020/2021,Apr,3,4
+730,Sun,2021-04-04,2021,2:00p,Brooklyn Nets,107,Chicago Bulls,115,,0,2020/2021,Apr,4,4
+731,Sun,2021-04-04,2021,3:30p,Los Angeles Lakers,86,Los Angeles Clippers,104,,0,2020/2021,Apr,4,4
+732,Sun,2021-04-04,2021,6:00p,Charlotte Hornets,86,Boston Celtics,116,,0,2020/2021,Apr,4,4
+733,Sun,2021-04-04,2021,7:00p,Memphis Grizzlies,116,Philadelphia 76ers,100,,4094,2020/2021,Apr,4,4
+734,Sun,2021-04-04,2021,7:30p,Golden State Warriors,111,Atlanta Hawks,117,,2937,2020/2021,Apr,4,4
+735,Sun,2021-04-04,2021,8:00p,New Orleans Pelicans,122,Houston Rockets,115,,3268,2020/2021,Apr,4,4
+736,Sun,2021-04-04,2021,10:00p,Orlando Magic,109,Denver Nuggets,119,,3927,2020/2021,Apr,4,4
+737,Mon,2021-04-05,2021,7:00p,New York Knicks,112,Brooklyn Nets,114,,1773,2020/2021,Apr,5,4
+738,Mon,2021-04-05,2021,7:00p,Utah Jazz,103,Dallas Mavericks,111,,4261,2020/2021,Apr,5,4
+739,Mon,2021-04-05,2021,7:00p,Sacramento Kings,106,Minnesota Timberwolves,116,,1436,2020/2021,Apr,5,4
+740,Mon,2021-04-05,2021,7:00p,Detroit Pistons,132,Oklahoma City Thunder,108,,0,2020/2021,Apr,5,4
+741,Mon,2021-04-05,2021,7:00p,Cleveland Cavaliers,125,San Antonio Spurs,101,,2482,2020/2021,Apr,5,4
+742,Mon,2021-04-05,2021,7:00p,Washington Wizards,101,Toronto Raptors,103,,1620,2020/2021,Apr,5,4
+743,Mon,2021-04-05,2021,8:00p,Phoenix Suns,133,Houston Rockets,130,,3093,2020/2021,Apr,5,4
+744,Tue,2021-04-06,2021,7:00p,Chicago Bulls,113,Indiana Pacers,97,,0,2020/2021,Apr,6,4
+745,Tue,2021-04-06,2021,7:30p,New Orleans Pelicans,107,Atlanta Hawks,123,,2816,2020/2021,Apr,6,4
+746,Tue,2021-04-06,2021,7:30p,Philadelphia 76ers,106,Boston Celtics,96,,2298,2020/2021,Apr,6,4
+747,Tue,2021-04-06,2021,7:30p,Los Angeles Lakers,110,Toronto Raptors,101,,0,2020/2021,Apr,6,4
+748,Tue,2021-04-06,2021,8:00p,Memphis Grizzlies,124,Miami Heat,112,,0,2020/2021,Apr,6,4
+749,Tue,2021-04-06,2021,9:00p,Detroit Pistons,119,Denver Nuggets,134,,3556,2020/2021,Apr,6,4
+750,Tue,2021-04-06,2021,10:00p,Milwaukee Bucks,121,Golden State Warriors,122,,0,2020/2021,Apr,6,4
+751,Tue,2021-04-06,2021,10:00p,Portland Trail Blazers,116,Los Angeles Clippers,133,,0,2020/2021,Apr,6,4
+752,Wed,2021-04-07,2021,7:00p,Minnesota Timberwolves,137,Indiana Pacers,141,,0,2020/2021,Apr,7,4
+753,Wed,2021-04-07,2021,7:00p,Washington Wizards,131,Orlando Magic,116,,3991,2020/2021,Apr,7,4
+754,Wed,2021-04-07,2021,7:30p,New York Knicks,99,Boston Celtics,101,,2298,2020/2021,Apr,7,4
+755,Wed,2021-04-07,2021,7:30p,New Orleans Pelicans,111,Brooklyn Nets,139,,1773,2020/2021,Apr,7,4
+756,Wed,2021-04-07,2021,8:00p,Memphis Grizzlies,131,Atlanta Hawks,113,,2774,2020/2021,Apr,7,4
+757,Wed,2021-04-07,2021,8:00p,Dallas Mavericks,93,Houston Rockets,102,,3399,2020/2021,Apr,7,4
+758,Wed,2021-04-07,2021,8:00p,Charlotte Hornets,113,Oklahoma City Thunder,102,,0,2020/2021,Apr,7,4
+759,Wed,2021-04-07,2021,9:00p,San Antonio Spurs,96,Denver Nuggets,106,,3715,2020/2021,Apr,7,4
+760,Wed,2021-04-07,2021,10:00p,Utah Jazz,113,Phoenix Suns,117,OT,5110,2020/2021,Apr,7,4
+761,Thu,2021-04-08,2021,7:30p,Los Angeles Lakers,104,Miami Heat,110,,0,2020/2021,Apr,8,4
+762,Thu,2021-04-08,2021,7:30p,Chicago Bulls,122,Toronto Raptors,113,,0,2020/2021,Apr,8,4
+763,Thu,2021-04-08,2021,8:00p,Cleveland Cavaliers,129,Oklahoma City Thunder,102,,0,2020/2021,Apr,8,4
+764,Thu,2021-04-08,2021,9:00p,Milwaukee Bucks,101,Dallas Mavericks,116,,4190,2020/2021,Apr,8,4
+765,Thu,2021-04-08,2021,10:00p,Phoenix Suns,103,Los Angeles Clippers,113,,0,2020/2021,Apr,8,4
+766,Thu,2021-04-08,2021,10:00p,Detroit Pistons,113,Sacramento Kings,101,,0,2020/2021,Apr,8,4
+767,Thu,2021-04-08,2021,10:00p,Portland Trail Blazers,103,Utah Jazz,122,,5546,2020/2021,Apr,8,4
+768,Fri,2021-04-09,2021,7:00p,Indiana Pacers,111,Orlando Magic,106,,3777,2020/2021,Apr,9,4
+769,Fri,2021-04-09,2021,7:30p,Minnesota Timberwolves,136,Boston Celtics,145,OT,2298,2020/2021,Apr,9,4
+770,Fri,2021-04-09,2021,7:30p,Memphis Grizzlies,129,New York Knicks,133,OT,1912,2020/2021,Apr,9,4
+771,Fri,2021-04-09,2021,8:00p,Chicago Bulls,108,Atlanta Hawks,120,,996,2020/2021,Apr,9,4
+772,Fri,2021-04-09,2021,8:00p,Philadelphia 76ers,94,New Orleans Pelicans,101,,3700,2020/2021,Apr,9,4
+773,Fri,2021-04-09,2021,9:00p,San Antonio Spurs,119,Denver Nuggets,121,,3750,2020/2021,Apr,9,4
+774,Fri,2021-04-09,2021,9:00p,Charlotte Hornets,127,Milwaukee Bucks,119,,3280,2020/2021,Apr,9,4
+775,Fri,2021-04-09,2021,10:00p,Washington Wizards,110,Golden State Warriors,107,,0,2020/2021,Apr,9,4
+776,Fri,2021-04-09,2021,10:00p,Houston Rockets,109,Los Angeles Clippers,126,,0,2020/2021,Apr,9,4
+777,Sat,2021-04-10,2021,7:30p,Toronto Raptors,135,Cleveland Cavaliers,115,,4148,2020/2021,Apr,10,4
+778,Sat,2021-04-10,2021,8:30p,Los Angeles Lakers,126,Brooklyn Nets,101,,1773,2020/2021,Apr,10,4
+779,Sat,2021-04-10,2021,9:00p,Philadelphia 76ers,117,Oklahoma City Thunder,93,,0,2020/2021,Apr,10,4
+780,Sat,2021-04-10,2021,9:00p,Sacramento Kings,112,Utah Jazz,128,,5546,2020/2021,Apr,10,4
+781,Sat,2021-04-10,2021,10:00p,Houston Rockets,109,Golden State Warriors,125,,0,2020/2021,Apr,10,4
+782,Sat,2021-04-10,2021,10:00p,Washington Wizards,106,Phoenix Suns,134,,5028,2020/2021,Apr,10,4
+783,Sat,2021-04-10,2021,10:00p,Detroit Pistons,103,Portland Trail Blazers,118,,0,2020/2021,Apr,10,4
+784,Sun,2021-04-11,2021,1:00p,Atlanta Hawks,105,Charlotte Hornets,101,,4148,2020/2021,Apr,11,4
+785,Sun,2021-04-11,2021,3:00p,Boston Celtics,105,Denver Nuggets,87,,4032,2020/2021,Apr,11,4
+786,Sun,2021-04-11,2021,7:00p,New Orleans Pelicans,116,Cleveland Cavaliers,109,,4148,2020/2021,Apr,11,4
+787,Sun,2021-04-11,2021,7:00p,Milwaukee Bucks,124,Orlando Magic,87,,3316,2020/2021,Apr,11,4
+788,Sun,2021-04-11,2021,8:00p,San Antonio Spurs,119,Dallas Mavericks,117,,4054,2020/2021,Apr,11,4
+789,Sun,2021-04-11,2021,8:00p,Indiana Pacers,132,Memphis Grizzlies,125,,2341,2020/2021,Apr,11,4
+790,Sun,2021-04-11,2021,8:00p,Chicago Bulls,117,Minnesota Timberwolves,121,,1436,2020/2021,Apr,11,4
+791,Sun,2021-04-11,2021,8:00p,Toronto Raptors,96,New York Knicks,102,,1833,2020/2021,Apr,11,4
+792,Sun,2021-04-11,2021,10:00p,Detroit Pistons,124,Los Angeles Clippers,131,,0,2020/2021,Apr,11,4
+793,Sun,2021-04-11,2021,10:00p,Miami Heat,107,Portland Trail Blazers,98,,0,2020/2021,Apr,11,4
+794,Mon,2021-04-12,2021,7:30p,Philadelphia 76ers,113,Dallas Mavericks,95,,4016,2020/2021,Apr,12,4
+795,Mon,2021-04-12,2021,7:30p,Los Angeles Lakers,96,New York Knicks,111,,1981,2020/2021,Apr,12,4
+796,Mon,2021-04-12,2021,8:00p,San Antonio Spurs,120,Orlando Magic,97,,3107,2020/2021,Apr,12,4
+797,Mon,2021-04-12,2021,9:00p,Chicago Bulls,90,Memphis Grizzlies,101,,2194,2020/2021,Apr,12,4
+798,Mon,2021-04-12,2021,9:00p,Sacramento Kings,110,New Orleans Pelicans,117,,3700,2020/2021,Apr,12,4
+799,Mon,2021-04-12,2021,9:00p,Washington Wizards,125,Utah Jazz,121,,5546,2020/2021,Apr,12,4
+800,Mon,2021-04-12,2021,10:00p,Denver Nuggets,107,Golden State Warriors,116,,0,2020/2021,Apr,12,4
+801,Mon,2021-04-12,2021,10:00p,Houston Rockets,120,Phoenix Suns,126,,4145,2020/2021,Apr,12,4
+802,Tue,2021-04-13,2021,4:00p,Brooklyn Nets,127,Minnesota Timberwolves,97,,0,2020/2021,Apr,13,4
+803,Tue,2021-04-13,2021,7:30p,Los Angeles Clippers,126,Indiana Pacers,115,,0,2020/2021,Apr,13,4
+804,Tue,2021-04-13,2021,7:30p,Atlanta Hawks,108,Toronto Raptors,103,,1427,2020/2021,Apr,13,4
+805,Tue,2021-04-13,2021,8:00p,Los Angeles Lakers,101,Charlotte Hornets,93,,3676,2020/2021,Apr,13,4
+806,Tue,2021-04-13,2021,9:00p,Oklahoma City Thunder,96,Utah Jazz,106,,5546,2020/2021,Apr,13,4
+807,Tue,2021-04-13,2021,10:00p,Miami Heat,86,Phoenix Suns,106,,5024,2020/2021,Apr,13,4
+808,Tue,2021-04-13,2021,10:00p,Boston Celtics,116,Portland Trail Blazers,115,,0,2020/2021,Apr,13,4
+809,Wed,2021-04-14,2021,4:30p,Milwaukee Bucks,130,Minnesota Timberwolves,105,,0,2020/2021,Apr,14,4
+810,Wed,2021-04-14,2021,7:00p,Cleveland Cavaliers,103,Charlotte Hornets,90,,2955,2020/2021,Apr,14,4
+811,Wed,2021-04-14,2021,7:00p,Brooklyn Nets,117,Philadelphia 76ers,123,,4094,2020/2021,Apr,14,4
+812,Wed,2021-04-14,2021,7:30p,San Antonio Spurs,112,Toronto Raptors,117,,1184,2020/2021,Apr,14,4
+813,Wed,2021-04-14,2021,8:00p,Orlando Magic,115,Chicago Bulls,106,,0,2020/2021,Apr,14,4
+814,Wed,2021-04-14,2021,8:00p,Los Angeles Clippers,100,Detroit Pistons,98,,750,2020/2021,Apr,14,4
+815,Wed,2021-04-14,2021,8:00p,New York Knicks,116,New Orleans Pelicans,106,,3700,2020/2021,Apr,14,4
+816,Wed,2021-04-14,2021,9:00p,Indiana Pacers,132,Houston Rockets,124,,3293,2020/2021,Apr,14,4
+817,Wed,2021-04-14,2021,9:00p,Golden State Warriors,147,Oklahoma City Thunder,109,,0,2020/2021,Apr,14,4
+818,Wed,2021-04-14,2021,9:30p,Dallas Mavericks,114,Memphis Grizzlies,113,,2141,2020/2021,Apr,14,4
+819,Wed,2021-04-14,2021,10:00p,Miami Heat,106,Denver Nuggets,123,,4017,2020/2021,Apr,14,4
+820,Wed,2021-04-14,2021,10:00p,Washington Wizards,123,Sacramento Kings,111,,0,2020/2021,Apr,14,4
+821,Thu,2021-04-15,2021,7:30p,Milwaukee Bucks,120,Atlanta Hawks,109,,0,2020/2021,Apr,15,4
+822,Thu,2021-04-15,2021,8:00p,Golden State Warriors,119,Cleveland Cavaliers,101,,4148,2020/2021,Apr,15,4
+823,Thu,2021-04-15,2021,10:00p,Boston Celtics,121,Los Angeles Lakers,113,,1915,2020/2021,Apr,15,4
+824,Thu,2021-04-15,2021,10:00p,Sacramento Kings,114,Phoenix Suns,122,,4568,2020/2021,Apr,15,4
+825,Fri,2021-04-16,2021,3:00p,Indiana Pacers,111,Utah Jazz,119,,5546,2020/2021,Apr,16,4
+826,Fri,2021-04-16,2021,7:00p,Oklahoma City Thunder,104,Detroit Pistons,110,,750,2020/2021,Apr,16,4
+827,Fri,2021-04-16,2021,7:00p,Los Angeles Clippers,103,Philadelphia 76ers,106,,4094,2020/2021,Apr,16,4
+828,Fri,2021-04-16,2021,7:00p,New Orleans Pelicans,115,Washington Wizards,117,OT,0,2020/2021,Apr,16,4
+829,Fri,2021-04-16,2021,7:30p,Charlotte Hornets,115,Brooklyn Nets,130,,1773,2020/2021,Apr,16,4
+830,Fri,2021-04-16,2021,7:30p,Orlando Magic,102,Toronto Raptors,113,,0,2020/2021,Apr,16,4
+831,Fri,2021-04-16,2021,8:00p,Memphis Grizzlies,126,Chicago Bulls,115,,0,2020/2021,Apr,16,4
+832,Fri,2021-04-16,2021,8:00p,Denver Nuggets,128,Houston Rockets,99,,3342,2020/2021,Apr,16,4
+833,Fri,2021-04-16,2021,8:00p,Miami Heat,111,Minnesota Timberwolves,119,,1638,2020/2021,Apr,16,4
+834,Fri,2021-04-16,2021,8:30p,Portland Trail Blazers,107,San Antonio Spurs,106,,4303,2020/2021,Apr,16,4
+835,Fri,2021-04-16,2021,9:30p,New York Knicks,117,Dallas Mavericks,109,,4246,2020/2021,Apr,16,4
+836,Sat,2021-04-17,2021,4:30p,Utah Jazz,115,Los Angeles Lakers,127,OT,1710,2020/2021,Apr,17,4
+837,Sat,2021-04-17,2021,8:00p,Cleveland Cavaliers,96,Chicago Bulls,106,,0,2020/2021,Apr,17,4
+838,Sat,2021-04-17,2021,8:00p,Detroit Pistons,100,Washington Wizards,121,,0,2020/2021,Apr,17,4
+839,Sat,2021-04-17,2021,8:30p,Golden State Warriors,114,Boston Celtics,119,,2298,2020/2021,Apr,17,4
+840,Sat,2021-04-17,2021,9:00p,Memphis Grizzlies,128,Milwaukee Bucks,115,,3280,2020/2021,Apr,17,4
+841,Sat,2021-04-17,2021,10:00p,San Antonio Spurs,111,Phoenix Suns,85,,5078,2020/2021,Apr,17,4
+842,Sun,2021-04-18,2021,1:00p,Indiana Pacers,117,Atlanta Hawks,129,,0,2020/2021,Apr,18,4
+843,Sun,2021-04-18,2021,1:00p,New Orleans Pelicans,112,New York Knicks,122,OT,1981,2020/2021,Apr,18,4
+844,Sun,2021-04-18,2021,3:30p,Brooklyn Nets,107,Miami Heat,109,,0,2020/2021,Apr,18,4
+845,Sun,2021-04-18,2021,7:00p,Portland Trail Blazers,101,Charlotte Hornets,109,,3880,2020/2021,Apr,18,4
+846,Sun,2021-04-18,2021,7:00p,Houston Rockets,114,Orlando Magic,110,,3772,2020/2021,Apr,18,4
+847,Sun,2021-04-18,2021,7:00p,Oklahoma City Thunder,106,Toronto Raptors,112,,0,2020/2021,Apr,18,4
+848,Sun,2021-04-18,2021,7:30p,Sacramento Kings,121,Dallas Mavericks,107,,4193,2020/2021,Apr,18,4
+849,Sun,2021-04-18,2021,10:00p,Minnesota Timberwolves,105,Los Angeles Clippers,124,,1734,2020/2021,Apr,18,4
+850,Mon,2021-04-19,2021,7:00p,Cleveland Cavaliers,105,Detroit Pistons,109,,750,2020/2021,Apr,19,4
+851,Mon,2021-04-19,2021,7:30p,Chicago Bulls,102,Boston Celtics,96,,0,2020/2021,Apr,19,4
+852,Mon,2021-04-19,2021,7:30p,Golden State Warriors,107,Philadelphia 76ers,96,,4094,2020/2021,Apr,19,4
+853,Mon,2021-04-19,2021,8:00p,San Antonio Spurs,109,Indiana Pacers,94,,0,2020/2021,Apr,19,4
+854,Mon,2021-04-19,2021,8:00p,Houston Rockets,91,Miami Heat,113,,0,2020/2021,Apr,19,4
+855,Mon,2021-04-19,2021,8:00p,Phoenix Suns,128,Milwaukee Bucks,127,OT,3280,2020/2021,Apr,19,4
+856,Mon,2021-04-19,2021,8:00p,Oklahoma City Thunder,107,Washington Wizards,119,,0,2020/2021,Apr,19,4
+857,Mon,2021-04-19,2021,9:00p,Memphis Grizzlies,137,Denver Nuggets,139,2OT,4005,2020/2021,Apr,19,4
+858,Mon,2021-04-19,2021,10:00p,Utah Jazz,111,Los Angeles Lakers,97,,1709,2020/2021,Apr,19,4
+859,Tue,2021-04-20,2021,7:30p,Orlando Magic,96,Atlanta Hawks,112,,2219,2020/2021,Apr,20,4
+860,Tue,2021-04-20,2021,7:30p,Brooklyn Nets,134,New Orleans Pelicans,129,,3700,2020/2021,Apr,20,4
+861,Tue,2021-04-20,2021,7:30p,Charlotte Hornets,97,New York Knicks,109,,1753,2020/2021,Apr,20,4
+862,Tue,2021-04-20,2021,10:00p,Los Angeles Clippers,113,Portland Trail Blazers,112,,0,2020/2021,Apr,20,4
+863,Tue,2021-04-20,2021,10:00p,Minnesota Timberwolves,134,Sacramento Kings,120,,0,2020/2021,Apr,20,4
+864,Wed,2021-04-21,2021,7:00p,Chicago Bulls,105,Cleveland Cavaliers,121,,0,2020/2021,Apr,21,4
+865,Wed,2021-04-21,2021,7:00p,Oklahoma City Thunder,116,Indiana Pacers,122,,0,2020/2021,Apr,21,4
+866,Wed,2021-04-21,2021,7:00p,Phoenix Suns,116,Philadelphia 76ers,113,,4094,2020/2021,Apr,21,4
+867,Wed,2021-04-21,2021,7:00p,Brooklyn Nets,103,Toronto Raptors,114,,0,2020/2021,Apr,21,4
+868,Wed,2021-04-21,2021,7:00p,Golden State Warriors,114,Washington Wizards,118,,2133,2020/2021,Apr,21,4
+869,Wed,2021-04-21,2021,8:00p,Utah Jazz,112,Houston Rockets,89,,3253,2020/2021,Apr,21,4
+870,Wed,2021-04-21,2021,8:00p,Atlanta Hawks,127,New York Knicks,137,OT,1981,2020/2021,Apr,21,4
+871,Wed,2021-04-21,2021,8:30p,Detroit Pistons,117,Dallas Mavericks,127,,4043,2020/2021,Apr,21,4
+872,Wed,2021-04-21,2021,8:30p,Miami Heat,107,San Antonio Spurs,87,,4229,2020/2021,Apr,21,4
+873,Wed,2021-04-21,2021,10:00p,Memphis Grizzlies,105,Los Angeles Clippers,117,,1782,2020/2021,Apr,21,4
+874,Wed,2021-04-21,2021,10:00p,Denver Nuggets,106,Portland Trail Blazers,105,,0,2020/2021,Apr,21,4
+875,Wed,2021-04-21,2021,10:00p,Minnesota Timberwolves,125,Sacramento Kings,128,,0,2020/2021,Apr,21,4
+876,Thu,2021-04-22,2021,7:00p,Phoenix Suns,86,Boston Celtics,99,,2298,2020/2021,Apr,22,4
+877,Thu,2021-04-22,2021,7:00p,Philadelphia 76ers,117,Milwaukee Bucks,124,,3280,2020/2021,Apr,22,4
+878,Thu,2021-04-22,2021,7:00p,New Orleans Pelicans,135,Orlando Magic,100,,3411,2020/2021,Apr,22,4
+879,Thu,2021-04-22,2021,8:30p,Detroit Pistons,91,San Antonio Spurs,106,,3334,2020/2021,Apr,22,4
+880,Thu,2021-04-22,2021,9:00p,Charlotte Hornets,91,Chicago Bulls,108,,0,2020/2021,Apr,22,4
+881,Thu,2021-04-22,2021,9:30p,Los Angeles Lakers,110,Dallas Mavericks,115,,4443,2020/2021,Apr,22,4
+882,Fri,2021-04-23,2021,7:30p,Miami Heat,103,Atlanta Hawks,118,,2985,2020/2021,Apr,23,4
+883,Fri,2021-04-23,2021,7:30p,Boston Celtics,104,Brooklyn Nets,109,,1773,2020/2021,Apr,23,4
+884,Fri,2021-04-23,2021,8:00p,Cleveland Cavaliers,102,Charlotte Hornets,108,,4060,2020/2021,Apr,23,4
+885,Fri,2021-04-23,2021,8:00p,Los Angeles Clippers,109,Houston Rockets,104,,3313,2020/2021,Apr,23,4
+886,Fri,2021-04-23,2021,8:00p,Washington Wizards,129,Oklahoma City Thunder,109,,0,2020/2021,Apr,23,4
+887,Fri,2021-04-23,2021,10:00p,Denver Nuggets,97,Golden State Warriors,118,,1935,2020/2021,Apr,23,4
+888,Fri,2021-04-23,2021,10:00p,Memphis Grizzlies,130,Portland Trail Blazers,128,,0,2020/2021,Apr,23,4
+889,Sat,2021-04-24,2021,1:00p,Toronto Raptors,103,New York Knicks,120,,1981,2020/2021,Apr,24,4
+890,Sat,2021-04-24,2021,3:30p,Philadelphia 76ers,94,Milwaukee Bucks,132,,3280,2020/2021,Apr,24,4
+891,Sat,2021-04-24,2021,7:00p,Detroit Pistons,109,Indiana Pacers,115,,0,2020/2021,Apr,24,4
+892,Sat,2021-04-24,2021,8:00p,Chicago Bulls,101,Miami Heat,106,,0,2020/2021,Apr,24,4
+893,Sat,2021-04-24,2021,8:00p,San Antonio Spurs,110,New Orleans Pelicans,108,,3700,2020/2021,Apr,24,4
+894,Sat,2021-04-24,2021,8:30p,Los Angeles Lakers,93,Dallas Mavericks,108,,4561,2020/2021,Apr,24,4
+895,Sat,2021-04-24,2021,9:00p,Minnesota Timberwolves,101,Utah Jazz,96,,0,2020/2021,Apr,24,4
+896,Sat,2021-04-24,2021,10:00p,Houston Rockets,116,Denver Nuggets,129,,4035,2020/2021,Apr,24,4
+897,Sun,2021-04-25,2021,1:00p,Boston Celtics,104,Charlotte Hornets,125,,4493,2020/2021,Apr,25,4
+898,Sun,2021-04-25,2021,3:30p,Phoenix Suns,119,Brooklyn Nets,128,,1773,2020/2021,Apr,25,4
+899,Sun,2021-04-25,2021,4:00p,Memphis Grizzlies,120,Portland Trail Blazers,113,,0,2020/2021,Apr,25,4
+900,Sun,2021-04-25,2021,7:00p,Cleveland Cavaliers,110,Washington Wizards,119,,2133,2020/2021,Apr,25,4
+901,Sun,2021-04-25,2021,7:30p,Milwaukee Bucks,104,Atlanta Hawks,111,,3010,2020/2021,Apr,25,4
+902,Sun,2021-04-25,2021,8:00p,Indiana Pacers,131,Orlando Magic,112,,3519,2020/2021,Apr,25,4
+903,Sun,2021-04-25,2021,10:00p,Sacramento Kings,113,Golden State Warriors,117,,3252,2020/2021,Apr,25,4
+904,Mon,2021-04-26,2021,7:00p,Atlanta Hawks,86,Detroit Pistons,100,,750,2020/2021,Apr,26,4
+905,Mon,2021-04-26,2021,7:00p,Los Angeles Lakers,114,Orlando Magic,103,,4099,2020/2021,Apr,26,4
+906,Mon,2021-04-26,2021,7:00p,Oklahoma City Thunder,90,Philadelphia 76ers,121,,4094,2020/2021,Apr,26,4
+907,Mon,2021-04-26,2021,7:00p,San Antonio Spurs,146,Washington Wizards,143,OT,2133,2020/2021,Apr,26,4
+908,Mon,2021-04-26,2021,7:30p,Phoenix Suns,118,New York Knicks,110,,1981,2020/2021,Apr,26,4
+909,Mon,2021-04-26,2021,7:30p,Cleveland Cavaliers,96,Toronto Raptors,112,,1626,2020/2021,Apr,26,4
+910,Mon,2021-04-26,2021,8:00p,Chicago Bulls,110,Miami Heat,102,,0,2020/2021,Apr,26,4
+911,Mon,2021-04-26,2021,8:00p,Utah Jazz,104,Minnesota Timberwolves,105,,1638,2020/2021,Apr,26,4
+912,Mon,2021-04-26,2021,8:00p,Los Angeles Clippers,103,New Orleans Pelicans,120,,3700,2020/2021,Apr,26,4
+913,Mon,2021-04-26,2021,9:00p,Memphis Grizzlies,96,Denver Nuggets,120,,3823,2020/2021,Apr,26,4
+914,Mon,2021-04-26,2021,10:00p,Dallas Mavericks,106,Sacramento Kings,113,,0,2020/2021,Apr,26,4
+915,Tue,2021-04-27,2021,7:00p,Oklahoma City Thunder,119,Boston Celtics,115,,2298,2020/2021,Apr,27,4
+916,Tue,2021-04-27,2021,7:00p,Milwaukee Bucks,114,Charlotte Hornets,104,,3240,2020/2021,Apr,27,4
+917,Tue,2021-04-27,2021,7:00p,Portland Trail Blazers,133,Indiana Pacers,112,,0,2020/2021,Apr,27,4
+918,Tue,2021-04-27,2021,7:30p,Brooklyn Nets,116,Toronto Raptors,103,,0,2020/2021,Apr,27,4
+919,Tue,2021-04-27,2021,9:00p,Minnesota Timberwolves,114,Houston Rockets,107,,3225,2020/2021,Apr,27,4
+920,Tue,2021-04-27,2021,9:30p,Dallas Mavericks,133,Golden State Warriors,103,,3613,2020/2021,Apr,27,4
+921,Wed,2021-04-28,2021,7:00p,Orlando Magic,109,Cleveland Cavaliers,104,,4148,2020/2021,Apr,28,4
+922,Wed,2021-04-28,2021,7:00p,Atlanta Hawks,83,Philadelphia 76ers,127,,4094,2020/2021,Apr,28,4
+923,Wed,2021-04-28,2021,7:30p,Charlotte Hornets,111,Boston Celtics,120,,2298,2020/2021,Apr,28,4
+924,Wed,2021-04-28,2021,7:30p,Chicago Bulls,94,New York Knicks,113,,1981,2020/2021,Apr,28,4
+925,Wed,2021-04-28,2021,7:30p,Los Angeles Lakers,107,Washington Wizards,116,,2133,2020/2021,Apr,28,4
+926,Wed,2021-04-28,2021,8:00p,San Antonio Spurs,111,Miami Heat,116,,0,2020/2021,Apr,28,4
+927,Wed,2021-04-28,2021,9:00p,New Orleans Pelicans,112,Denver Nuggets,114,,4022,2020/2021,Apr,28,4
+928,Wed,2021-04-28,2021,9:00p,Portland Trail Blazers,130,Memphis Grizzlies,109,,3427,2020/2021,Apr,28,4
+929,Wed,2021-04-28,2021,10:00p,Los Angeles Clippers,101,Phoenix Suns,109,,5917,2020/2021,Apr,28,4
+930,Wed,2021-04-28,2021,10:00p,Utah Jazz,154,Sacramento Kings,105,,0,2020/2021,Apr,28,4
+931,Thu,2021-04-29,2021,7:00p,Dallas Mavericks,115,Detroit Pistons,105,,750,2020/2021,Apr,29,4
+932,Thu,2021-04-29,2021,7:00p,Brooklyn Nets,130,Indiana Pacers,113,,0,2020/2021,Apr,29,4
+933,Thu,2021-04-29,2021,8:00p,Milwaukee Bucks,136,Houston Rockets,143,,3232,2020/2021,Apr,29,4
+934,Thu,2021-04-29,2021,8:00p,Golden State Warriors,114,Minnesota Timberwolves,126,,1638,2020/2021,Apr,29,4
+935,Thu,2021-04-29,2021,9:00p,Toronto Raptors,111,Denver Nuggets,121,,4025,2020/2021,Apr,29,4
+936,Thu,2021-04-29,2021,9:00p,New Orleans Pelicans,109,Oklahoma City Thunder,95,,0,2020/2021,Apr,29,4
+937,Fri,2021-04-30,2021,7:00p,Atlanta Hawks,104,Philadelphia 76ers,126,,4094,2020/2021,Apr,30,4
+938,Fri,2021-04-30,2021,7:30p,San Antonio Spurs,140,Boston Celtics,143,OT,2298,2020/2021,Apr,30,4
+939,Fri,2021-04-30,2021,7:30p,Washington Wizards,122,Cleveland Cavaliers,93,,4148,2020/2021,Apr,30,4
+940,Fri,2021-04-30,2021,8:00p,Portland Trail Blazers,128,Brooklyn Nets,109,,1773,2020/2021,Apr,30,4
+941,Fri,2021-04-30,2021,8:00p,Orlando Magic,75,Memphis Grizzlies,92,,2850,2020/2021,Apr,30,4
+942,Fri,2021-04-30,2021,9:00p,Milwaukee Bucks,108,Chicago Bulls,98,,0,2020/2021,Apr,30,4
+943,Fri,2021-04-30,2021,10:00p,Utah Jazz,100,Phoenix Suns,121,,6065,2020/2021,Apr,30,4
+944,Fri,2021-04-30,2021,10:30p,Sacramento Kings,110,Los Angeles Lakers,106,,2691,2020/2021,Apr,30,4
+945,Sat,2021-05-01,2021,7:00p,Detroit Pistons,94,Charlotte Hornets,107,,3766,2020/2021,May,1,5
+946,Sat,2021-05-01,2021,7:30p,Golden State Warriors,113,Houston Rockets,87,,3702,2020/2021,May,1,5
+947,Sat,2021-05-01,2021,8:00p,Chicago Bulls,97,Atlanta Hawks,108,,3053,2020/2021,May,1,5
+948,Sat,2021-05-01,2021,8:00p,Miami Heat,124,Cleveland Cavaliers,107,,4148,2020/2021,May,1,5
+949,Sat,2021-05-01,2021,8:00p,New Orleans Pelicans,140,Minnesota Timberwolves,136,OT,1638,2020/2021,May,1,5
+950,Sat,2021-05-01,2021,8:00p,Indiana Pacers,152,Oklahoma City Thunder,95,,0,2020/2021,May,1,5
+951,Sat,2021-05-01,2021,8:00p,Memphis Grizzlies,111,Orlando Magic,112,,3924,2020/2021,May,1,5
+952,Sat,2021-05-01,2021,9:00p,Washington Wizards,124,Dallas Mavericks,125,,4351,2020/2021,May,1,5
+953,Sat,2021-05-01,2021,10:00p,Denver Nuggets,110,Los Angeles Clippers,104,,2818,2020/2021,May,1,5
+954,Sat,2021-05-01,2021,10:00p,Toronto Raptors,102,Utah Jazz,106,,6506,2020/2021,May,1,5
+955,Sun,2021-05-02,2021,3:30p,Brooklyn Nets,114,Milwaukee Bucks,117,,3280,2020/2021,May,2,5
+956,Sun,2021-05-02,2021,7:30p,Portland Trail Blazers,129,Boston Celtics,119,,0,2020/2021,May,2,5
+957,Sun,2021-05-02,2021,8:00p,Miami Heat,121,Charlotte Hornets,111,,4095,2020/2021,May,2,5
+958,Sun,2021-05-02,2021,8:00p,Sacramento Kings,111,Dallas Mavericks,99,,4268,2020/2021,May,2,5
+959,Sun,2021-05-02,2021,8:00p,New York Knicks,122,Houston Rockets,97,,3431,2020/2021,May,2,5
+960,Sun,2021-05-02,2021,8:00p,Phoenix Suns,123,Oklahoma City Thunder,120,,0,2020/2021,May,2,5
+961,Sun,2021-05-02,2021,8:00p,Philadelphia 76ers,113,San Antonio Spurs,111,OT,3978,2020/2021,May,2,5
+962,Sun,2021-05-02,2021,10:00p,Toronto Raptors,121,Los Angeles Lakers,114,,2053,2020/2021,May,2,5
+963,Mon,2021-05-03,2021,7:00p,Orlando Magic,119,Detroit Pistons,112,,750,2020/2021,May,3,5
+964,Mon,2021-05-03,2021,7:00p,Indiana Pacers,141,Washington Wizards,154,,0,2020/2021,May,3,5
+965,Mon,2021-05-03,2021,7:30p,Golden State Warriors,123,New Orleans Pelicans,108,,3700,2020/2021,May,3,5
+966,Mon,2021-05-03,2021,8:00p,Portland Trail Blazers,114,Atlanta Hawks,123,,3091,2020/2021,May,3,5
+967,Mon,2021-05-03,2021,9:00p,Philadelphia 76ers,106,Chicago Bulls,94,,0,2020/2021,May,3,5
+968,Mon,2021-05-03,2021,9:00p,New York Knicks,118,Memphis Grizzlies,104,,2789,2020/2021,May,3,5
+969,Mon,2021-05-03,2021,10:00p,Denver Nuggets,89,Los Angeles Lakers,93,,2454,2020/2021,May,3,5
+970,Mon,2021-05-03,2021,10:00p,San Antonio Spurs,99,Utah Jazz,110,,6506,2020/2021,May,3,5
+971,Tue,2021-05-04,2021,7:00p,Phoenix Suns,134,Cleveland Cavaliers,118,OT,4148,2020/2021,May,4,5
+972,Tue,2021-05-04,2021,7:00p,Charlotte Hornets,102,Detroit Pistons,99,,750,2020/2021,May,4,5
+973,Tue,2021-05-04,2021,7:30p,Brooklyn Nets,118,Milwaukee Bucks,124,,3280,2020/2021,May,4,5
+974,Tue,2021-05-04,2021,8:00p,Dallas Mavericks,127,Miami Heat,113,,0,2020/2021,May,4,5
+975,Tue,2021-05-04,2021,8:00p,Golden State Warriors,103,New Orleans Pelicans,108,,3700,2020/2021,May,4,5
+976,Tue,2021-05-04,2021,8:00p,Sacramento Kings,103,Oklahoma City Thunder,99,,0,2020/2021,May,4,5
+977,Tue,2021-05-04,2021,10:00p,Toronto Raptors,100,Los Angeles Clippers,105,,1714,2020/2021,May,4,5
+978,Wed,2021-05-05,2021,7:00p,Boston Celtics,132,Orlando Magic,96,,0,2020/2021,May,5,5
+979,Wed,2021-05-05,2021,7:30p,Portland Trail Blazers,141,Cleveland Cavaliers,105,,4148,2020/2021,May,5,5
+980,Wed,2021-05-05,2021,8:00p,Phoenix Suns,103,Atlanta Hawks,135,,3205,2020/2021,May,5,5
+981,Wed,2021-05-05,2021,8:00p,Philadelphia 76ers,135,Houston Rockets,115,,3583,2020/2021,May,5,5
+982,Wed,2021-05-05,2021,8:00p,Sacramento Kings,104,Indiana Pacers,93,,0,2020/2021,May,5,5
+983,Wed,2021-05-05,2021,8:00p,Washington Wizards,134,Milwaukee Bucks,135,,3280,2020/2021,May,5,5
+984,Wed,2021-05-05,2021,8:00p,Memphis Grizzlies,139,Minnesota Timberwolves,135,,1436,2020/2021,May,5,5
+985,Wed,2021-05-05,2021,9:00p,New York Knicks,97,Denver Nuggets,113,,4038,2020/2021,May,5,5
+986,Wed,2021-05-05,2021,9:00p,San Antonio Spurs,94,Utah Jazz,126,,6506,2020/2021,May,5,5
+987,Thu,2021-05-06,2021,7:00p,Chicago Bulls,120,Charlotte Hornets,99,,3769,2020/2021,May,6,5
+988,Thu,2021-05-06,2021,7:30p,Brooklyn Nets,109,Dallas Mavericks,113,,4602,2020/2021,May,6,5
+989,Thu,2021-05-06,2021,7:30p,Washington Wizards,131,Toronto Raptors,129,OT,2494,2020/2021,May,6,5
+990,Thu,2021-05-06,2021,8:00p,Memphis Grizzlies,97,Detroit Pistons,111,,750,2020/2021,May,6,5
+991,Thu,2021-05-06,2021,8:00p,Atlanta Hawks,126,Indiana Pacers,133,,0,2020/2021,May,6,5
+992,Thu,2021-05-06,2021,10:00p,Oklahoma City Thunder,97,Golden State Warriors,118,,3621,2020/2021,May,6,5
+993,Thu,2021-05-06,2021,10:00p,Los Angeles Lakers,94,Los Angeles Clippers,118,,3275,2020/2021,May,6,5
+994,Fri,2021-05-07,2021,7:00p,New Orleans Pelicans,107,Philadelphia 76ers,109,,5119,2020/2021,May,7,5
+995,Fri,2021-05-07,2021,7:30p,Boston Celtics,99,Chicago Bulls,121,,3399,2020/2021,May,7,5
+996,Fri,2021-05-07,2021,8:00p,Orlando Magic,112,Charlotte Hornets,122,,3751,2020/2021,May,7,5
+997,Fri,2021-05-07,2021,8:00p,Minnesota Timberwolves,112,Miami Heat,121,,0,2020/2021,May,7,5
+998,Fri,2021-05-07,2021,8:00p,Houston Rockets,133,Milwaukee Bucks,141,,3280,2020/2021,May,7,5
+999,Fri,2021-05-07,2021,8:30p,Cleveland Cavaliers,90,Dallas Mavericks,110,,4220,2020/2021,May,7,5
+1000,Fri,2021-05-07,2021,9:00p,Denver Nuggets,120,Utah Jazz,127,,6506,2020/2021,May,7,5
+1001,Fri,2021-05-07,2021,10:00p,New York Knicks,105,Phoenix Suns,128,,8063,2020/2021,May,7,5
+1002,Fri,2021-05-07,2021,10:00p,Los Angeles Lakers,101,Portland Trail Blazers,106,,0,2020/2021,May,7,5
+1003,Fri,2021-05-07,2021,10:00p,San Antonio Spurs,113,Sacramento Kings,104,,0,2020/2021,May,7,5
+1004,Sat,2021-05-08,2021,7:00p,Washington Wizards,133,Indiana Pacers,132,OT,0,2020/2021,May,8,5
+1005,Sat,2021-05-08,2021,7:00p,Detroit Pistons,104,Philadelphia 76ers,118,,5119,2020/2021,May,8,5
+1006,Sat,2021-05-08,2021,7:30p,Memphis Grizzlies,109,Toronto Raptors,99,,0,2020/2021,May,8,5
+1007,Sat,2021-05-08,2021,10:00p,Brooklyn Nets,125,Denver Nuggets,119,,4044,2020/2021,May,8,5
+1008,Sat,2021-05-08,2021,10:00p,Oklahoma City Thunder,97,Golden State Warriors,136,,4155,2020/2021,May,8,5
+1009,Sat,2021-05-08,2021,10:00p,San Antonio Spurs,102,Portland Trail Blazers,124,,1939,2020/2021,May,8,5
+1010,Sat,2021-05-08,2021,10:00p,Houston Rockets,116,Utah Jazz,124,,6506,2020/2021,May,8,5
+1011,Sun,2021-05-09,2021,1:00p,Miami Heat,130,Boston Celtics,124,,2298,2020/2021,May,9,5
+1012,Sun,2021-05-09,2021,3:30p,New York Knicks,106,Los Angeles Clippers,100,,2578,2020/2021,May,9,5
+1013,Sun,2021-05-09,2021,7:00p,New Orleans Pelicans,112,Charlotte Hornets,110,,4196,2020/2021,May,9,5
+1014,Sun,2021-05-09,2021,7:00p,Dallas Mavericks,124,Cleveland Cavaliers,97,,4148,2020/2021,May,9,5
+1015,Sun,2021-05-09,2021,7:00p,Minnesota Timberwolves,128,Orlando Magic,96,,4086,2020/2021,May,9,5
+1016,Sun,2021-05-09,2021,8:00p,Chicago Bulls,108,Detroit Pistons,96,,750,2020/2021,May,9,5
+1017,Sun,2021-05-09,2021,10:00p,Phoenix Suns,110,Los Angeles Lakers,123,,3144,2020/2021,May,9,5
+1018,Sun,2021-05-09,2021,10:00p,Oklahoma City Thunder,98,Sacramento Kings,126,,0,2020/2021,May,9,5
+1019,Mon,2021-05-10,2021,7:30p,Washington Wizards,124,Atlanta Hawks,125,,3054,2020/2021,May,10,5
+1020,Mon,2021-05-10,2021,7:30p,Indiana Pacers,111,Cleveland Cavaliers,102,,4148,2020/2021,May,10,5
+1021,Mon,2021-05-10,2021,8:00p,New Orleans Pelicans,110,Memphis Grizzlies,115,,2507,2020/2021,May,10,5
+1022,Mon,2021-05-10,2021,8:30p,Milwaukee Bucks,125,San Antonio Spurs,146,,3992,2020/2021,May,10,5
+1023,Mon,2021-05-10,2021,10:00p,Utah Jazz,116,Golden State Warriors,119,,4155,2020/2021,May,10,5
+1024,Mon,2021-05-10,2021,10:00p,Houston Rockets,129,Portland Trail Blazers,140,,1939,2020/2021,May,10,5
+1025,Tue,2021-05-11,2021,7:00p,Denver Nuggets,117,Charlotte Hornets,112,,3997,2020/2021,May,11,5
+1026,Tue,2021-05-11,2021,7:00p,Minnesota Timberwolves,119,Detroit Pistons,100,,750,2020/2021,May,11,5
+1027,Tue,2021-05-11,2021,7:30p,Miami Heat,129,Boston Celtics,121,,4789,2020/2021,May,11,5
+1028,Tue,2021-05-11,2021,7:30p,Los Angeles Clippers,115,Toronto Raptors,96,,0,2020/2021,May,11,5
+1029,Tue,2021-05-11,2021,8:00p,Brooklyn Nets,115,Chicago Bulls,107,,3434,2020/2021,May,11,5
+1030,Tue,2021-05-11,2021,8:00p,Philadelphia 76ers,94,Indiana Pacers,103,,0,2020/2021,May,11,5
+1031,Tue,2021-05-11,2021,8:00p,Dallas Mavericks,104,Memphis Grizzlies,133,,2684,2020/2021,May,11,5
+1032,Tue,2021-05-11,2021,9:00p,Orlando Magic,102,Milwaukee Bucks,114,,3280,2020/2021,May,11,5
+1033,Tue,2021-05-11,2021,10:00p,Phoenix Suns,116,Golden State Warriors,122,,4155,2020/2021,May,11,5
+1034,Tue,2021-05-11,2021,10:00p,New York Knicks,99,Los Angeles Lakers,101,OT,3550,2020/2021,May,11,5
+1035,Tue,2021-05-11,2021,10:00p,Oklahoma City Thunder,106,Sacramento Kings,122,,0,2020/2021,May,11,5
+1036,Wed,2021-05-12,2021,7:00p,Washington Wizards,116,Atlanta Hawks,120,,3120,2020/2021,May,12,5
+1037,Wed,2021-05-12,2021,8:00p,San Antonio Spurs,116,Brooklyn Nets,128,,1773,2020/2021,May,12,5
+1038,Wed,2021-05-12,2021,8:00p,Boston Celtics,94,Cleveland Cavaliers,102,,4148,2020/2021,May,12,5
+1039,Wed,2021-05-12,2021,9:00p,New Orleans Pelicans,107,Dallas Mavericks,125,,4373,2020/2021,May,12,5
+1040,Wed,2021-05-12,2021,9:30p,Portland Trail Blazers,105,Utah Jazz,98,,6506,2020/2021,May,12,5
+1041,Wed,2021-05-12,2021,10:30p,Houston Rockets,122,Los Angeles Lakers,124,,4087,2020/2021,May,12,5
+1042,Thu,2021-05-13,2021,7:00p,Los Angeles Clippers,113,Charlotte Hornets,90,,4442,2020/2021,May,13,5
+1043,Thu,2021-05-13,2021,7:00p,Milwaukee Bucks,142,Indiana Pacers,133,,0,2020/2021,May,13,5
+1044,Thu,2021-05-13,2021,7:30p,Orlando Magic,93,Atlanta Hawks,116,,2910,2020/2021,May,13,5
+1045,Thu,2021-05-13,2021,7:30p,Philadelphia 76ers,94,Miami Heat,106,,0,2020/2021,May,13,5
+1046,Thu,2021-05-13,2021,7:30p,San Antonio Spurs,98,New York Knicks,102,,1981,2020/2021,May,13,5
+1047,Thu,2021-05-13,2021,8:00p,Toronto Raptors,102,Chicago Bulls,114,,3395,2020/2021,May,13,5
+1048,Thu,2021-05-13,2021,8:00p,Sacramento Kings,110,Memphis Grizzlies,116,,2876,2020/2021,May,13,5
+1049,Thu,2021-05-13,2021,8:00p,Denver Nuggets,114,Minnesota Timberwolves,103,,1638,2020/2021,May,13,5
+1050,Thu,2021-05-13,2021,10:00p,Portland Trail Blazers,117,Phoenix Suns,118,,8359,2020/2021,May,13,5
+1051,Fri,2021-05-14,2021,7:00p,Cleveland Cavaliers,105,Washington Wizards,120,,5333,2020/2021,May,14,5
+1052,Fri,2021-05-14,2021,8:00p,Denver Nuggets,104,Detroit Pistons,91,,750,2020/2021,May,14,5
+1053,Fri,2021-05-14,2021,8:00p,Utah Jazz,109,Oklahoma City Thunder,93,,0,2020/2021,May,14,5
+1054,Fri,2021-05-14,2021,8:00p,Orlando Magic,97,Philadelphia 76ers,122,,5119,2020/2021,May,14,5
+1055,Fri,2021-05-14,2021,9:00p,Toronto Raptors,110,Dallas Mavericks,114,,4493,2020/2021,May,14,5
+1056,Fri,2021-05-14,2021,9:00p,Los Angeles Clippers,115,Houston Rockets,122,,3803,2020/2021,May,14,5
+1057,Fri,2021-05-14,2021,9:00p,Sacramento Kings,106,Memphis Grizzlies,107,,3502,2020/2021,May,14,5
+1058,Fri,2021-05-14,2021,9:30p,New Orleans Pelicans,122,Golden State Warriors,125,,4155,2020/2021,May,14,5
+1059,Sat,2021-05-15,2021,1:00p,Chicago Bulls,91,Brooklyn Nets,105,,1773,2020/2021,May,15,5
+1060,Sat,2021-05-15,2021,1:00p,Los Angeles Lakers,122,Indiana Pacers,115,,0,2020/2021,May,15,5
+1061,Sat,2021-05-15,2021,1:00p,Charlotte Hornets,109,New York Knicks,118,OT,1981,2020/2021,May,15,5
+1062,Sat,2021-05-15,2021,2:00p,Boston Celtics,124,Minnesota Timberwolves,108,,1638,2020/2021,May,15,5
+1063,Sat,2021-05-15,2021,2:00p,Phoenix Suns,140,San Antonio Spurs,103,,4848,2020/2021,May,15,5
+1064,Sat,2021-05-15,2021,8:00p,Miami Heat,108,Milwaukee Bucks,122,,3280,2020/2021,May,15,5
+1065,Sun,2021-05-16,2021,1:00p,Boston Celtics,92,New York Knicks,96,,1981,2020/2021,May,16,5
+1066,Sun,2021-05-16,2021,1:00p,Indiana Pacers,125,Toronto Raptors,113,,0,2020/2021,May,16,5
+1067,Sun,2021-05-16,2021,1:00p,Charlotte Hornets,110,Washington Wizards,115,,5333,2020/2021,May,16,5
+1068,Sun,2021-05-16,2021,2:00p,Phoenix Suns,123,San Antonio Spurs,121,,4738,2020/2021,May,16,5
+1069,Sun,2021-05-16,2021,3:30p,Memphis Grizzlies,101,Golden State Warriors,113,,4416,2020/2021,May,16,5
+1070,Sun,2021-05-16,2021,7:00p,Houston Rockets,95,Atlanta Hawks,124,,3045,2020/2021,May,16,5
+1071,Sun,2021-05-16,2021,7:00p,Cleveland Cavaliers,109,Brooklyn Nets,123,,1773,2020/2021,May,16,5
+1072,Sun,2021-05-16,2021,7:00p,Orlando Magic,117,Philadelphia 76ers,128,,5119,2020/2021,May,16,5
+1073,Sun,2021-05-16,2021,8:00p,Miami Heat,120,Detroit Pistons,107,,750,2020/2021,May,16,5
+1074,Sun,2021-05-16,2021,9:00p,Milwaukee Bucks,112,Chicago Bulls,118,,3427,2020/2021,May,16,5
+1075,Sun,2021-05-16,2021,9:00p,Dallas Mavericks,121,Minnesota Timberwolves,136,,1638,2020/2021,May,16,5
+1076,Sun,2021-05-16,2021,9:00p,Los Angeles Lakers,110,New Orleans Pelicans,98,,3700,2020/2021,May,16,5
+1077,Sun,2021-05-16,2021,9:00p,Los Angeles Clippers,112,Oklahoma City Thunder,117,,0,2020/2021,May,16,5
+1078,Sun,2021-05-16,2021,9:00p,Denver Nuggets,116,Portland Trail Blazers,132,,1939,2020/2021,May,16,5
+1079,Sun,2021-05-16,2021,9:00p,Utah Jazz,121,Sacramento Kings,99,,0,2020/2021,May,16,5

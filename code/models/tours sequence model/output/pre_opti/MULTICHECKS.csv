@@ -1,0 +1,5 @@
+game_week_day;game_date;game_year;game_time;visitor;visitor_pts;home;home_pts;overtime;att;season;game_month;game_day;game_month_number;original_date;reschedule_type;reschedule;day_difference;n_games;Team
+Wed;2021-02-17;2021;8:00p;Detroit Pistons;102;Chicago Bulls;105;;0;2020/2021;Feb;17;2;2021-02-17;;0.0;;2;Chicago Bulls
+Thu;2021-05-06;2021;7:00p;Chicago Bulls;120;Charlotte Hornets;99;;3769;2020/2021;May;6;5;2021-02-17;covid;1.0;78.0;2;Chicago Bulls
+Wed;2021-02-17;2021;8:00p;Detroit Pistons;102;Chicago Bulls;105;;0;2020/2021;Feb;17;2;2021-02-17;;0.0;;2;Detroit Pistons
+Wed;2021-04-21;2021;8:30p;Detroit Pistons;117;Dallas Mavericks;127;;4043;2020/2021;Apr;21;4;2021-02-17;non-covid;1.0;63.0;2;Detroit Pistons

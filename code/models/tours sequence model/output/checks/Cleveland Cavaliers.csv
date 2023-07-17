@@ -1,0 +1,3 @@
+﻿game_week_day,game_date,game_year,game_time,visitor,visitor_pts,home,home_pts,overtime,att,season,game_month,game_day,game_month_number,original_date,reschedule_type,reschedule,day_difference,final_date,NewReschedule,partidos
+Mon,2021-02-01,2021,8:00p,Minnesota Timberwolves,98,Cleveland Cavaliers,100,,0,2020/2021,Feb,1,2,2021-02-01,,0.0,,2021-02-01,,2
+Wed,2021-02-03,2021,8:00p,Los Angeles Clippers,121,Cleveland Cavaliers,99,,1944,2020/2021,Feb,3,2,2021-02-01,,0.0,,2021-02-03,,2
